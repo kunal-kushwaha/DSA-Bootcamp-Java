@@ -51,7 +51,7 @@
     - Newton's Square Root Method
     - Number Theory
     - Euclidean algorithm
-    - Advanced Concepts for CP (later in course)
+    - Advanced Concepts for CP (later in the course)
         - Bitwise + DP
         - Extended Euclidean algorithm
         - Modulo Properties
@@ -68,6 +68,7 @@
     - Shadowing
     - Variable Length Arguments
     - (more content in OOP such as overloading etc)
+
 - Recursion
     - Introduction
     - Why recursion?
@@ -98,7 +99,7 @@
     - Complexity discussion of all the problems we do
     - Space Complexity 
     - Memory Allocation of various languages
-    - NP Completeness and Hardness
+    - NP-Completeness and Hardness
 - Object Oriented Programming
     - Introduction
     - Classes & its instances
