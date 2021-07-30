@@ -128,7 +128,7 @@
     - Fast and slow pointer
     - Cycle Detection
     - Single and Doubly LinkedList
-    - Reversalof LinekdList
+    - Reversal of LinkedList
 - Dynamic Programming
     - Introduction
     - Recursion + Recursion DP + Iteration + Iteration Space Optimized
@@ -175,7 +175,7 @@
     - Minimum Spanning Trees
     - Kruskal Algorithm
     - Prims Algorithm
-    - Dijkstra’s shortest path algorithm
+    - Djikstra’s shortest path algorithm
     - Topological Sort
     - Bellman ford
     - A* pathfinding Algorithm
