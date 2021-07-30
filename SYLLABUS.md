@@ -1,7 +1,7 @@
 # Complete Java + DSA Bootcamp Syllabus
 
 ## NOTE: 
-- All topics will contain problems from LeetCode Easy to Hard, explained in an easy to understand manner.
+- All topics will contain problems from LeetCode Easy to Hard, explained in an easy-to-understand manner.
 - Complete Custom Implementation of all Data Structures and Algorithms.
 
 ## Lectures
@@ -57,7 +57,7 @@
         - Modulo Properties
         - Modulo Multiplicative Inverse
         - Linear Diophantine Equations
-        - Fremat's Theorem
+        - Fermat’s Theorem
         - Wilson's Theorem
         - Lucas Theorem
         - Chinese Remainder Theorem
@@ -70,7 +70,7 @@
     - (more content in OOP such as overloading etc)
 - Space and Time Complexity Analysis
     - Introduction
-    - Comparion of various cases
+    - Comparisons of various cases
     - Solving Linear Recurrence Relations
     - Solving Divide and Conquer Recurrence Relations
     - Big-O, Big-Omega, Big-Theta Notations
@@ -128,7 +128,7 @@
     - Fast and slow pointer
     - Cycle Detection
     - Single and Doubly LinkedList
-    - Reversalof LinekdList
+    - Reversal of LinkedList
 - Dynamic Programming
     - Introduction
     - Recursion + Recursion DP + Iteration + Iteration Space Optimized
@@ -136,7 +136,7 @@
     - 0/1 Knapsack
     - Subset Questions
     - Unbounded Knapsack
-    - Subseq questions
+    - Subsequence questions
     - String DP
 - Trees
     - Introduction
@@ -156,7 +156,7 @@
     - k-way merge
     - top k elements
     - interval problems
-- Hashmaps
+- HashMap
     - Introduction
     - Theory - how it works
     - Comparisons of various forms
