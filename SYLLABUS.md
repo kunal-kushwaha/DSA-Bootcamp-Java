@@ -2,7 +2,7 @@
 
 ## NOTE: 
 - All topics will contain problems from LeetCode Easy to Hard, explained in an easy-to-understand manner.
-- Complete Custom Implementation of all Data Structures and Algorithms.
+- Complete custom implementation of all Data Structures and Algorithms.
 
 ## Lectures
 - Introduction to Git
@@ -68,17 +68,7 @@
     - Shadowing
     - Variable Length Arguments
     - (more content in OOP such as overloading etc)
-- Space and Time Complexity Analysis
-    - Introduction
-    - Comparisons of various cases
-    - Solving Linear Recurrence Relations
-    - Solving Divide and Conquer Recurrence Relations
-    - Big-O, Big-Omega, Big-Theta Notations
-    - Get equation of any relation easily - best and easiest approach
-    - Complexity discussion of all the problems we do
-    - Space Complexity 
-    - Memory Allocation of various languages
-    - NP-Completeness and Hardness
+
 - Recursion
     - Introduction
     - Why recursion?
@@ -99,6 +89,17 @@
     - Recursion Array Problems
     - Recursion Pattern Problems
     - Subset Questions
+- Space and Time Complexity Analysis
+    - Introduction
+    - Comparisons of various cases
+    - Solving Linear Recurrence Relations
+    - Solving Divide and Conquer Recurrence Relations
+    - Big-O, Big-Omega, Big-Theta Notations
+    - Get equation of any relation easily - best and easiest approach
+    - Complexity discussion of all the problems we do
+    - Space Complexity 
+    - Memory Allocation of various languages
+    - NP-Completeness and Hardness
 - Object Oriented Programming
     - Introduction
     - Classes & its instances
