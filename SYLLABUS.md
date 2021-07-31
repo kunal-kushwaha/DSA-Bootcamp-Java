@@ -155,8 +155,8 @@
     - Priority Queue
     - Two Heaps Method
     - k-way merge
-    - top k elements
-    - interval problems
+    - Top k elements
+    - Interval problems
 - HashMap
     - Introduction
     - Theory - how it works
