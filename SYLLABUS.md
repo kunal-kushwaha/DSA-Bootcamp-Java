@@ -28,6 +28,7 @@
         - Bubble Sort
         - Count Sort
         - Radix Sort
+        - Cyclic Sort
     - Searching
         - Linear Search 
         - Binary Search
@@ -79,7 +80,6 @@
     - Sorting:
         - Merge Sort
         - Quick Sort
-        - Cyclic Sort
     - Backtracking
         - Sudoku Solver
         - N-Queens
