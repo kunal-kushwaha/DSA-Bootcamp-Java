@@ -1,8 +1,8 @@
 # Complete Java + DSA Bootcamp Syllabus
 
 ## NOTE: 
-- All topics will contain problems from LeetCode Easy to Hard, explained in an easy to understand manner.
-- Complete Custom Implementation of all Data Structures and Algorithms.
+- All topics will contain problems from LeetCode Easy to Hard, explained in an easy-to-understand manner.
+- Complete custom implementation of all Data Structures and Algorithms.
 
 ## Lectures
 - Introduction to Git
@@ -28,6 +28,7 @@
         - Bubble Sort
         - Count Sort
         - Radix Sort
+        - Cyclic Sort
     - Searching
         - Linear Search 
         - Binary Search
@@ -51,13 +52,13 @@
     - Newton's Square Root Method
     - Number Theory
     - Euclidean algorithm
-    - Advanced Concepts for CP (later in course)
+    - Advanced Concepts for CP (later in the course)
         - Bitwise + DP
         - Extended Euclidean algorithm
         - Modulo Properties
         - Modulo Multiplicative Inverse
         - Linear Diophantine Equations
-        - Fremat's Theorem
+        - Fermat’s Theorem
         - Wilson's Theorem
         - Lucas Theorem
         - Chinese Remainder Theorem
@@ -68,17 +69,7 @@
     - Shadowing
     - Variable Length Arguments
     - (more content in OOP such as overloading etc)
-- Space and Time Complexity Analysis
-    - Introduction
-    - Comparion of various cases
-    - Solving Linear Recurrence Relations
-    - Solving Divide and Conquer Recurrence Relations
-    - Big-O, Big-Omega, Big-Theta Notations
-    - Get equation of any relation easily - best and easiest approach
-    - Complexity discussion of all the problems we do
-    - Space Complexity 
-    - Memory Allocation of various languages
-    - NP Completeness and Hardness
+
 - Recursion
     - Introduction
     - Why recursion?
@@ -89,7 +80,6 @@
     - Sorting:
         - Merge Sort
         - Quick Sort
-        - Cyclic Sort
     - Backtracking
         - Sudoku Solver
         - N-Queens
@@ -99,6 +89,17 @@
     - Recursion Array Problems
     - Recursion Pattern Problems
     - Subset Questions
+- Space and Time Complexity Analysis
+    - Introduction
+    - Comparisons of various cases
+    - Solving Linear Recurrence Relations
+    - Solving Divide and Conquer Recurrence Relations
+    - Big-O, Big-Omega, Big-Theta Notations
+    - Get equation of any relation easily - best and easiest approach
+    - Complexity discussion of all the problems we do
+    - Space Complexity 
+    - Memory Allocation of various languages
+    - NP-Completeness and Hardness
 - Object Oriented Programming
     - Introduction
     - Classes & its instances
@@ -128,7 +129,7 @@
     - Fast and slow pointer
     - Cycle Detection
     - Single and Doubly LinkedList
-    - Reversalof LinekdList
+    - Reversal of LinkedList
 - Dynamic Programming
     - Introduction
     - Recursion + Recursion DP + Iteration + Iteration Space Optimized
@@ -136,7 +137,7 @@
     - 0/1 Knapsack
     - Subset Questions
     - Unbounded Knapsack
-    - Subseq questions
+    - Subsequence questions
     - String DP
 - Trees
     - Introduction
@@ -154,9 +155,9 @@
     - Priority Queue
     - Two Heaps Method
     - k-way merge
-    - top k elements
-    - interval problems
-- Hashmaps
+    - Top k elements
+    - Interval problems
+- HashMap
     - Introduction
     - Theory - how it works
     - Comparisons of various forms
