@@ -3,7 +3,7 @@
 - [Subscribe to our channel](https://www.youtube.com/KunalKushwaha?sub_confirmation=1)
 - [Complete Playlist](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
 - [Syllabus](SYLLABUS.md)
-- [Discord for discussions](https://discord.gg/K9kxUXvfND)
+- [Discord for discussions](https://discord.io/commclassroom)
 - [Telegram for announcements](https://t.me/commclassroom)
 
 ### Connect with me
