@@ -6,7 +6,7 @@
 - [Discord for discussions](https://discord.io/commclassroom)
 - [Telegram for announcements](https://telegram.me/commclassroom)
 
-### Connect with me
+### Stay tuned with me
 - [Twitter](https://twitter.com/kunalstwt)
 - [LinkedIn](https://www.linkedin.com/in/kunal-kushwaha/)
 - [Instagram](https://www.instagram.com/kunalsig/)
