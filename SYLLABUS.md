@@ -1,6 +1,6 @@
 # Complete Java + DSA Bootcamp Syllabus
 
-## NOTE: 
+## NOTE:
 - All topics will contain problems from LeetCode Easy to Hard, explained in an easy-to-understand manner.
 - Complete custom implementation of all Data Structures and Algorithms.
 
@@ -14,7 +14,7 @@
     - Pseudocode
 - Introduction to Java
     - Introduction
-    - How it works 
+    - How it works
     - Setup Installation
     - Input and Output in Java
     - Data-types
@@ -32,7 +32,7 @@
         - Radix Sort
         - Cyclic Sort
     - Searching
-        - Linear Search 
+        - Linear Search
         - Binary Search
         - Modified Binary Search
         - (more later)
@@ -99,7 +99,7 @@
     - Big-O, Big-Omega, Big-Theta Notations
     - Get equation of any relation easily - best and easiest approach
     - Complexity discussion of all the problems we do
-    - Space Complexity 
+    - Space Complexity
     - Memory Allocation of various languages
     - NP-Completeness and Hardness
 - Object Oriented Programming
@@ -176,7 +176,7 @@
     - DFS
     - Working with graph components
     - Minimum Spanning Trees
-    - Kruskal Algorithm
+    - Kruskal's algorithm
     - Prims Algorithm
     - Dijkstra’s shortest path algorithm
     - Topological Sort
