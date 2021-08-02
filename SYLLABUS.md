@@ -8,8 +8,10 @@
 - Introduction to Git
 - Introduction to Programming
     - Types of languages
-    - Flowcharts & Pseudocode
-    - Flow of the program
+    - Memory management
+- Flow of the program
+    - Flowcharts
+    - Pseudocode
 - Introduction to Java
     - Introduction
     - How it works 
