@@ -15,7 +15,7 @@
 - Introduction to Java
     - Introduction
     - How it works 
-    - Setup Installation
+    - Setup and Installation
     - Input and Output in Java
     - Data-types
     - Coding best practices
@@ -36,7 +36,7 @@
         - Binary Search
         - Modified Binary Search
         - (more later)
-    - Sliding window
+    - Sliding Window
     - Two Pointer
     - Subarray Questions
 - Strings
