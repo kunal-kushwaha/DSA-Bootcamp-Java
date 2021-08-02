@@ -15,10 +15,10 @@
 - Introduction to Java
     - Introduction
     - How it works 
-    - Setup Installation
+    - Setup and Installation
     - Input and Output in Java
-    - Data-types
-    - Coding best practices
+    - Data-types in Java
+    - Best coding practices
 - Arrays
     - Introduction
     - Memory management
@@ -36,15 +36,15 @@
         - Binary Search
         - Modified Binary Search
         - (more later)
-    - Sliding window
+    - Sliding Window
     - Two Pointer
     - Subarray Questions
 - Strings
     - Introduction
     - How Strings work
     - Comparison of methods
-    - Operations in Strings
-    - StringBuilder in java
+    - Operations on Strings
+    - StringBuilder in Java
 - Maths for DSA
     - Introduction
     - Complete Bitwise Operators
@@ -129,10 +129,10 @@
 - Linked List
     - Introduction
     - Fast and slow pointer
-    - Cycle Detection
-    - Single and Doubly LinkedList
-    - Reversal of LinkedList
-- Dynamic Programming
+    - Cycle Detection Algorithm
+    - Single and Doubly Linked List
+    - Reversal of a LinkedList
+- Dynamic Programming (DP)
     - Introduction
     - Recursion + Recursion DP + Iteration + Iteration Space Optimized
     - Complexity Analysis
@@ -172,8 +172,8 @@
 - Tries
 - Graphs
     - Introduction
-    - BFS
-    - DFS
+    - BFS (Breadth First Search)
+    - DFS (Depth First Search)
     - Working with graph components
     - Minimum Spanning Trees
     - Kruskal Algorithm
