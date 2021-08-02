@@ -24,6 +24,7 @@
     - Memory management
     - Input and Output
     - ArrayList Introduction
+    - ArrayList Implementation
     - Sorting
         - Insertion Sort
         - Selection Sort
@@ -45,6 +46,7 @@
     - Comparison of methods
     - Operations in Strings
     - StringBuilder in java
+    - Pattern Matching Algorithms
 - Maths for DSA
     - Introduction
     - Complete Bitwise Operators
@@ -71,7 +73,6 @@
     - Shadowing
     - Variable Length Arguments
     - (more content in OOP such as overloading etc)
-
 - Recursion
     - Introduction
     - Why recursion?
@@ -90,7 +91,8 @@
     - Recursion String Problems
     - Recursion Array Problems
     - Recursion Pattern Problems
-    - Subset Questions
+    - Divide & Conquer Problems
+    - Subset Problems
 - Space and Time Complexity Analysis
     - Introduction
     - Comparisons of various cases
@@ -119,19 +121,22 @@
     - Singleton Class
     - final, finalize, finally
     - Exception Handling
+- Linked List
+    - Introduction
+    - LinkedList Implementation
+    - Fast and slow pointer
+    - Cycle Detection
+    - Single, Doubly & Circular LinkedList
+    - Reversal of LinkedList
 - Stacks & Queues
     - Introduction
+    - Stack Implementation using Arrays & LinkedList
+    - Queue Implementation using Arrays & LinkedList
     - Interview problems
     - Push efficient
     - Pop efficient
     - Queue using Stack and Vice versa
     - Circular Queue
-- Linked List
-    - Introduction
-    - Fast and slow pointer
-    - Cycle Detection
-    - Single and Doubly LinkedList
-    - Reversal of LinkedList
 - Dynamic Programming
     - Introduction
     - Recursion + Recursion DP + Iteration + Iteration Space Optimized
@@ -143,8 +148,8 @@
     - String DP
 - Trees
     - Introduction
-    - Binary Trees
-    - Binary Search Trees
+    - Binary Trees / Implementation
+    - Binary Search Trees / Implementation
     - DFS
     - BFS
     - AVL Trees
@@ -154,6 +159,7 @@
 - Heaps
     - Introduction
     - Theory
+    - Heap Implementation
     - Priority Queue
     - Two Heaps Method
     - k-way merge
@@ -164,14 +170,17 @@
     - Theory - how it works
     - Comparisons of various forms
     - Limitations and how to solve
-    - Map using LinkedList
-    - Map using Hash
+    - Map using LinkedList Implementation
+    - Map using Hash Implementation
     - Chaining
     - Probing
     - Huffman-Encoder
 - Tries
+    - Tries Implementation
+    - Pattern Matching Using Trie
 - Graphs
-    - Introduction
+    - Introduction 
+    - Various Graph Representations & Implementations
     - BFS
     - DFS
     - Working with graph components
