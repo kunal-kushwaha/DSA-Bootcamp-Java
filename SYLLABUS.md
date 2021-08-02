@@ -176,7 +176,7 @@
     - DFS
     - Working with graph components
     - Minimum Spanning Trees
-    - Kruskal's algorithm
+    - Kruskal's Algorithm
     - Prims Algorithm
     - Dijkstra’s shortest path algorithm
     - Topological Sort
