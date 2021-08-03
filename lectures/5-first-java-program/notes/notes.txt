@@ -1,18 +1,9 @@
-Don’t add .java files in src
-
 Terminal: echo $PATH	# This is where it looks for the applications that we want to open.
-
-Why do we humans use decimal number system?
--Because people have 10 fingers
 
 Class name always starts with a capital letter.
 
 To understand code and see control flow, debug the code after putting breakpoint.
 We can also change the values in debugger window to see what will happen at a particular value.
-
-A reference is an address that indicates where an object's variables and methods are stored.
-You aren't actually using objects when you assign an object to a variable or pass an object to a method as an argument.
-You aren't even using copies of the objects. Instead, you're using references to those objects.
 
 Input:
 class Scanner to scan something i.e. Input something
