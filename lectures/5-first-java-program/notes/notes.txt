@@ -1,5 +1,3 @@
-Don’t add .java files in src
-
 Terminal: echo $PATH	# This is where it looks for the applications that we want to open.
 
 Why do we humans use decimal number system?
