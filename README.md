@@ -12,7 +12,6 @@
 - [Instagram](https://www.instagram.com/kunalsig/)
 
 ### Follow Community Classroom
-<p align="center">
 
   <a href="https://www.youtube.com/c/KunalKushwaha">
     <img width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />
@@ -31,5 +30,4 @@
   </a>&ensp;
   <a href="https://t.me/commclassroom">
     <img width="30px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" />
-  </a><br>
-</p>  
+  </a> 
