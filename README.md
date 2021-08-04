@@ -14,7 +14,7 @@
 ### Follow Community Classroom
 
  
-  <a href="https://discord.gg/K9kxUXvfND">
+  <a href="https://discord.io/commclassroom">
     <img width="30px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" />
   </a>&ensp;
   <a href="https://twitter.com/commclassroom/">
