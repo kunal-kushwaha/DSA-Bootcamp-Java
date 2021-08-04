@@ -5,7 +5,7 @@
 - Complete custom implementation of all Data Structures and Algorithms.
 
 ## Lectures
-- Introduction to Git
+- Complete Git & GitHub Course
 - Introduction to Programming
     - Types of languages
     - Memory management
