@@ -13,9 +13,7 @@
 
 ### Follow Community Classroom
 
-  <a href="https://www.youtube.com/c/KunalKushwaha">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />
-  </a>&ensp;
+ 
   <a href="https://discord.gg/K9kxUXvfND">
     <img width="30px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" />
   </a>&ensp;
