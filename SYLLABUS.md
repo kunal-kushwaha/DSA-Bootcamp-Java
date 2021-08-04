@@ -6,6 +6,10 @@
 
 ## Lectures
 - Introduction to Git
+    - What is Git and Github?
+    - Installation
+    - Basic linux commands
+    - Fork, Pull, Push, Merge, etc.
 - Introduction to Programming
     - Types of languages
     - Memory management
