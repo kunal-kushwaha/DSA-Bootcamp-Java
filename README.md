@@ -12,6 +12,20 @@
 - [Instagram](https://www.instagram.com/kunalsig/)
 
 ### Follow Community Classroom
-- [Twitter](https://twitter.com/commclassroom)
-- [LinkedIn](https://www.linkedin.com/company/commclassroom)
-- [Instagram](https://www.instagram.com/commclassroom)
+
+ 
+  <a href="https://discord.io/commclassroom">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" />
+  </a>&ensp;
+  <a href="https://twitter.com/commclassroom/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+  </a>&ensp;
+  <a href="https://www.linkedin.com/company/commclassroom/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>&ensp;
+  <a href="https://www.instagram.com/commclassroom/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+  </a>&ensp;
+  <a href="https://t.me/commclassroom">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" />
+  </a> 
