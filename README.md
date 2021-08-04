@@ -33,6 +33,3 @@
     <img width="30px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" />
   </a><br>
 </p>  
-- [Twitter](https://twitter.com/commclassroom)
-- [LinkedIn](https://www.linkedin.com/company/commclassroom)
-- [Instagram](https://www.instagram.com/commclassroom)
