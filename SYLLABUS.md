@@ -5,11 +5,7 @@
 - Complete custom implementation of all Data Structures and Algorithms.
 
 ## Lectures
-- Introduction to Git
-    - What is Git and Github?
-    - Installation
-    - Basic linux commands
-    - Fork, Pull, Push, Merge, etc.
+- Complete Git & GitHub Course
 - Introduction to Programming
     - Types of languages
     - Memory management
