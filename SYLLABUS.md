@@ -71,7 +71,6 @@
     - Shadowing
     - Variable Length Arguments
     - (more content in OOP such as overloading etc)
-
 - Recursion
     - Introduction
     - Why recursion?
@@ -118,7 +117,9 @@
     - Abstract Classes
     - Singleton Class
     - final, finalize, finally
+    - Object Class
     - Exception Handling
+    - Fast IO
 - Stacks & Queues
     - Introduction
     - Interview problems
