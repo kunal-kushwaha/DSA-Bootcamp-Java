@@ -1,0 +1,26 @@
+--------------------------------------JDK SETUP GUIDE------------------------------------------------
+
+(Windows) : How to setup JDK paths and install intelliJ Idea : https://youtu.be/EMLTOMdIz4w
+(Mac OS)  : How to setup JDK paths and install intelliJ Idea : https://youtu.be/8BrZ7CMrNe8
+
+-----------------------------------------------------------------------------------------------------
+
+-If you have downloaded JDK SE 16 and you are facing this error
+
+Error : Could not find or load main class com.abc.Main
+Caused by : java.lang.ClassNotFoundException: com.abc.Main
+
+then, follow these steps to fix the issue 
+
+1. Make sure you have added the path variable. Follow the link at top to set path variable.
+
+2. If this fixed the issue you are good to go. If it did not, follow Step 3.
+
+3. Uninstall JDK SE 16 and install JDK SE 11 instead.
+
+4. After this set the path in Environment variable. Follow the link at top to set path variable.
+
+5. This should fix the issue. If it did not, try to get help in the discord server.
+
+
+
