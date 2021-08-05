@@ -1,7 +1,7 @@
 package com.kunal;
 
 import java.util.Scanner;
-
+prim
 public class LargestNumber {
 
     public static void main(String[] args) {
