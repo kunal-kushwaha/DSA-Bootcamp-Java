@@ -12,20 +12,18 @@ public class Prime {
             return;
         }
         int c = 2;
-        if (n == 4) {
-            System.out.println("Not prime");
-        } else {
-            while (c * c <= n) {
-                if (n % c == 0) {
-                    System.out.println("Not Prime");
-                    return;
-                }
-                c = c + 1;
-                // c++;
+        
+        while (c * c <= n) {
+            if (n % c == 0) {
+                System.out.println("Not Prime");
+                return;
             }
-            if (c * c > n) {
-                System.out.println("Prime");
-            }
+            c = c + 1;
+            // c++;
         }
+        if (c * c > n) {
+            System.out.println("Prime");
+        }
+        
     }
 }
