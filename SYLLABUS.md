@@ -28,6 +28,7 @@
         - Insertion Sort
         - Selection Sort
         - Bubble Sort
+        - Merge Sort
         - Count Sort
         - Radix Sort
         - Cyclic Sort
