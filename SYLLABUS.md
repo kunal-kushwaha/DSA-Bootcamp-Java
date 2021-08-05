@@ -17,7 +17,7 @@
     - How it works 
     - Setup Installation
     - Input and Output in Java
-    - Loops & Conditions in Java
+    - Conditionals & Loops in Java
     - Data-types
     - Coding best practices
 - Arrays
