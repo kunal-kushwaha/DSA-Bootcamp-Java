@@ -1,5 +1,5 @@
 # DSA-Bootcamp-Java
-
+Get your hands dirty!
 - [Subscribe to our channel](https://www.youtube.com/KunalKushwaha?sub_confirmation=1)
 - [Complete Playlist](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
 - [Syllabus](SYLLABUS.md)
