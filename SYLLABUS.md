@@ -71,7 +71,7 @@
     - Scoping in Java
     - Shadowing
     - Variable Length Arguments
-    - (more content in OOP such as overloading etc)
+- Switch statements
 - Recursion
     - Introduction
     - Why recursion?
