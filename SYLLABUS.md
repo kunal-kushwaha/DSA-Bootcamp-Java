@@ -120,6 +120,7 @@
     - final, finalize, finally
     - Object Class
     - Exception Handling
+    - Collections Framework
     - Fast IO
 - Stacks & Queues
     - Introduction
