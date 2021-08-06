@@ -124,6 +124,7 @@
     - Generics
     - Exception Handling
     - Collections Framework
+    - Enums
     - Fast IO
 - Stacks & Queues
     - Introduction
