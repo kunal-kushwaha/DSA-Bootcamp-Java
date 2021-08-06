@@ -5,7 +5,7 @@
 - Complete custom implementation of all Data Structures and Algorithms.
 
 ## Lectures
-- Introduction to Git
+- Complete Git & GitHub Course
 - Introduction to Programming
     - Types of languages
     - Memory management
@@ -17,6 +17,7 @@
     - How it works 
     - Setup Installation
     - Input and Output in Java
+    - Conditionals & Loops in Java
     - Data-types
     - Coding best practices
 - Arrays
@@ -119,6 +120,7 @@
     - final, finalize, finally
     - Object Class
     - Exception Handling
+    - Fast IO
 - Stacks & Queues
     - Introduction
     - Interview problems
