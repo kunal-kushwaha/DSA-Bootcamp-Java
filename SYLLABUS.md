@@ -18,6 +18,9 @@
     - Setup Installation
     - Input and Output in Java
     - Conditionals & Loops in Java
+        - if-else
+        - loops
+        - Switch statements
     - Data-types
     - Coding best practices
 - Arrays
@@ -71,7 +74,6 @@
     - Scoping in Java
     - Shadowing
     - Variable Length Arguments
-    - (more content in OOP such as overloading etc)
 - Recursion
     - Introduction
     - Why recursion?
@@ -122,6 +124,7 @@
     - Generics
     - Exception Handling
     - Collections Framework
+    - Enums
     - Fast IO
 - Stacks & Queues
     - Introduction
