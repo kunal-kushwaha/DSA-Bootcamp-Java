@@ -119,6 +119,7 @@
     - Singleton Class
     - final, finalize, finally
     - Object Class
+    - Generics
     - Exception Handling
     - Collections Framework
     - Fast IO
