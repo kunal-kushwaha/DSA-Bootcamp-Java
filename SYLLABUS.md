@@ -18,6 +18,9 @@
     - Setup Installation
     - Input and Output in Java
     - Conditionals & Loops in Java
+        - if-else
+        - loops
+        - Switch statements
     - Data-types
     - Coding best practices
 - Arrays
@@ -71,7 +74,6 @@
     - Scoping in Java
     - Shadowing
     - Variable Length Arguments
-- Switch statements
 - Recursion
     - Introduction
     - Why recursion?
