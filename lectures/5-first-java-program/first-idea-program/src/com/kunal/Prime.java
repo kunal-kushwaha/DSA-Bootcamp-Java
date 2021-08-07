@@ -12,7 +12,6 @@ public class Prime {
             return;
         }
         int c = 2;
-        
         while (c * c <= n) {
             if (n % c == 0) {
                 System.out.println("Not Prime");
