@@ -23,6 +23,12 @@
         - Switch statements
     - Data-types
     - Coding best practices
+- Functions
+    - Introduction
+    - Scoping in Java
+    - Shadowing
+    - Variable Length Arguments
+    - Overloading
 - Arrays
     - Introduction
     - Memory management
@@ -68,12 +74,6 @@
         - Wilson's Theorem
         - Lucas Theorem
         - Chinese Remainder Theorem
-- Functions
-    - Introduction
-    - Solving the above math problems in code
-    - Scoping in Java
-    - Shadowing
-    - Variable Length Arguments
 - Recursion
     - Introduction
     - Why recursion?
@@ -124,6 +124,7 @@
     - Generics
     - Exception Handling
     - Collections Framework
+    - Lambda Expression
     - Enums
     - Fast IO
 - Stacks & Queues
