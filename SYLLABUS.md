@@ -25,7 +25,6 @@
     - Coding best practices
 - Functions
     - Introduction
-    - Solving the above math problems in code
     - Scoping in Java
     - Shadowing
     - Variable Length Arguments
