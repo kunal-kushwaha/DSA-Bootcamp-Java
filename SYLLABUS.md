@@ -28,7 +28,7 @@
     - Scoping in Java
     - Shadowing
     - Variable Length Arguments
-    - Lambda Expressions
+    - Overloading
 - Arrays
     - Introduction
     - Memory management
@@ -124,6 +124,7 @@
     - Generics
     - Exception Handling
     - Collections Framework
+    - Lambda Expression
     - Enums
     - Fast IO
 - Stacks & Queues
