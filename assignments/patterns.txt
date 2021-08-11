@@ -1,6 +1,6 @@
-#Pattern Questions
+Pattern Questions
 
-##Print these patterns using for loops.
+Print these patterns using loops:
 
 
 1.  *****
@@ -159,6 +159,3 @@
        ***    ***
        **      **
        *        *
-
-
-
