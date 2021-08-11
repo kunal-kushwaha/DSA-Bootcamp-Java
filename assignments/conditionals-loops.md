@@ -20,8 +20,8 @@
 16. Volume Of Cylinder
 17. Volume Of Sphere
 18. Volume Of Pyramid
-19. Curved Surface Area Of Cube
-20. Total Surface Area Of Cylinder
+19. Curved Surface Area Of Cylinder
+20. Total Surface Area Of Cube
 21. Fibonacci Series In Java Programs
 22. [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 
