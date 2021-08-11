@@ -49,6 +49,7 @@
     - Sliding window
     - Two Pointer
     - Subarray Questions
+- Pattern questions
 - Strings
     - Introduction
     - How Strings work
