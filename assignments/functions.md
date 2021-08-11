@@ -1,4 +1,4 @@
-# Questions
+# [Video Link](https://youtu.be/vvanI8NRlSI)
 
 1. Define two methods to print the maximum and the minimum number respectively among three numbers entered by user.
 
@@ -34,3 +34,5 @@ Also,
 0! = 0
 
 10. Write a function to find if a number if palindrome or not. Take number as parameter.
+
+11. Convert the programs in [flow of program](flow-of-program.md), [conditionals & loops](conditionals-loops.md), [first java](first-java.md) assignemts into functions.
