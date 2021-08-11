@@ -1,10 +1,6 @@
 #Pattern Qqestions
 
-
 ##Print these patterns using for loops.
-
-
-###EASY 
 
 
 1.  *****
@@ -75,9 +71,6 @@
         *
 
 
-###MEDIUM
-
-
 9.       *
         * *
        * * *
@@ -128,7 +121,6 @@
         * *
          *
 
-###HARD
 
 15.           1
             1   1
