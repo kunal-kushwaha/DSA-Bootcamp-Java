@@ -2,6 +2,7 @@
 
 ## Submit the following on your Leetcode profile itself.
 
+### Easy
 1. [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
 2. [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
 3. [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
@@ -22,3 +23,11 @@
 18. [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
 19. [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)
 20. [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)
+
+
+### Medium
+1. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+2. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
+3. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+4. [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+5. [Jump Game](https://leetcode.com/problems/jump-game/)
