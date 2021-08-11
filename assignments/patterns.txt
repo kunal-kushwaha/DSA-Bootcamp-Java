@@ -1,4 +1,4 @@
-#Pattern Qqestions
+#Pattern Questions
 
 ##Print these patterns using for loops.
 
