@@ -51,3 +51,4 @@
 23. Perfect Number In Java
 24. Check Leap Year Or Not
 25. Sum Of A Digits Of Number
+26. Kunal is allowed to go out with hus friends only on the even days of a given month. Write a program to check if he can go out in the month of August.

@@ -36,3 +36,9 @@ Also,
 10. Write a function to find if a number if palindrome or not. Take number as parameter.
 
 11. Convert the programs in [flow of program](flow-of-program.md), [conditionals & loops](conditionals-loops.md), [first java](first-java.md) assignemts into functions.
+
+12. Write a function to check if a given triplet is a pythogorian triplet or not. (A pythogorian triplet is when the sum of the square of two number is equal to the square of the third number).
+
+13. Write a function that returns all prime numbers between two given numbers.
+
+14. Write a function that returns the sum of first n natural numbers.
