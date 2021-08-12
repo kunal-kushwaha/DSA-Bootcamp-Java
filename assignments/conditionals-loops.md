@@ -19,9 +19,9 @@
 15. Volume Of Prism
 16. Volume Of Cylinder
 17. Volume Of Sphere
-18. Volume Of Prism
-19. Curved Surface Area Of Cube
-20. Total Surface Area Of Cylinder
+18. Volume Of Pyramid
+19. Curved Surface Area Of Cylinder
+20. Total Surface Area Of Cube
 21. Fibonacci Series In Java Programs
 22. [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 
@@ -30,7 +30,8 @@
 2. Calculate Electricity Bill
 3. Calculate Average Of N Numbers
 4. Calculate Discount Of Product
-5. Calculate Distance Between Two Points 6. Calculate Commission Percentage
+5. Calculate Distance Between Two Points 
+6. Calculate Commission Percentage
 7. Power In Java
 8. Deprecation Program
 9. Calculate Batting Average
@@ -42,9 +43,11 @@
 15. Armstrong Number In Java
 16. Find Ncr & Npr
 17. Reverse A String In Java
-18. Find if a number is palindrome or not 19. Future Investment Value
+18. Find if a number is palindrome or not 
+19. Future Investment Value
 20. HCF Of Two Numbers Program
 21. LCM Of Two Numbers
-22. Java Program Vowel Or Consonant 23. Perfect Number In Java
+22. Java Program Vowel Or Consonant 
+23. Perfect Number In Java
 24. Check Leap Year Or Not
 25. Sum Of A Digits Of Number
