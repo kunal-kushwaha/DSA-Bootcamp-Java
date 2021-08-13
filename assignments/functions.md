@@ -4,7 +4,7 @@
 
 2. Define a program to find out whether a given number is even or odd.
 
-3. A person is elligible to vote if his/her age is greater than or equal to 18. Define a method to find out if he/she is elligible to vote.
+3. A person is eligible to vote if his/her age is greater than or equal to 18. Define a method to find out if he/she is eligible to vote.
 
 4. Write a program to print the sum of two numbers entered by user by defining your own method.
 
@@ -31,7 +31,7 @@ Factorial of any number n is represented by n! and is equal to 1*2*3*....*(n-1)*
 2! = 2*1 = 2
 Also,
 1! = 1
-0! = 0
+0! = 1
 
 10. Write a function to find if a number if palindrome or not. Take number as parameter.
 
