@@ -31,7 +31,7 @@ Factorial of any number n is represented by n! and is equal to 1*2*3*....*(n-1)*
 2! = 2*1 = 2
 Also,
 1! = 1
-0! = 0
+0! = 1
 
 10. Write a function to find if a number if palindrome or not. Take number as parameter.
 
