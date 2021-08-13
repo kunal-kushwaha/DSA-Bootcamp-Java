@@ -35,4 +35,4 @@ Also,
 
 10. Write a function to find if a number if palindrome or not. Take number as parameter.
 
-11. Convert the programs in [flow of program](flow-of-program.md), [conditionals & loops](conditionals-loops.md), [first java](first-java.md) assignemts into functions.
+11. Convert the programs in [flow of program](flow-of-program.md), [conditionals & loops](conditionals-loops.md), [first java](first-java.md) assignments into functions.
