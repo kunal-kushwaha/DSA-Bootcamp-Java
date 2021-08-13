@@ -4,7 +4,7 @@ Videos:
 Problems:
 - [Linear Search](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/)
 
-###Binary Search
+Binary Search
 - [Guess Number Higher or Lower(Easy)](https://leetcode.com/problems/guess-number-higher-or-lower/)
 - [First Bad Version(Easy)](https://leetcode.com/problems/first-bad-version/)
 - [Two Sum II - Input array is sorted(Easy)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
