@@ -1,10 +1,8 @@
 Videos:
 - [Linear Search](https://youtu.be/_HRA37X8N_Q)
+- [Binary Search]()
 
 Problems:
-- [Linear Search](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/)
-
-Binary Search
 - [Guess Number Higher or Lower(Easy)](https://leetcode.com/problems/guess-number-higher-or-lower/)
 - [First Bad Version(Easy)](https://leetcode.com/problems/first-bad-version/)
 - [Two Sum II - Input array is sorted(Easy)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
@@ -22,4 +20,3 @@ Binary Search
 - [Search a 2D Matrix(Medium)](https://leetcode.com/problems/search-a-2d-matrix/)
 - [Reach a Number(Medium)](https://leetcode.com/problems/reach-a-number/)
 - [Koko Eating Bananas(Medium)](https://leetcode.com/problems/koko-eating-bananas/)
-
