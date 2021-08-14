@@ -1,6 +1,6 @@
 Videos:
 - [Linear Search](https://youtu.be/_HRA37X8N_Q)
-- [Binary Search]()
+- [Binary Search](https://youtu.be/f6UU7V3szVw)
 
 Problems:
 - [Guess Number Higher or Lower(Easy)](https://leetcode.com/problems/guess-number-higher-or-lower/)
