@@ -206,4 +206,8 @@ Print these patterns using loops:
       4 4 4
       5 5
       6
-
+#Currently asked in daffodils
+26.1 2 3 4  17 18 19 20
+     5 6 7  14 15 16
+       8 9  12 13
+         10 11
