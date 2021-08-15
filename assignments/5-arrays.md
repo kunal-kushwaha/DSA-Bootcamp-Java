@@ -3,7 +3,7 @@
 ## Submit the following on your Leetcode profile itself.
 
 ### Easy
-1. [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
+- [x] [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
 2. [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
 3. [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 4. [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
@@ -34,3 +34,6 @@
 4. [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 5. [Jump Game](https://leetcode.com/problems/jump-game/)
 6. [Rotate Array](https://leetcode.com/problems/rotate-array/)
+
+
+
