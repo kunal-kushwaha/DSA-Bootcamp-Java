@@ -5,6 +5,7 @@
 - [Syllabus](SYLLABUS.md)
 - [Discord for discussions](https://discord.io/commclassroom)
 - [Telegram for announcements](https://telegram.me/commclassroom)
+- [Competitive Programming Resources](https://github.com/kunal-kushwaha/Competitive-Programming-Resources)
 
 ### Connect with me
   <a href="https://twitter.com/kunalstwt">

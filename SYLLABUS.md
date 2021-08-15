@@ -34,6 +34,11 @@
     - Memory management
     - Input and Output
     - ArrayList Introduction
+    - Searching
+        - Linear Search 
+        - Binary Search
+        - Modified Binary Search
+        - (more later)
     - Sorting
         - Insertion Sort
         - Selection Sort
@@ -41,14 +46,10 @@
         - Count Sort
         - Radix Sort
         - Cyclic Sort
-    - Searching
-        - Linear Search 
-        - Binary Search
-        - Modified Binary Search
-        - (more later)
     - Sliding window
     - Two Pointer
     - Subarray Questions
+- Pattern questions
 - Strings
     - Introduction
     - How Strings work
