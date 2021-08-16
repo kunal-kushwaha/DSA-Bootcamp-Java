@@ -3,6 +3,7 @@ Pattern Questions
 Print these patterns using loops:
 
 ```text
+
 1.  *****
     *****
     *****
