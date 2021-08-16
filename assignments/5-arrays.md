@@ -9,7 +9,7 @@
 - [x] [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
 - [x] [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
 - [x] [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
-7. [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
+- [x] [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
 8. [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
 9. [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)
 10. [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
