@@ -212,5 +212,29 @@ Print these patterns using loops:
         5 6 7  14 15 16
           8 9  12 13
             10 11
+            
+28.   1 2 3 4 5
+      10 9 8 7 6
+      11 12 13 14 15
+      20 19 18 17 16
+      21 22 23 24 25
+      30 29 28 27 26
 
+28.   A B C D E
+      A B C D E
+      A B C D E
+      A B C D E
+      A B C D E
+     
+29.   A
+      B B
+      C C C
+      D D D D
+      E E E E E
+      
+30.   A B C D
+      B C D E
+      C D E F
+      D E F G
+     
 ```
