@@ -220,19 +220,19 @@ Print these patterns using loops:
       21 22 23 24 25
       30 29 28 27 26
 
-28.   A B C D E
+29.   A B C D E
       A B C D E
       A B C D E
       A B C D E
       A B C D E
      
-29.   A
+30.   A
       B B
       C C C
       D D D D
       E E E E E
       
-30.   A B C D
+31.   A B C D
       B C D E
       C D E F
       D E F G
