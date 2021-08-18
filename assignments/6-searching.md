@@ -15,7 +15,6 @@
 - [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
 - [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 - [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
-- [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
 - [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
 - [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 - [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
