@@ -91,7 +91,7 @@ public class RBS {
                 start++;
 
                 // check whether end is pivot
-                if (arr[end] < arr[end - 1]) {
+                if (end > 0 && arr[end] < arr[end - 1]) { // (end > 0) is required to prevent index out of bound error in arrays such as {1,2,3,4,5,5,6}
                     return end - 1;
                 }
                 end--;
