@@ -34,3 +34,7 @@
 4. [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 5. [Jump Game](https://leetcode.com/problems/jump-game/)
 6. [Rotate Array](https://leetcode.com/problems/rotate-array/)
+
+### Hard
+1. [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)
+2. [ First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
