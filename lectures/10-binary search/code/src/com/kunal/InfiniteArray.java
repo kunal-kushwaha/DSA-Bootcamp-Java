@@ -40,6 +40,5 @@ public class InfiniteArray {
             }
         }
         return target == arr[start] ? start: target == arr[end] ? end: -1;
-        return -1;
     }
 }
