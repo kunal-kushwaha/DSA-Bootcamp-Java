@@ -39,6 +39,6 @@ public class InfiniteArray {
                 return mid;
             }
         }
-        return -1;
+        return target == arr[start] ? start: target == arr[end] ? end: -1;
     }
 }
