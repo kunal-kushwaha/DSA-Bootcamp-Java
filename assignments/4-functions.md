@@ -35,7 +35,7 @@ Also,
 
 10. Write a function to find if a number if palindrome or not. Take number as parameter.
 
-11. Convert the programs in [flow of program](flow-of-program.md), [conditionals & loops](conditionals-loops.md), [first java](first-java.md) assignments into functions.
+11. Convert the programs in [flow of program](1-flow-of-program.md), [conditionals & loops](3-conditionals-loops.md), [first java](2-first-java.md) assignments into functions.
 
 12. Write a function to check if a given triplet is a Pythagorean triplet or not. (A Pythagorean triplet is when the sum of the square of two number is equal to the square of the third number).
 
