@@ -18,7 +18,13 @@ public class InfiniteArray {
             int temp = end + 1; // this is my new start
             // double the box value
             // end = previous end + sizeofbox*2
+             if(arr.length-end-1 < (end - start + 1) * 2){
+            end = arr.length-1; 
+            start = temp;
+            break;
+            }else{
             end = end + (end - start + 1) * 2;
+            }
             start = temp;
         }
         return binarySearch(arr, target, start, end);
