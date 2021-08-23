@@ -165,6 +165,7 @@
     - Introduction
     - Theory
     - Priority Queue
+    - Heapsort
     - Two Heaps Method
     - k-way merge
     - Top k elements
