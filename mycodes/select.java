@@ -2,8 +2,8 @@ import java.util.Arrays;
 
 public class select{
     public static void main(String[] args){
-        int[] arr={4,2,7,3,1};
-int findmax=0;
+        int[] arr={4,2,7,44,1,5,22,8,3};
+        int findmax=0;
         for(int i=0;i<arr.length;i++){
             int last = arr.length - i - 1;
              findmax=maxfinder(arr,0,last);
