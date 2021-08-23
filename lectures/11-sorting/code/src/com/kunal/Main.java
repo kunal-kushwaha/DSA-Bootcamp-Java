@@ -39,7 +39,7 @@ public class Main {
 
     static int getMaxIndex(int[] arr, int start, int end) {
         int max = start;
-        for (int i = start; i <= end; i++) {
+        for (int i = start + 1; i <= end; i++) {
             if (arr[max] < arr[i]) {
                 max = i;
             }
