@@ -3,6 +3,7 @@
 - [Subscribe to our channel](https://www.youtube.com/KunalKushwaha?sub_confirmation=1)
 - [Complete Playlist](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
 - [Syllabus](SYLLABUS.md)
+- [Assignments](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/tree/main/assignments)
 - [Discord for discussions](https://discord.io/commclassroom)
 - [Telegram for announcements](https://telegram.me/commclassroom)
 - [Competitive Programming Resources](https://github.com/kunal-kushwaha/Competitive-Programming-Resources)
