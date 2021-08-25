@@ -22,7 +22,7 @@
 - [x] [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
 - [ ] [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
 - [x] [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)
-20. [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)
+- [ ] [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)
 21. [Two Sum](https://leetcode.com/problems/two-sum/)
 22. [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
 23. [Saddle Point In Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)
