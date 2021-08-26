@@ -28,7 +28,7 @@
 23. [Saddle Point In Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)
 
 ### Medium
-1. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+- [x] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 2. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 3. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 4. [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
