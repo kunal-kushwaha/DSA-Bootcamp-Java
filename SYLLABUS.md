@@ -40,9 +40,9 @@
         - Modified Binary Search
         - Binary Search on 2D Arrays
     - Sorting
-        - Insertion Sort
-        - Selection Sort
         - Bubble Sort
+        - Selection Sort
+        - Insertion Sort
         - Count Sort
         - Radix Sort
         - Cyclic Sort
