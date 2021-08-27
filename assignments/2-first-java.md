@@ -10,9 +10,5 @@ find Simple Interest.
 4. Take in two numbers and an operator (+, -, *, /) and calculate the value.
 (Use if conditions)
 5. Take 2 numbers as input and print the largest number.
-6. Input a number and print all the factors of that number (use loops).
-7. Input currency in rupee and output in dollar.
-8. Take integer inputs till the user enters 0 and print the sum of all numbers
-(HINT: while loop)
-9. Take integer inputs till the user enters 0 and print the largest number from
-all.
+6. Input currency in rupee and output in dollar.
+
