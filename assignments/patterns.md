@@ -224,7 +224,7 @@ Print these patterns using loops:
         * *
          *
 
-29,      
+29.      
        *        *
        **      **
        ***    ***
