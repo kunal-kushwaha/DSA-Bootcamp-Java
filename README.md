@@ -21,6 +21,10 @@
   <a href="https://discord.io/commclassroom">
     <img width="30px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" />
   </a>&ensp;
+    <a href="https://t.me/commclassroom">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" />
+  </a> 
+  </a>&ensp;
   <a href="https://twitter.com/commclassroom/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>&ensp;
@@ -29,7 +33,3 @@
   </a>&ensp;
   <a href="https://www.instagram.com/commclassroom/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-  </a>&ensp;
-  <a href="https://t.me/commclassroom">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" />
-  </a> 
