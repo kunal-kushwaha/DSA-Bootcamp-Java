@@ -5,47 +5,47 @@
 - Complete custom implementation of all Data Structures and Algorithms.
 
 ## Lectures
-- Complete Git & GitHub Course
-- Introduction to Programming
-    - Types of languages
-    - Memory management
-- Flow of the program
-    - Flowcharts
-    - Pseudocode
-- Introduction to Java
-    - Introduction
-    - How it works 
-    - Setup Installation
-    - Input and Output in Java
-    - Conditionals & Loops in Java
-        - if-else
-        - loops
-        - Switch statements
-    - Data-types
-    - Coding best practices
-- Functions
-    - Introduction
-    - Scoping in Java
-    - Shadowing
-    - Variable Length Arguments
-    - Overloading
-- Arrays
-    - Introduction
-    - Memory management
-    - Input and Output
-    - ArrayList Introduction
+- [Complete Git & GitHub Course](https://youtu.be/apGV9Kg7ics)
+- [Introduction to Programming](https://youtu.be/wn49bJOYAZM)
+    - [Types of languages](https://youtu.be/wn49bJOYAZM?t=171)
+    - [Memory management](https://youtu.be/wn49bJOYAZM?t=1488)
+- [Flow of the program](https://youtu.be/lhELGQAV4gg)
+    - [Flowcharts](https://youtu.be/lhELGQAV4gg)
+    - [Pseudocode](https://youtu.be/lhELGQAV4gg?t=715)
+- [Introduction to Java](https://youtu.be/4EP8YzcN0hQ)
+    - [Introduction](https://youtu.be/4EP8YzcN0hQ)
+    - [How it works](https://youtu.be/4EP8YzcN0hQ?t=93)
+    - [Setup Installation](https://youtu.be/4EP8YzcN0hQ?t=1486)
+    - [Input and Output in Java](https://youtu.be/TAtrPoaJ7gc)
+    - [Conditionals & Loops in Java](https://youtu.be/ldYLYRNaucM?t=88)
+        - [if-else](https://youtu.be/ldYLYRNaucM?t=88)
+        - [loops](https://youtu.be/ldYLYRNaucM?t=440)
+        - [Switch statements](https://youtu.be/mA23x39DjbI)
+    - [Data-types](https://youtu.be/TAtrPoaJ7gc?t=2800)
+    - [Coding best practices](https://youtu.be/waGfV-IoOt8)
+- [Functions](https://youtu.be/vvanI8NRlSI)
+    - [Introduction](https://youtu.be/vvanI8NRlSI)
+    - [Scoping in Java](https://youtu.be/vvanI8NRlSI?t=2801)
+    - [Shadowing](https://youtu.be/vvanI8NRlSI?t=3584)
+    - [Variable Length Arguments](https://youtu.be/vvanI8NRlSI?t=4013)
+    - [Overloading](https://youtu.be/vvanI8NRlSI?t=4327)
+- [Arrays](https://youtu.be/n60Dn0UsbEk)
+    - [Introduction](https://youtu.be/n60Dn0UsbEk)
+    - [Memory management](https://youtu.be/n60Dn0UsbEk?t=632)
+    - [Input and Output](https://youtu.be/n60Dn0UsbEk?t=1675)
+    - [ArrayList Introduction](https://youtu.be/n60Dn0UsbEk?t=4868)
     - Searching
-        - Linear Search 
-        - Binary Search
-        - Modified Binary Search
+        - [Linear Search](https://youtu.be/_HRA37X8N_Q)
+        - [Binary Search](https://youtu.be/f6UU7V3szVw)
+        - [Modified Binary Search](https://youtu.be/f6UU7V3szVw?t=2508)
         - Binary Search on 2D Arrays
     - Sorting
-        - Insertion Sort
-        - Selection Sort
-        - Bubble Sort
+        - [Insertion Sort](https://youtu.be/By_5-RRqVeE)
+        - [Selection Sort](https://youtu.be/Nd4SCCIHFWk)
+        - [Bubble Sort](https://youtu.be/F5MZyqRp_IM)
         - Count Sort
         - Radix Sort
-        - Cyclic Sort
+        - [Cyclic Sort](https://youtu.be/JfinxytTYFQ)
     - Sliding window
     - Two Pointer
     - Subarray Questions
@@ -128,6 +128,7 @@
     - Lambda Expression
     - Enums
     - Fast IO
+	- File handling
 - Greedy Algorithms
 - Stacks & Queues
     - Introduction
