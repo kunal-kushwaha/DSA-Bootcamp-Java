@@ -7,7 +7,7 @@ public class FindDuplicate {
 
             if (arr[i] != i + 1) {
                 int correct = arr[i] - 1;
-                if (arr[i] != arr[correct]) {
+                if (arr[i] != arr[correct]) {  // Throwing error ( index out of bound When run in ide which static)
                     swap(arr, i , correct);
                 } else {
                     return arr[i];
