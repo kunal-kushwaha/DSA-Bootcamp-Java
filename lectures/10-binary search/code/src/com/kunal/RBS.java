@@ -1,5 +1,5 @@
 package com.kunal;
-// https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/
+// https://leetcode.com/problems/search-in-rotated-sorted-array/
 public class RBS {
     public static void main(String[] args) {
         int[] arr = {1,2,3,4,5,5,6};
@@ -58,7 +58,7 @@ public class RBS {
             if (mid > start && arr[mid] < arr[mid - 1]) {
                 return mid-1;
             }
-            if (arr[mid] <= arr[start]) {
+            if (arr[mid] < arr[start]) {
                 end = mid - 1;
             } else {
                 start = mid + 1;
