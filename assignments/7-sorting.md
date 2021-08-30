@@ -2,6 +2,7 @@
 - [Bubble Sort](https://youtu.be/F5MZyqRp_IM)
 - [Selection Sort](https://youtu.be/Nd4SCCIHFWk)
 - [Insertion Sort](https://youtu.be/By_5-RRqVeE)
+- [Cycle Sort](https://www.youtube.com/watch?v=JfinxytTYFQ&list=RDCMUCBGOUQHNNtNGcGzVq5rIXjw&start_radio=1&rv=JfinxytTYFQ&t=2)
 
 # Questions
 
@@ -33,3 +34,17 @@
 - [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)
 - [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)
 - [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)
+
+
+
+## Medium
+- [3Sum](https://leetcode.com/problems/3sum/)
+- [3Sum Closest](https://leetcode.com/problems/3sum-closest/)
+- [4Sum](https://leetcode.com/problems/4sum/)
+- [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+- [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+- [Sort Colors](https://leetcode.com/problems/sort-colors/)
+- [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
+- [Sort List](https://leetcode.com/problems/sort-list/)
+- [Largest Number](https://leetcode.com/problems/largest-number/)
+- [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
