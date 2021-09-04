@@ -35,7 +35,7 @@ all.
 2. Calculate Electricity Bill
 3. Calculate Average Of N Numbers
 4. Calculate Discount Of Product
-5. Calculate Distance Between Two Points 
+5. Calculate Distance Between Two Points
 6. Calculate Commission Percentage
 7. Power In Java
 8. Calculate Depreciation of Value
@@ -54,6 +54,6 @@ all.
 21. LCM Of Two Numbers Program In Java
 22. Java Program Vowel Or Consonant 
 23. Check If A Number is Perfect Number Or Not In Java
-24. Check Leap Year Or Not
+24. Check If The Given Year Is Leap Year Or Not
 25. Kunal is allowed to go out with his friends only on the even days of a given month. Write a program to check if he can go out in the month of August.
 26. Write a program to print the sum of negative numbers, sum of positive even numbers and the sum of positive odd numbers from a list of numbers (N) entered by the user. The list terminates when the user enters a zero.
