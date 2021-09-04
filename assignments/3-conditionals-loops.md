@@ -22,7 +22,7 @@
 18. Volume Of Pyramid
 19. Curved Surface Area Of Cylinder
 20. Total Surface Area Of Cube
-21. Fibonacci Series In Java Programs
+21. Fibonacci Series In Java
 22. [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 23. Input a number and print all the factors of that number (use loops).
 24. Take integer inputs till the user enters 0 and print the sum of all numbers
@@ -31,7 +31,7 @@
 all.
 
 ### Intermediate Java Programs
-1. Factorial Program In Java
+1. Find Factorial Of N In Java
 2. Calculate Electricity Bill
 3. Calculate Average Of N Numbers
 4. Calculate Discount Of Product
@@ -44,17 +44,16 @@ all.
 11. Compound Interest Java Program
 12. Calculate Average Marks
 13. Addition Of Two Numbers
-14. Sum Of N Numbers
-15. Armstrong Number In Java
-16. Find Ncr & Npr
+14. Sum Of First N Natural Numbers
+15. Find If A Number Is Armstrong Or Not
+16. Find nCr & nPr
 17. Reverse A String In Java
-18. Find if a number is palindrome or not 
+18. Find If A Number Is Palindrome Or Not
 19. Future Investment Value
-20. HCF Of Two Numbers Program
-21. LCM Of Two Numbers
+20. HCF Of Two Numbers Program In Java
+21. LCM Of Two Numbers Program In Java
 22. Java Program Vowel Or Consonant 
-23. Perfect Number In Java
+23. Check If A Number is Perfect Number Or Not In Java
 24. Check Leap Year Or Not
-25. Sum Of A Digits Of Number
-26. Kunal is allowed to go out with his friends only on the even days of a given month. Write a program to check if he can go out in the month of August.
-27. Write a program to print the sum of negative numbers, sum of positive even numbers and the sum of positive odd numbers from a list of numbers (N) entered by the user. The list terminates when the user enters a zero.
+25. Kunal is allowed to go out with his friends only on the even days of a given month. Write a program to check if he can go out in the month of August.
+26. Write a program to print the sum of negative numbers, sum of positive even numbers and the sum of positive odd numbers from a list of numbers (N) entered by the user. The list terminates when the user enters a zero.
