@@ -1,7 +1,6 @@
 # [Video Link](https://youtu.be/n60Dn0UsbEk)
 
 ## Submit the following on your Leetcode profile itself.
-solved-> [2](https://leetcode.com/problems/concatenation-of-array/),
 ### Easy
 1. [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
 2. [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
