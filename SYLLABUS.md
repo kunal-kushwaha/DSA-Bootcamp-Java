@@ -1,41 +1,55 @@
 # Complete Java + DSA Bootcamp Syllabus
 
 ## NOTE: 
-- All topics will contain problems from LeetCode Easy to Hard, explained in an easy to understand manner.
-- Complete Custom Implementation of all Data Structures and Algorithms.
+- All topics will contain problems from LeetCode Easy to Hard, explained in an easy-to-understand manner.
+- Complete custom implementation of all Data Structures and Algorithms.
 
 ## Lectures
-- Introduction to Git
-- Introduction to Programming
-    - Types of languages
-    - Flowcharts & Pseudocode
-    - Flow of the program
-- Introduction to Java
-    - Introduction
-    - How it works 
-    - Setup Installation
-    - Input and Output in Java
-    - Data-types
-    - Coding best practices
-- Arrays
-    - Introduction
-    - Memory management
-    - Input and Output
-    - ArrayList Introduction
+- [Complete Git & GitHub Course](https://youtu.be/apGV9Kg7ics)
+- [Introduction to Programming](https://youtu.be/wn49bJOYAZM)
+    - [Types of languages](https://youtu.be/wn49bJOYAZM?t=171)
+    - [Memory management](https://youtu.be/wn49bJOYAZM?t=1488)
+- [Flow of the program](https://youtu.be/lhELGQAV4gg)
+    - [Flowcharts](https://youtu.be/lhELGQAV4gg)
+    - [Pseudocode](https://youtu.be/lhELGQAV4gg?t=715)
+- [Introduction to Java](https://youtu.be/4EP8YzcN0hQ)
+    - [Introduction](https://youtu.be/4EP8YzcN0hQ)
+    - [How it works](https://youtu.be/4EP8YzcN0hQ?t=93)
+    - [Setup Installation](https://youtu.be/4EP8YzcN0hQ?t=1486)
+    - [Input and Output in Java](https://youtu.be/TAtrPoaJ7gc)
+    - [Conditionals & Loops in Java](https://youtu.be/ldYLYRNaucM?t=88)
+        - [if-else](https://youtu.be/ldYLYRNaucM?t=88)
+        - [loops](https://youtu.be/ldYLYRNaucM?t=440)
+        - [Switch statements](https://youtu.be/mA23x39DjbI)
+    - [Data-types](https://youtu.be/TAtrPoaJ7gc?t=2800)
+    - [Coding best practices](https://youtu.be/waGfV-IoOt8)
+- [Functions](https://youtu.be/vvanI8NRlSI)
+    - [Introduction](https://youtu.be/vvanI8NRlSI)
+    - [Scoping in Java](https://youtu.be/vvanI8NRlSI?t=2801)
+    - [Shadowing](https://youtu.be/vvanI8NRlSI?t=3584)
+    - [Variable Length Arguments](https://youtu.be/vvanI8NRlSI?t=4013)
+    - [Overloading](https://youtu.be/vvanI8NRlSI?t=4327)
+- [Arrays](https://youtu.be/n60Dn0UsbEk)
+    - [Introduction](https://youtu.be/n60Dn0UsbEk)
+    - [Memory management](https://youtu.be/n60Dn0UsbEk?t=632)
+    - [Input and Output](https://youtu.be/n60Dn0UsbEk?t=1675)
+    - [ArrayList Introduction](https://youtu.be/n60Dn0UsbEk?t=4868)
+    - Searching
+        - [Linear Search](https://youtu.be/_HRA37X8N_Q)
+        - [Binary Search](https://youtu.be/f6UU7V3szVw)
+        - [Modified Binary Search](https://youtu.be/f6UU7V3szVw?t=2508)
+        - Binary Search on 2D Arrays
     - Sorting
-        - Insertion Sort
-        - Selection Sort
-        - Bubble Sort
+        - [Insertion Sort](https://youtu.be/By_5-RRqVeE)
+        - [Selection Sort](https://youtu.be/Nd4SCCIHFWk)
+        - [Bubble Sort](https://youtu.be/F5MZyqRp_IM)
         - Count Sort
         - Radix Sort
-    - Searching
-        - Linear Search 
-        - Binary Search
-        - Modified Binary Search
-        - (more later)
+        - [Cyclic Sort](https://youtu.be/JfinxytTYFQ)
     - Sliding window
     - Two Pointer
     - Subarray Questions
+- Pattern questions
 - Strings
     - Introduction
     - How Strings work
@@ -51,34 +65,16 @@
     - Newton's Square Root Method
     - Number Theory
     - Euclidean algorithm
-    - Advanced Concepts for CP (later in course)
+    - Advanced Concepts for CP (later in the course)
         - Bitwise + DP
         - Extended Euclidean algorithm
         - Modulo Properties
         - Modulo Multiplicative Inverse
         - Linear Diophantine Equations
-        - Fremat's Theorem
+        - Fermat’s Theorem
         - Wilson's Theorem
         - Lucas Theorem
         - Chinese Remainder Theorem
-- Functions
-    - Introduction
-    - Solving the above math problems in code
-    - Scoping in Java
-    - Shadowing
-    - Variable Length Arguments
-    - (more content in OOP such as overloading etc)
-- Space and Time Complexity Analysis
-    - Introduction
-    - Comparion of various cases
-    - Solving Linear Recurrence Relations
-    - Solving Divide and Conquer Recurrence Relations
-    - Big-O, Big-Omega, Big-Theta Notations
-    - Get equation of any relation easily - best and easiest approach
-    - Complexity discussion of all the problems we do
-    - Space Complexity 
-    - Memory Allocation of various languages
-    - NP Completeness and Hardness
 - Recursion
     - Introduction
     - Why recursion?
@@ -89,7 +85,6 @@
     - Sorting:
         - Merge Sort
         - Quick Sort
-        - Cyclic Sort
     - Backtracking
         - Sudoku Solver
         - N-Queens
@@ -99,6 +94,17 @@
     - Recursion Array Problems
     - Recursion Pattern Problems
     - Subset Questions
+- Space and Time Complexity Analysis
+    - Introduction
+    - Comparisons of various cases
+    - Solving Linear Recurrence Relations
+    - Solving Divide and Conquer Recurrence Relations
+    - Big-O, Big-Omega, Big-Theta Notations
+    - Get equation of any relation easily - best and easiest approach
+    - Complexity discussion of all the problems we do
+    - Space Complexity 
+    - Memory Allocation of various languages
+    - NP-Completeness and Hardness
 - Object Oriented Programming
     - Introduction
     - Classes & its instances
@@ -115,7 +121,15 @@
     - Abstract Classes
     - Singleton Class
     - final, finalize, finally
+    - Object Class
+    - Generics
     - Exception Handling
+    - Collections Framework
+    - Lambda Expression
+    - Enums
+    - Fast IO
+	- File handling
+- Greedy Algorithms
 - Stacks & Queues
     - Introduction
     - Interview problems
@@ -128,7 +142,7 @@
     - Fast and slow pointer
     - Cycle Detection
     - Single and Doubly LinkedList
-    - Reversalof LinekdList
+    - Reversal of LinkedList
 - Dynamic Programming
     - Introduction
     - Recursion + Recursion DP + Iteration + Iteration Space Optimized
@@ -136,7 +150,7 @@
     - 0/1 Knapsack
     - Subset Questions
     - Unbounded Knapsack
-    - Subseq questions
+    - Subsequence questions
     - String DP
 - Trees
     - Introduction
@@ -152,11 +166,12 @@
     - Introduction
     - Theory
     - Priority Queue
+    - Heapsort
     - Two Heaps Method
     - k-way merge
-    - top k elements
-    - interval problems
-- Hashmaps
+    - Top k elements
+    - Interval problems
+- HashMap
     - Introduction
     - Theory - how it works
     - Comparisons of various forms
