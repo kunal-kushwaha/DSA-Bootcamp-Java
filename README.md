@@ -16,5 +16,5 @@
 - [LinkedIn](https://www.linkedin.com/company/commclassroom)
 - [Instagram](https://www.instagram.com/commclassroom
 
-### Remote Oppurtunities
--https://github.com/yanirs/established-remote
+### Remote Opportunities
+- [Remote Opportunities] (https://github.com/yanirs/established-remote)
