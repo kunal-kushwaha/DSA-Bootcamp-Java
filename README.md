@@ -14,4 +14,7 @@
 ### Follow Community Classroom
 - [Twitter](https://twitter.com/commclassroom)
 - [LinkedIn](https://www.linkedin.com/company/commclassroom)
-- [Instagram](https://www.instagram.com/commclassroom)
+- [Instagram](https://www.instagram.com/commclassroom
+
+### Remote Oppurtunities
+-https://github.com/yanirs/established-remote
