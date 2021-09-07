@@ -4,8 +4,6 @@
 - [Complete Playlist](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
 - [Syllabus](SYLLABUS.md)
 - [Assignments](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/tree/main/assignments)
-- [Discord for discussions](https://discord.io/commclassroom)
-- [Telegram for announcements](https://telegram.me/commclassroom)
 - [Competitive Programming Resources](https://github.com/kunal-kushwaha/Competitive-Programming-Resources)
 
 ### Connect with me
@@ -19,11 +17,13 @@
     <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
 
-### Follow Community Classroom
-
- 
+### Join Community Classroom Groups
   <a href="https://discord.io/commclassroom">
     <img width="30px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" />
+  </a>&ensp;
+    <a href="https://t.me/commclassroom">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" />
+  </a> 
   </a>&ensp;
   <a href="https://twitter.com/commclassroom/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
@@ -33,7 +33,3 @@
   </a>&ensp;
   <a href="https://www.instagram.com/commclassroom/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-  </a>&ensp;
-  <a href="https://t.me/commclassroom">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" />
-  </a> 
