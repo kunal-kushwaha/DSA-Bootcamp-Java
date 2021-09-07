@@ -53,7 +53,7 @@
 - [Strings](https://www.youtube.com/watch?v=zL1DPZ0Ovlo)
     - [Introduction](https://www.youtube.com/watch?v=zL1DPZ0Ovlo)
     - [How Strings work](https://youtu.be/zL1DPZ0Ovlo?t=216)
-    - [Comparison of methods](https://youtu.be/zL1DPZ0Ovlo)
+    - [Comparison of methods](https://youtu.be/zL1DPZ0Ovlo?t=977)
     - [Operations in Strings](https://youtu.be/zL1DPZ0Ovlo?t=1681)
     - [StringBuilder in java](https://youtu.be/zL1DPZ0Ovlo?t=4199)
 - Maths for DSA
