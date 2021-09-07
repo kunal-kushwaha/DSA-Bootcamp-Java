@@ -50,7 +50,7 @@
     - Two Pointer
     - Subarray Questions
 - Pattern questions
-- Strings
+- [Strings](https://www.youtube.com/watch?v=zL1DPZ0Ovlo)
     - Introduction
     - How Strings work
     - Comparison of methods
