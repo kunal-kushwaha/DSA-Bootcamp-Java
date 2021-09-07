@@ -56,5 +56,5 @@ all.
 23. Perfect Number In Java
 24. Check Leap Year Or Not
 25. Sum Of A Digits Of Number
-26. Kunal is allowed to go out with his friends only on the even days of a given month. Write a program to check if he can go out in the month of August.
+26. Kunal is allowed to go out with his friends only on the even days of a given month. Write a program to count the number of days he can go out in the month of August.
 27. Write a program to print the sum of negative numbers, sum of positive even numbers and the sum of positive odd numbers from a list of numbers (N) entered by the user. The list terminates when the user enters a zero.
