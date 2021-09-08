@@ -4,6 +4,14 @@
 - All topics will contain problems from LeetCode Easy to Hard, explained in an easy-to-understand manner.
 - Complete custom implementation of all Data Structures and Algorithms.
 
+<!---
+Used Progress bar, You can change it's Value manually by understanding the format
+Format: https://progress-bar.dev/"Percentage"?scale=100&width=200&color=babaca&suffix=%
+Just update the "Percentage" , example for 10% you can write it as = https://progress-bar.dev/10?scale=100&width=250&color=babaca&suffix=%
+-->
+
+### Progress Bar : ![](https://progress-bar.dev/21?scale=100&width=200&color=babaca&suffix=%Completed)
+
 ## Lectures
 - [Complete Git & GitHub Course](https://youtu.be/apGV9Kg7ics)
 - [Introduction to Programming](https://youtu.be/wn49bJOYAZM)
