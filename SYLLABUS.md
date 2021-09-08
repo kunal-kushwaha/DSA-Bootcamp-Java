@@ -10,7 +10,7 @@ Format: https://progress-bar.dev/"Percentage"?scale=100&width=250&color=babaca&s
 Just update the "Percentage" , example for 10% you can write it as = https://progress-bar.dev/10?scale=100&width=250&color=babaca&suffix=%
 -->
 
-## Progress Bar : ![](https://progress-bar.dev/21?scale=100&width=250&color=babaca&suffix=%Completed)
+## Progress Bar : ![](https://progress-bar.dev/21?scale=100&width=200&color=babaca&suffix=%Completed)
 
 ## Lectures
 - [Complete Git & GitHub Course](https://youtu.be/apGV9Kg7ics)
