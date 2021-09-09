@@ -17,6 +17,11 @@
 - [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
 - [Add Strings](https://leetcode.com/problems/add-strings/)
 - [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
+- [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)
+- [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)
+- [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/)
+- [Thousand Separator](https://leetcode.com/problems/thousand-separator/)
+- [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)
 
 ## Medium
 
@@ -27,3 +32,4 @@
 - [String Compression](https://leetcode.com/problems/string-compression/)
 
 ## Hard
+
