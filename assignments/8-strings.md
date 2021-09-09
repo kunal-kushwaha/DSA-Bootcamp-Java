@@ -34,7 +34,7 @@
 - [Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/)
 - [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
 - [String Compression](https://leetcode.com/problems/string-compression/)
-- [Longest Palindrimic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+- [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 
 ## Hard
 
