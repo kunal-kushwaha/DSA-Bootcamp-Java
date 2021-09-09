@@ -1,7 +1,7 @@
-# Videos:
-- [Strings and StrindiBuilder](https://www.youtube.com/watch?v=zL1DPZ0Ovlo&t=18s)
+# [Video Link](https://youtu.be/zL1DPZ0Ovlo)
 
-# Problems:
+# Questions:
+
 ## Easy
 - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
@@ -15,4 +15,3 @@
 - [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)
 
 ## Hard
-
