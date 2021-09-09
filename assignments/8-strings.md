@@ -1,6 +1,6 @@
 # [Video Link](https://youtu.be/zL1DPZ0Ovlo)
 
-# Questions:
+# Problems:
 
 ## Easy
 
@@ -22,6 +22,10 @@
 - [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/)
 - [Thousand Separator](https://leetcode.com/problems/thousand-separator/)
 - [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)
+- [Roman to integer](https://leetcode.com/problems/roman-to-integer/)
+- [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+- [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
+- [Make the String Great](https://leetcode.com/problems/make-the-string-great/)
 
 ## Medium
 
@@ -30,6 +34,7 @@
 - [Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/)
 - [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
 - [String Compression](https://leetcode.com/problems/string-compression/)
+- [Longest Palindrimic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 
 ## Hard
 
