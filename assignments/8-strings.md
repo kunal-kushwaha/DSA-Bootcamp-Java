@@ -20,4 +20,5 @@
 - [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)
 
 ## Hard
+- [Orderly Queue](https://leetcode.com/problems/orderly-queue/)
 
