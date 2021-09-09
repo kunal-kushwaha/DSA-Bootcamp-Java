@@ -32,4 +32,5 @@
 - [String Compression](https://leetcode.com/problems/string-compression/)
 
 ## Hard
+- [Orderly Queue](https://leetcode.com/problems/orderly-queue/)
 
