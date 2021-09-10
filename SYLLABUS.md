@@ -194,3 +194,10 @@
     - Topological Sort
     - Bellman ford
     - A* pathfinding Algorithm
+
+## Mind Map:
+<a href="https://whimsical.com/complete-java-dsa-bootcamp-syllabus-UiepFrvja5VatNLJgKsqXb">
+    <img width="390px" height="183px" src="https://github.com/VishwaGauravIn/DSA-Bootcamp-Java/blob/main/Capture.JPG" />
+  </a> 
+  
+  [Full Mind Map](https://whimsical.com/complete-java-dsa-bootcamp-syllabus-UiepFrvja5VatNLJgKsqXb)
