@@ -32,7 +32,6 @@
 - [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
 - [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)
 - [Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/)
-- [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
 - [String Compression](https://leetcode.com/problems/string-compression/)
 - [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 
