@@ -12,6 +12,7 @@
 - [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)
 - [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 - [Rotate String](https://leetcode.com/problems/rotate-string/)
+- [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
 - [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
 - [Long Pressed Name | Faulty Keyboard](https://leetcode.com/problems/long-pressed-name/)
 - [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
