@@ -1,9 +1,16 @@
 # Complete Java + DSA Bootcamp Syllabus
 
-## NOTE: 
+## NOTE
 - All topics will contain problems from LeetCode Easy to Hard, explained in an easy-to-understand manner.
 - Complete custom implementation of all Data Structures and Algorithms.
 
+## Mind Map
+<a href="https://whimsical.com/complete-java-dsa-bootcamp-syllabus-UiepFrvja5VatNLJgKsqXb">
+	<img width="390px" height="183px" src="https://github.com/VishwaGauravIn/DSA-Bootcamp-Java/blob/main/Capture.JPG" />
+</a> 
+
+[Full Mind Map](https://whimsical.com/complete-java-dsa-bootcamp-syllabus-UiepFrvja5VatNLJgKsqXb)
+  
 ## Lectures
 - [Complete Git & GitHub Course](https://youtu.be/apGV9Kg7ics)
 - [Introduction to Programming](https://youtu.be/wn49bJOYAZM)
@@ -194,10 +201,3 @@
     - Topological Sort
     - Bellman ford
     - A* pathfinding Algorithm
-
-## Mind Map:
-<a href="https://whimsical.com/complete-java-dsa-bootcamp-syllabus-UiepFrvja5VatNLJgKsqXb">
-    <img width="390px" height="183px" src="https://github.com/VishwaGauravIn/DSA-Bootcamp-Java/blob/main/Capture.JPG" />
-  </a> 
-  
-  [Full Mind Map](https://whimsical.com/complete-java-dsa-bootcamp-syllabus-UiepFrvja5VatNLJgKsqXb)
