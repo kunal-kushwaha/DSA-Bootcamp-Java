@@ -50,9 +50,8 @@
         - [Insertion Sort](https://youtu.be/By_5-RRqVeE)
         - [Selection Sort](https://youtu.be/Nd4SCCIHFWk)
         - [Bubble Sort](https://youtu.be/F5MZyqRp_IM)
-        - Count Sort
-        - Radix Sort
         - [Cyclic Sort](https://youtu.be/JfinxytTYFQ)
+        - (More later)
     - Sliding window
     - Two Pointer
     - Subarray Questions
@@ -185,6 +184,8 @@
     - Limitations and how to solve
     - Map using LinkedList
     - Map using Hash
+    - Count Sort
+    - Radix Sort
     - Chaining
     - Probing
     - Huffman-Encoder
