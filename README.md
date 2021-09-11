@@ -42,7 +42,7 @@
     <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
  
  
- ## Thanks to all the contributors ❤️
+### Thanks to all the contributors ❤️
 <a href = "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=kunal-kushwaha/DSA-Bootcamp-Java"/>
 </a>
