@@ -1,9 +1,16 @@
 # Complete Java + DSA Bootcamp Syllabus
 
-## NOTE: 
+## NOTE
 - All topics will contain problems from LeetCode Easy to Hard, explained in an easy-to-understand manner.
 - Complete custom implementation of all Data Structures and Algorithms.
 
+## Mind Map
+<a href="https://whimsical.com/complete-java-dsa-bootcamp-syllabus-UiepFrvja5VatNLJgKsqXb">
+	<img width="390px" height="183px" src="https://github.com/VishwaGauravIn/DSA-Bootcamp-Java/blob/main/Capture.JPG" />
+</a> 
+
+[Full Mind Map](https://whimsical.com/complete-java-dsa-bootcamp-syllabus-UiepFrvja5VatNLJgKsqXb)
+  
 ## Lectures
 - [Complete Git & GitHub Course](https://youtu.be/apGV9Kg7ics)
 - [Introduction to Programming](https://youtu.be/wn49bJOYAZM)
@@ -43,19 +50,18 @@
         - [Insertion Sort](https://youtu.be/By_5-RRqVeE)
         - [Selection Sort](https://youtu.be/Nd4SCCIHFWk)
         - [Bubble Sort](https://youtu.be/F5MZyqRp_IM)
-        - Count Sort
-        - Radix Sort
         - [Cyclic Sort](https://youtu.be/JfinxytTYFQ)
+        - (More later)
     - Sliding window
     - Two Pointer
     - Subarray Questions
 - Pattern questions
-- Strings
-    - Introduction
-    - How Strings work
-    - Comparison of methods
-    - Operations in Strings
-    - StringBuilder in java
+- [Strings](https://www.youtube.com/watch?v=zL1DPZ0Ovlo)
+    - [Introduction](https://www.youtube.com/watch?v=zL1DPZ0Ovlo)
+    - [How Strings work](https://youtu.be/zL1DPZ0Ovlo?t=216)
+    - [Comparison of methods](https://youtu.be/zL1DPZ0Ovlo?t=977)
+    - [Operations in Strings](https://youtu.be/zL1DPZ0Ovlo?t=1681)
+    - [StringBuilder in java](https://youtu.be/zL1DPZ0Ovlo?t=4199)
 - Maths for DSA
     - Introduction
     - Complete Bitwise Operators
@@ -178,6 +184,8 @@
     - Limitations and how to solve
     - Map using LinkedList
     - Map using Hash
+    - Count Sort
+    - Radix Sort
     - Chaining
     - Probing
     - Huffman-Encoder
