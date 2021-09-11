@@ -37,7 +37,6 @@ Print these patterns using loops:
     ***
     ****
     *****
-    *****
     ****
     ***
     **
@@ -218,7 +217,6 @@ Print these patterns using loops:
        * * *
       * * * *
      * * * * *
-     * * * * *
       * * * *
        * * *
         * *
@@ -229,7 +227,6 @@ Print these patterns using loops:
        **      **
        ***    ***
        ****  ****
-       **********
        **********
        ****  ****
        ***    ***
