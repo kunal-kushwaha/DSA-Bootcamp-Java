@@ -55,7 +55,7 @@
     - Sliding window
     - Two Pointer
     - Subarray Questions
-- Pattern questions
+- [Pattern questions](https://youtu.be/lsOOs5J8ycw)
 - [Strings](https://www.youtube.com/watch?v=zL1DPZ0Ovlo)
     - [Introduction](https://www.youtube.com/watch?v=zL1DPZ0Ovlo)
     - [How Strings work](https://youtu.be/zL1DPZ0Ovlo?t=216)
