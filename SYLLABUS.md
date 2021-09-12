@@ -45,7 +45,7 @@
         - [Linear Search](https://youtu.be/_HRA37X8N_Q)
         - [Binary Search](https://youtu.be/f6UU7V3szVw)
         - [Modified Binary Search](https://youtu.be/f6UU7V3szVw?t=2508)
-        - Binary Search on 2D Arrays
+        - [Binary Search on 2D Arrays](https://www.youtube.com/watch?v=enI_KyGLYPo)
     - Sorting
         - [Insertion Sort](https://youtu.be/By_5-RRqVeE)
         - [Selection Sort](https://youtu.be/Nd4SCCIHFWk)
@@ -55,7 +55,7 @@
     - Sliding window
     - Two Pointer
     - Subarray Questions
-- Pattern questions
+- [Pattern questions](https://youtu.be/lsOOs5J8ycw)
 - [Strings](https://www.youtube.com/watch?v=zL1DPZ0Ovlo)
     - [Introduction](https://www.youtube.com/watch?v=zL1DPZ0Ovlo)
     - [How Strings work](https://youtu.be/zL1DPZ0Ovlo?t=216)
