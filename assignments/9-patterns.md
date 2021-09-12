@@ -253,4 +253,16 @@ Print these patterns using loops:
        C D E
        B C D E
        A B C D E
+
+33.    a
+       B c
+       D e F
+       g H i J
+       k L m N o
+     
+34.    E D C B A
+       D C B A
+       C B A
+       B A
+       A
 ```
