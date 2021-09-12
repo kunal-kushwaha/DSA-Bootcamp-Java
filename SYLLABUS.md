@@ -81,8 +81,8 @@
         - Wilson's Theorem
         - Lucas Theorem
         - Chinese Remainder Theorem
-- Recursion
-    - Introduction
+- [Recursion](https://youtu.be/M2uO2nMT0Bk)
+    - [Introduction](https://youtu.be/M2uO2nMT0Bk)
     - Why recursion?
     - Flow of recursive programs - stacks
     - Convert recursion to iteration
