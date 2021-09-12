@@ -2,6 +2,7 @@
 - [Linear Search](https://youtu.be/_HRA37X8N_Q)
 - [Binary Search](https://youtu.be/f6UU7V3szVw)
 - [Binary Search Questions](https://youtu.be/W9QJ8HaRvJQ)
+- [Binary Search in 2D Arrays](https://youtu.be/enI_KyGLYPo)
 
 # Problems:
 
