@@ -4,6 +4,7 @@
 # Problems
 
 ## Easy
+- Write a recursive function that returns the factorial of a number
 - https://leetcode.com/problems/reverse-string/
 - https://leetcode.com/problems/fibonacci-number/
 - https://leetcode.com/problems/power-of-two/
