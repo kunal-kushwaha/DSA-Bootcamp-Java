@@ -248,4 +248,9 @@ Print these patterns using loops:
          4 3 3 3 3 3 4   
          4 4 4 4 4 4 4   
 
+32.    E
+       D E
+       C D E
+       B C D E
+       A B C D E
 ```
