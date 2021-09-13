@@ -12,6 +12,8 @@
 
 - <a href="https://github.com/kunal-kushwaha/Competitive-Programming-Resources" title="CP Lover? Click here to get some awesome resources related to Competitive Programming" style="background-color:#FFFFFF;color:#000000;text-decoration:none">🏆 Competitive Programming Resources</a>
 
+- <a href="https://thatbeautifuldream.github.io/java-dsa-bootcamp" title="Click here to access full Java DSA Bootcamp Blog" style="background-color:#FFFFFF;color:#000000;text-decoration:none">🌐 Java DSA Bootcamp Blog</a>
+
 
 ### Connect with me
   <a href="https://twitter.com/kunalstwt">
