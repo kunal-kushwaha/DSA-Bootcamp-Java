@@ -4,7 +4,7 @@
 # Problems
 
 ## Easy
-- Write a recursive function that returns the factorial of a number
+- [Find factorial of a given number](https://www.hackerrank.com/challenges/30-recursion/problem)
 - [Reverse String](https://leetcode.com/problems/reverse-string/)
 - [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 - [Power of Two](https://leetcode.com/problems/power-of-two/)
