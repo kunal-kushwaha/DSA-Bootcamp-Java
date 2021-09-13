@@ -85,7 +85,6 @@
     - [Introduction](https://youtu.be/M2uO2nMT0Bk)
     - [Flow of recursive programs - stacks](https://youtu.be/M2uO2nMT0Bk?t=2124)
     - [Why recursion?](https://youtu.be/M2uO2nMT0Bk?t=2708)
-    - Convert recursion to iteration
     - [Tree building of function calls](https://youtu.be/M2uO2nMT0Bk?t=3033)
     - [Tail recursion](https://youtu.be/M2uO2nMT0Bk?t=4308)
     - Sorting:
