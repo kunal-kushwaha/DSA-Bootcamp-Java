@@ -23,7 +23,7 @@
       n = a ^ x, (a = 2, 3, 4)
       (2 ^ -31) <= n <= (2 ^ 31) - 1      
 - [Write a recursive function that returns the factorial of a number.](https://www.hackerrank.com/challenges/30-recursion/problem)
-- Write a recursive function to check whether an array is sorted or not.
+- [Write a recursive function to check whether an array is sorted or not.](https://www.geeksforgeeks.org/program-check-array-sorted-not-iterative-recursive)
 
 ## Medium
 - [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/)
