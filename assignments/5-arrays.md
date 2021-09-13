@@ -37,6 +37,10 @@
 
 ### Hard
 1. [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)
+<<<<<<< HEAD
 2. [ First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 
 
+=======
+2. [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
+>>>>>>> 65330e5026bce3eda7c0fc4ce0788ceedb77c469
