@@ -1,0 +1,39 @@
+class Solution {
+    public int[] searchRange(int[] nums, int target) {
+      int sol[]={-1,-1};
+        sol[0]=b(nums,target,true);
+        sol[1]=b(nums,target,false);
+return sol;
+    }
+      int b(int arr[], int x,boolean y)
+    {
+int l = 0, r = arr.length - 1,ans=-1;  
+
+        while (l <= r) {
+            int m = l + (r - l) / 2;
+  
+            // If x is smaller, ignore right half
+            if (arr[m] > x)
+                r = m - 1; 
+  
+            // If x greater, ignore left half
+           else  if (arr[m] < x)
+             l = m + 1   ;
+  
+        
+            else
+               
+{
+                ans=m;
+if(y){
+    r=m-1;
+}else{
+    l=m+1;
+}
+            }
+        }
+  
+   return ans;     
+}
+
+ } 
