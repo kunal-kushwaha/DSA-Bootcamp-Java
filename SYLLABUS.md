@@ -45,7 +45,7 @@
         - [Linear Search](https://youtu.be/_HRA37X8N_Q)
         - [Binary Search](https://youtu.be/f6UU7V3szVw)
         - [Modified Binary Search](https://youtu.be/f6UU7V3szVw?t=2508)
-        - Binary Search on 2D Arrays
+        - [Binary Search on 2D Arrays](https://www.youtube.com/watch?v=enI_KyGLYPo)
     - Sorting
         - [Insertion Sort](https://youtu.be/By_5-RRqVeE)
         - [Selection Sort](https://youtu.be/Nd4SCCIHFWk)
@@ -55,7 +55,7 @@
     - Sliding window
     - Two Pointer
     - Subarray Questions
-- Pattern questions
+- [Pattern questions](https://youtu.be/lsOOs5J8ycw)
 - [Strings](https://www.youtube.com/watch?v=zL1DPZ0Ovlo)
     - [Introduction](https://www.youtube.com/watch?v=zL1DPZ0Ovlo)
     - [How Strings work](https://youtu.be/zL1DPZ0Ovlo?t=216)
@@ -81,13 +81,12 @@
         - Wilson's Theorem
         - Lucas Theorem
         - Chinese Remainder Theorem
-- Recursion
-    - Introduction
-    - Why recursion?
-    - Flow of recursive programs - stacks
-    - Convert recursion to iteration
-    - Tree building of function calls
-    - Tail recursion
+- [Recursion](https://youtu.be/M2uO2nMT0Bk)
+    - [Introduction](https://youtu.be/M2uO2nMT0Bk)
+    - [Flow of recursive programs - stacks](https://youtu.be/M2uO2nMT0Bk?t=2124)
+    - [Why recursion?](https://youtu.be/M2uO2nMT0Bk?t=2708)
+    - [Tree building of function calls](https://youtu.be/M2uO2nMT0Bk?t=3033)
+    - [Tail recursion](https://youtu.be/M2uO2nMT0Bk?t=4308)
     - Sorting:
         - Merge Sort
         - Quick Sort
