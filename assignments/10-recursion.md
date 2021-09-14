@@ -13,7 +13,7 @@
 - [Recursive Bubble Sort](https://www.geeksforgeeks.org/recursive-bubble-sort/)
 - [Recursive Insertion Sort](https://www.geeksforgeeks.org/recursive-insertion-sort/)
 - [Sum of digit of a number using Recursion](https://www.geeksforgeeks.org/sum-digit-number-using-recursion/)
-- [Product of two numbers using Recursion](https://www.geeksforgeeks.org/recursion-practice-problems-solutions/)
+- [Product of two numbers using Recursion](https://www.geeksforgeeks.org/product-2-numbers-using-recursion/)
 - [Check Prime or not](https://www.geeksforgeeks.org/recursive-program-prime-number/)
 - [Sum of Natural numbers using Recursion](https://www.geeksforgeeks.org/sum-of-natural-numbers-using-recursion/)
 - [Power of Two](https://leetcode.com/problems/power-of-two/)
