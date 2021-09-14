@@ -5,6 +5,7 @@ Public repositories that contain solutions for [assignments](https://github.com/
 - Milind Mishra's [solutions](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
 - Divya Sri Darimisetti's [solutions](https://github.com/irsayvid/problem-attic)
 - Mayank Singh's [solutions](https://github.com/mayankkuthar/DSA-with-JAVA)
+- Rishabh Kumar's [solutions](https://github.com/crishabhkumar/Leetcode)
 - Vishwa Gaurav's [solutions](https://github.com/VishwaGauravIn/Java-DSA-Solution)
 - Milind Mishra's [solutions](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
 - Shivam Tyagi's [solutions](https://github.com/ShivamTyagi12345/Java-DSA-solutions)
