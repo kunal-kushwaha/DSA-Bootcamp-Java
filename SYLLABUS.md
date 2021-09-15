@@ -188,3 +188,14 @@
     - Topological Sort
     - Bellman ford
     - A* pathfinding Algorithm
+
+### Advanced concepts apart from interviews 
+- Bitwise + DP
+- Extended Euclidean algorithm
+- Modulo Multiplicative Inverse
+- Linear Diophantine Equations
+- Fermat’s Theorem
+- Wilson's Theorem
+- Lucas Theorem
+- Chinese Remainder Theorem
+- NP-Completeness
