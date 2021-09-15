@@ -13,3 +13,4 @@ Public repositories that contain solutions for [assignments](https://github.com/
 - Afnan's [solutions](https://github.com/afuu21/DSA-video-solutions)
 - Anurag Pathak's [solutions](https://github.com/AnuragThePathak/Leetcode-Solutions)
 - Dipankar's [solutions](https://github.com/dipankar-cmd/Commclassroom-DR)
+- Ansh Shrivas's [solutions](https://github.com/Hubcodee/DSAbootcamp2021)
