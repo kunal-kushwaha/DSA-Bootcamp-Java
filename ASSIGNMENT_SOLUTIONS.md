@@ -9,5 +9,5 @@ Public repositories that contain solutions for [assignments](https://github.com/
 - Rishabh Kumar's [solutions](https://github.com/crishabhkumar/Leetcode)
 - Vishwa Gaurav's [solutions](https://github.com/VishwaGauravIn/Java-DSA-Solution)
 - Shivam Tyagi's [solutions](https://github.com/ShivamTyagi12345/Java-DSA-solutions)
-- Afnan's [video solutions](https://github.com/afuu21/DSA-video-solutions)
+- Afnan's [solutions](https://github.com/afuu21/DSA-video-solutions)
 - Anurag Pathak's [solutions](https://github.com/AnuragThePathak/Leetcode-Solutions)
