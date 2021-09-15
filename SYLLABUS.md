@@ -196,6 +196,7 @@
 - Modulo Multiplicative Inverse
 - Linear Diophantine Equations
 - Matrix Exponentiation
+- Mathematical Expectation
 - Fermat’s Theorem
 - Wilson's Theorem
 - Lucas Theorem
