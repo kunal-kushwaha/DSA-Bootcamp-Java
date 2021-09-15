@@ -79,4 +79,32 @@ public class SortedMatrix {
             return binarySearch(matrix, rStart + 1, cMid + 1, cols - 1, target);
         }
     }
+    
+     // // Searching In the Required Row
+//     public static int[] search(int[][] matrix, int target) {
+
+//         int rStart = 0;
+//         int rEnd = matrix.length - 1;
+
+//         while (rStart <= rEnd) {
+
+//             int rMid = rStart + (rEnd - rStart) / 2;
+//             int cEnd = matrix[rMid].length - 1;
+
+//             if (target <= matrix[rMid][cEnd] && target >= matrix[rMid][0]) {
+
+//                 System.out.println(Arrays.toString(binarySearch(matrix, rMid, 0, cEnd, target)));
+//                 return binarySearch(matrix, rMid, 0, cEnd, target);
+//             } else if (target > matrix[rMid][cEnd]) {
+//                 rStart = rMid + 1;
+//             } else if (target < matrix[rMid][cEnd]) {
+//                 rEnd = rMid - 1;
+//             }
+
+//         }
+
+//         return new int[]{-1, -1};
+//     }
+    
+    
 }
