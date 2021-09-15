@@ -51,10 +51,6 @@
         - [Selection Sort](https://youtu.be/Nd4SCCIHFWk)
         - [Bubble Sort](https://youtu.be/F5MZyqRp_IM)
         - [Cyclic Sort](https://youtu.be/JfinxytTYFQ)
-        - (More later)
-    - Sliding window
-    - Two Pointer
-    - Subarray Questions
 - [Pattern questions](https://youtu.be/lsOOs5J8ycw)
 - [Strings](https://www.youtube.com/watch?v=zL1DPZ0Ovlo)
     - [Introduction](https://www.youtube.com/watch?v=zL1DPZ0Ovlo)
@@ -71,16 +67,6 @@
     - Newton's Square Root Method
     - Number Theory
     - Euclidean algorithm
-    - Advanced Concepts for CP (later in the course)
-        - Bitwise + DP
-        - Extended Euclidean algorithm
-        - Modulo Properties
-        - Modulo Multiplicative Inverse
-        - Linear Diophantine Equations
-        - Fermat’s Theorem
-        - Wilson's Theorem
-        - Lucas Theorem
-        - Chinese Remainder Theorem
 - [Recursion](https://youtu.be/M2uO2nMT0Bk)
     - [Introduction](https://youtu.be/M2uO2nMT0Bk)
     - [Flow of recursive programs - stacks](https://youtu.be/M2uO2nMT0Bk?t=2124)
@@ -109,7 +95,7 @@
     - Complexity discussion of all the problems we do
     - Space Complexity 
     - Memory Allocation of various languages
-    - NP-Completeness and Hardness
+    - NP-Completeness Introduction
 - Object Oriented Programming
     - Introduction
     - Classes & its instances
@@ -133,7 +119,7 @@
     - Lambda Expression
     - Enums
     - Fast IO
-	- File handling
+    - File handling
 - Greedy Algorithms
 - Stacks & Queues
     - Introduction
@@ -188,6 +174,7 @@
     - Chaining
     - Probing
     - Huffman-Encoder
+- Subarray Questions: Sliding window, Two Pointer, Kadane's Algorithm
 - Tries
 - Graphs
     - Introduction
