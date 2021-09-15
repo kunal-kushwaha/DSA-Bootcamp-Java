@@ -195,6 +195,7 @@
 - Extended Euclidean algorithm
 - Modulo Multiplicative Inverse
 - Linear Diophantine Equations
+- Matrix Exponentiation
 - Fermat’s Theorem
 - Wilson's Theorem
 - Lucas Theorem
