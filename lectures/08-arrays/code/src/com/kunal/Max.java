@@ -9,7 +9,7 @@ public class Max {
     // work on edge cases here, like array being null
     static int maxRange(int[] arr, int start, int end) {
 
-        if (end > start) {
+        if (start > end) {
             return -1;
         }
 
