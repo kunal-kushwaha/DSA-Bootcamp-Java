@@ -11,7 +11,7 @@
 
 [Full Mind Map](https://whimsical.com/complete-java-dsa-bootcamp-syllabus-UiepFrvja5VatNLJgKsqXb)
   
-## Lectures
+## Lectures `64/180`
 - [Complete Git & GitHub Course](https://youtu.be/apGV9Kg7ics)
 - [Introduction to Programming](https://youtu.be/wn49bJOYAZM)
     - [Types of languages](https://youtu.be/wn49bJOYAZM?t=171)
@@ -190,7 +190,7 @@
     - Bellman ford
     - A* pathfinding Algorithm
 
-### Advanced concepts apart from interviews 
+### Advanced concepts apart from interviews `0/11`
 - Bitwise + DP
 - Extended Euclidean algorithm
 - Modulo Multiplicative Inverse
