@@ -31,7 +31,9 @@ public class SortedMatrix {
     static int[] search(int[][] matrix, int target) {
         int rows = matrix.length;
         int cols = matrix[0].length; // be cautious, matrix may be empty
-
+        if (cols == 0){
+            return new int[] {-1,-1};
+        }
         if (rows == 1) {
             return binarySearch(matrix,0, 0, cols-1, target);
         }
