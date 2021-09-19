@@ -85,18 +85,18 @@
     - Recursion Array Problems
     - Recursion Pattern Problems
     - Subset Questions
-- Space and Time Complexity Analysis
-    - Introduction
-    - Comparisons of various cases
-    - Solving Linear Recurrence Relations
-    - Solving Divide and Conquer Recurrence Relations
-    - Big-O, Big-Omega, Big-Theta Notations
-    - Little Notations
-    - Get equation of any relation easily - best and easiest approach
-    - Complexity discussion of all the problems we do
-    - Space Complexity 
-    - Memory Allocation of various languages
-    - NP-Completeness Introduction
+- [Space and Time Complexity Analysis](https://youtu.be/mV3wrLBbuuE)
+    - [Introduction](https://youtu.be/mV3wrLBbuuE)
+    - [Comparisons of various cases](https://youtu.be/mV3wrLBbuuE?t=1039)
+    - [Solving Linear Recurrence Relations](https://youtu.be/mV3wrLBbuuE?t=6252)
+    - [Solving Divide and Conquer Recurrence Relations](https://youtu.be/mV3wrLBbuuE?t=4609)
+    - [Big-O, Big-Omega, Big-Theta Notations](https://youtu.be/mV3wrLBbuuE?t=2271)
+    - [Little Notations](https://youtu.be/mV3wrLBbuuE?t=2960)
+    - [Get equation of any relation easily - best and easiest approach](https://youtu.be/mV3wrLBbuuE?t=8189)
+    - [Complexity discussion of all the problems we do](https://youtu.be/mV3wrLBbuuE?t=3866)
+    - [Space Complexity](https://youtu.be/mV3wrLBbuuE?t=3330)
+    - [Memory Allocation of various languages](https://youtu.be/mV3wrLBbuuE)
+    - [NP-Completeness Introduction](https://youtu.be/mV3wrLBbuuE?t=8695)
 - Object Oriented Programming
     - Introduction
     - Classes & its instances
