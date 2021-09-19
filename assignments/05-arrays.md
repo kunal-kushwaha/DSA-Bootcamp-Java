@@ -38,5 +38,5 @@
 6. [Rotate Array](https://leetcode.com/problems/rotate-array/)
 
 ### Hard
-1. [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)
-2. [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
+1. [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/):x:
+2. [First Missing Positive](https://leetcode.com/problems/first-missing-positive/):x:
