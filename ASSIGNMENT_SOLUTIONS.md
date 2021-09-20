@@ -8,3 +8,4 @@
 - Mayank Singh's [solutions](https://github.com/mayankkuthar/DSA-with-JAVA)
 - Rishabh Kumar's [solutions](https://github.com/crishabhkumar/Leetcode)
 - Adarsh Navneet Sinha's [solutions](https://github.com/geeky01adarsh/DSA-Interview-Questions) (in C++)
+- Nikita Anil Gupta's [solutions](https://github.com/gnikita432/-DSA-leetcode-solutions)
