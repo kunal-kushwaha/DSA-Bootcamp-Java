@@ -58,10 +58,10 @@
     - [Comparison of methods](https://youtu.be/zL1DPZ0Ovlo?t=977)
     - [Operations in Strings](https://youtu.be/zL1DPZ0Ovlo?t=1681)
     - [StringBuilder in java](https://youtu.be/zL1DPZ0Ovlo?t=4199)
-- Maths for DSA
-    - Introduction
-    - Complete Bitwise Operators
-    - Range of numbers
+- [Maths for DSA](https://youtu.be/fzip9Aml6og)
+    - [Introduction](https://youtu.be/fzip9Aml6og?t=20)
+    - [Complete Bitwise Operators](https://www.youtube.com/watch?t=95)
+    - [Range of numbers](https://www.youtube.com/watch?t=4169)
     - Prime numbers
     - HCF / LCM
     - Sieve of Eratosthenes
