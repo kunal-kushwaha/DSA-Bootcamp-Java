@@ -61,6 +61,7 @@
 - Maths for DSA
     - Introduction
     - Complete Bitwise Operators
+    - Range of numbers
     - Prime numbers
     - HCF / LCM
     - Sieve of Eratosthenes
