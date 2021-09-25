@@ -68,6 +68,8 @@
     - Newton's Square Root Method
     - Number Theory
     - Euclidean algorithm
+    - Modulo properties
+    - Factors
 - [Recursion](https://youtu.be/M2uO2nMT0Bk)
     - [Introduction](https://youtu.be/M2uO2nMT0Bk)
     - [Flow of recursive programs - stacks](https://youtu.be/M2uO2nMT0Bk?t=2124)
