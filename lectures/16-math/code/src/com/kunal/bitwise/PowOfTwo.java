@@ -1,4 +1,4 @@
-package com.kunal;
+package com.kunal.bitwise;
 
 public class PowOfTwo {
     public static void main(String[] args) {
