@@ -1,0 +1,33 @@
+1.String is a class
+2.Strings are immutable.
+3....objects are stored in pool.
+            ***Strings which are not explicitly created is stored inside the heap in pool memory aka String pool.***
+  String a = "Alok";
+  String b = "Alok";
+  System.out.println("a==b"); --->True.
+  System.out.println("a.equals(b)"); --->True.
+
+ .....objects are stored in heap.
+   String name3 = new String("Alok");
+   String name4 = new String("Alok");
+   System.out.println(name3.equals(name4)); --->True
+   System.out.println(name3 == name4);  --->False
+
+4.Pretty printing
+int a=4.35353;
+     System.out.printf("Value of a is %.2f",a); ----->4.35
+5.String concatenation operator(+)
+    *This operator is only functional if at least one value is String type or can be applied on primitives.
+
+6.In java operator overloading is not supported.
+7.In case of comparison use .equals method.
+8.StringBuilder is a class like String, but it allows to change the objects,i.e.StringBuilder is immutable.
+example:
+            StringBuilder builder = new StringBuilder();
+            for(int i=0;i<26;i++){
+            char ch = (char)('a'+i);
+            builder.append(ch);
+            }
+
+
+
