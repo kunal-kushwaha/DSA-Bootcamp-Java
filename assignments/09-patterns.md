@@ -265,4 +265,9 @@ Print these patterns using loops:
        C B A
        B A
        A
+       
+35.    1      1
+       12    21
+       123  321
+       12344321
 ```
