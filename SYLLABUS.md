@@ -62,14 +62,15 @@
     - [Introduction](https://youtu.be/fzip9Aml6og?t=20)
     - [Complete Bitwise Operators](https://www.youtube.com/watch?t=95)
     - [Range of numbers](https://www.youtube.com/watch?t=4169)
-    - Prime numbers
-    - HCF / LCM
-    - Sieve of Eratosthenes
-    - Newton's Square Root Method
-    - Number Theory
-    - Euclidean algorithm
-    - Modulo properties
-    - Factors
+    - [Prime numbers](https://youtu.be/lmSpZ0bjCyQ?t=57)
+    - [Sieve of Eratosthenes](https://youtu.be/lmSpZ0bjCyQ?t=850)
+    - [Newton's Square Root Method](https://youtu.be/lmSpZ0bjCyQ?t=1989)
+    - [Factors](https://youtu.be/lmSpZ0bjCyQ?t=3004)
+    - [Modulo properties](https://youtu.be/lmSpZ0bjCyQ?t=3980)
+    - [Number Theory](https://youtu.be/lmSpZ0bjCyQ?t=4405)
+    - [HCF / LCM](https://youtu.be/lmSpZ0bjCyQ?t=5110)
+    - [Euclidean algorithm](https://youtu.be/lmSpZ0bjCyQ?t=5520)
+    
 - [Recursion](https://youtu.be/M2uO2nMT0Bk)
     - [Introduction](https://youtu.be/M2uO2nMT0Bk)
     - [Flow of recursive programs - stacks](https://youtu.be/M2uO2nMT0Bk?t=2124)
