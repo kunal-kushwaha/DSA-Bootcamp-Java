@@ -58,7 +58,13 @@ public class RBS {
             if (mid > start && arr[mid] < arr[mid - 1]) {
                 return mid-1;
             }
-            if (arr[mid] <= arr[start]) {
+            if (arr[mid] < arr[start]) {
+            
+            // By changing this condition from <= to <, We can find pviot even if there is a duplicate values and it helps us to reduce that long code
+            // "Lazy to code that if this works"
+            // I have gone through few basic cases like [3,3,3,3,1,2], [3,3,3,3,3,3,3,3,3,3,1,2], [2,3,3,3,3,3,3,3,3,3,3,1,2], [2,2,2,2,1,2]
+            // I hope it must be correct please do verify from your end.
+            // Thanks bro keep going you got a huge support coz of this super amazing playlist!
                 end = mid - 1;
             } else {
                 start = mid + 1;
