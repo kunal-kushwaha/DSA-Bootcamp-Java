@@ -26,6 +26,7 @@ public class BinarySearchSQRT {
                 e = m - 1;
             } else {
                 s = m + 1;
+                root = m;
             }
         }
         double incr = 0.1;
