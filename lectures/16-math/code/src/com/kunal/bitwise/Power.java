@@ -1,4 +1,4 @@
-package com.kunal;
+package com.kunal.bitwise;
 
 public class Power {
     public static void main(String[] args) {
