@@ -52,13 +52,13 @@ public class RotationCount {
                 // skip the duplicates
                 // NOTE: what if these elements at start and end were the pivot??
                 // check if start is pivot
-                if (arr[start] > arr[start + 1]) {
+                if ((start < end) && (arr[start] > arr[start + 1])) {
                     return start;
                 }
                 start++;
 
                 // check whether end is pivot
-                if (arr[end] < arr[end - 1]) {
+                if ((end > start) && (arr[end] < arr[end - 1])) {
                     return end - 1;
                 }
                 end--;
