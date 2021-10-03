@@ -1,6 +1,6 @@
 # Videos
 - [Introduction to Recursion](https://youtu.be/M2uO2nMT0Bk)
-- [Recursion Level 1 Questions](https://www.youtube.com/watch?v=JxILxTwHukM&list=RDCMUCBGOUQHNNtNGcGzVq5rIXjw&start_radio=1)
+- [Recursion Level 1 Questions](https://youtu.be/JxILxTwHukM)
 
 # Problems
 
