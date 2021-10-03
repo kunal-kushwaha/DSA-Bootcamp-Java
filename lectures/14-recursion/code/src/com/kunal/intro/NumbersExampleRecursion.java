@@ -1,4 +1,4 @@
-package com.kunal;
+package com.kunal.intro;
 
 public class NumbersExampleRecursion {
     public static void main(String[] args) {
