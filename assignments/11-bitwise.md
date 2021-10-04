@@ -10,7 +10,7 @@
 - [Counting Bits](https://leetcode.com/problems/counting-bits/)
 - [Binary Watch](https://leetcode.com/problems/binary-watch/)
 - [Hamming Distance](https://leetcode.com/problems/hamming-distance/)
-- [Number Complement](https://leetcode.com/problems/number-complemen)
+- [Number Complement](https://leetcode.com/problems/number-complement/)
 - [Set Mismatch](https://leetcode.com/problems/set-mismatch/)
 - [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)
 - [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)
