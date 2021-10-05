@@ -13,14 +13,22 @@ public class InfiniteArray {
         int start = 0;
         int end = 1;
 
-        // condition for the target to lie in the range
-        while (target > arr[end]) {
-            int temp = end + 1; // this is my new start
-            // double the box value
-            // end = previous end + sizeofbox*2
-            end = end + (end - start + 1) * 2;
-            start = temp;
-        }
+        // // condition for the target to lie in the range
+        // while (target > arr[end]) {
+        //     int temp = end + 1; // this is my new start
+        //     // double the box value
+        //     // end = previous end + sizeofbox*2
+        //     end = end + (end - start + 1) * 2;
+        //     start = temp;
+        // }
+        while(target > a[end]){
+            int temp = end +1;
+            start =  temp;
+            end = start + 1;
+            if(end > a.length-1){
+                return start;
+            }
+
         return binarySearch(arr, target, start, end);
 
     }
