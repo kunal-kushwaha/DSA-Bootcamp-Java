@@ -1,6 +1,6 @@
 package com.conditionals_loops_2;
 
-import com.company.Main;
+//import com.company.Main;
 
 import java.awt.*;
 import java.awt.geom.Area;
