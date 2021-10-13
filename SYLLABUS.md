@@ -86,7 +86,7 @@
         - N-Knights
         - Maze problems
     - Recursion String Problems
-    - Recursion Array Problems
+    - [Recursion Array Problems](https://youtu.be/sTdiMLom00U)
     - Recursion Pattern Problems
     - Subset Questions
 - [Space and Time Complexity Analysis](https://youtu.be/mV3wrLBbuuE)
