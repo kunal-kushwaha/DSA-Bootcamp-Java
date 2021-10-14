@@ -39,6 +39,9 @@
 - [Pow(x, n)](https://leetcode.com/problems/powx-n/) `leetcode`
 - [Minimum Non-Zero Product of the Array Elements](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/) `leetcode`
 - [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion&filters%5Bdifficulty%5D%5B%5D=medium)
+- [Perfect squares](https://leetcode.com/problems/perfect-squares/)`leetcode`
+- [decode string](https://leetcode.com/problems/decode-string/)`leetcode`
+- [find the winner of the circular game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)`leetcode`
 
 ## Hard
 - [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) `leetcode`
@@ -48,3 +51,4 @@
 - [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) `leetcode`
 - [Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors/) `leetcode`
 - [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion&filters%5Bdifficulty%5D%5B%5D=hard)
+- 
