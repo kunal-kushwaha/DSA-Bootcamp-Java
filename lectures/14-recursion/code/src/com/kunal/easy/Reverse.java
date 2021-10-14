@@ -26,8 +26,15 @@ public class Reverse {
         return rem * (int)(Math.pow(10, digits-1)) + helper(n/10, digits-1);
     }
 
+    public static int reverseNumber(int n) {
+        if (n < 10) return n;
+        int totalDigits = (int) Math.log10(n);
+        return (int) ((n % 10) * Math.pow(10, totalDigits) + reverseNumber(n / 10));
+    }
+
     public static void main(String[] args) {
         System.out.println(rev2(1234));
+        System.out.println(reverseNumber(187));
     }
 
 
