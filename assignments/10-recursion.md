@@ -11,8 +11,11 @@
 - [Maximum and Minimum value in an array](https://www.geeksforgeeks.org/recursive-programs-to-find-minimum-and-maximum-elements-of-array/) `GFG`
 - [First Uppercase Letter in a String](https://www.geeksforgeeks.org/first-uppercase-letter-in-a-string-iterative-and-recursive/) `GFG`
 - [Reverse String](https://leetcode.com/problems/reverse-string/) `leetcode`
+- [Print 1 To N Without Loop](https://practice.geeksforgeeks.org/problems/print-1-to-n-without-using-loops-1587115620/1/?category[]=Recursion&category[]=Recursion&difficulty[]=-2&page=1&query=category[]Recursiondifficulty[]-2page1category[]Recursion/) `GFG`
 - [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) `leetcode`
+- [Special Fibonacci](https://www.codechef.com/problems/FIBXOR01/) `CodeChef`
 - [Length of string using Recursion](https://www.geeksforgeeks.org/program-for-length-of-a-string-using-recursion/) `GFG`
+- [Geek-onacci Number](https://practice.geeksforgeeks.org/problems/geek-onacci-number/0/?category[]=Recursion&category[]=Recursion&difficulty[]=0&page=1&query=category[]Recursiondifficulty[]0page1category[]Recursion/) `GFG`
 - [Recursive Bubble Sort](https://www.geeksforgeeks.org/recursive-bubble-sort/) `GFG`
 - [Recursive Insertion Sort](https://www.geeksforgeeks.org/recursive-insertion-sort/) `GFG`
 - [Sum of digit of a number using Recursion](https://www.geeksforgeeks.org/sum-digit-number-using-recursion/) `GFG`
@@ -36,8 +39,10 @@
 - [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) `leetcode`
 - [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) `leetcode`
 - [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) `leetcode`
+- [N Digit numbers with digits in increasing order](https://practice.geeksforgeeks.org/problems/n-digit-numbers-with-digits-in-increasing-order5903/1/?category[]=Recursion&category[]=Recursion&difficulty[]=1&page=1&query=category[]Recursiondifficulty[]1page1category[]Recursion/) `GFG`
 - [Pow(x, n)](https://leetcode.com/problems/powx-n/) `leetcode`
 - [Minimum Non-Zero Product of the Array Elements](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/) `leetcode`
+- [Handshakes](https://practice.geeksforgeeks.org/problems/handshakes1303/1/?category[]=Recursion&category[]=Recursion&difficulty[]=1&page=1&query=category[]Recursiondifficulty[]1page1category[]Recursion/) `GFG`
 - [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion&filters%5Bdifficulty%5D%5B%5D=medium)
 - [Perfect squares](https://leetcode.com/problems/perfect-squares/)`leetcode`
 - [decode string](https://leetcode.com/problems/decode-string/)`leetcode`
@@ -47,6 +52,7 @@
 - [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) `leetcode`
 - [Special Binary String](https://leetcode.com/problems/special-binary-string/) `leetcode`
 - [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) `leetcode`
+- [Next Happy Number](https://practice.geeksforgeeks.org/problems/next-happy-number4538/1/?category[]=Recursion&category[]=Recursion&difficulty[]=2&page=1&query=category[]Recursiondifficulty[]2page1category[]Recursion/) `GFG`
 - [Basic Calculator](https://leetcode.com/problems/basic-calculator/) `leetcode`
 - [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) `leetcode`
 - [Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors/) `leetcode`
