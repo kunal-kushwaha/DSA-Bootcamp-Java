@@ -3,6 +3,7 @@
 - [Recursion Level 1 Questions](https://youtu.be/JxILxTwHukM)
 - [Recursion Array Questions](https://youtu.be/sTdiMLom00U)
 - [Pattern Questions + Bubble Sort + Selection Sort with Recursion](https://youtu.be/ymgnIIclCF0)
+- [Merge Sort](https://youtu.be/iKGAgWdgoRk)
 
 # Problems
 
@@ -58,4 +59,3 @@
 - [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) `leetcode`
 - [Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors/) `leetcode`
 - [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion&filters%5Bdifficulty%5D%5B%5D=hard)
-- 
