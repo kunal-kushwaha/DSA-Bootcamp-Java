@@ -78,7 +78,7 @@
     - [Tree building of function calls](https://youtu.be/M2uO2nMT0Bk?t=3033)
     - [Tail recursion](https://youtu.be/M2uO2nMT0Bk?t=4308)
     - Sorting:
-        - Merge Sort
+        - [Merge Sort](https://youtu.be/iKGAgWdgoRk)
         - Quick Sort
     - Backtracking
         - Sudoku Solver
