@@ -78,7 +78,7 @@
     - [Tree building of function calls](https://youtu.be/M2uO2nMT0Bk?t=3033)
     - [Tail recursion](https://youtu.be/M2uO2nMT0Bk?t=4308)
     - Sorting:
-        - Merge Sort
+        - [Merge Sort](https://youtu.be/iKGAgWdgoRk)
         - Quick Sort
     - Backtracking
         - Sudoku Solver
@@ -87,7 +87,7 @@
         - Maze problems
     - Recursion String Problems
     - [Recursion Array Problems](https://youtu.be/sTdiMLom00U)
-    - Recursion Pattern Problems
+    - [Recursion Pattern Problems](https://youtu.be/ymgnIIclCF0)
     - Subset Questions
 - [Space and Time Complexity Analysis](https://youtu.be/mV3wrLBbuuE)
     - [Introduction](https://youtu.be/mV3wrLBbuuE)
