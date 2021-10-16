@@ -79,7 +79,7 @@
     - [Tail recursion](https://youtu.be/M2uO2nMT0Bk?t=4308)
     - Sorting:
         - [Merge Sort](https://youtu.be/iKGAgWdgoRk)
-        - Quick Sort
+        - [Quick Sort](https://www.youtube.com/watch?v=Z8svOqamag8&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=27)
     - Backtracking
         - Sudoku Solver
         - N-Queens
