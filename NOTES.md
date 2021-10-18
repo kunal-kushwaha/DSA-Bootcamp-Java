@@ -6,3 +6,4 @@
 - DSA-Java
   - [GitHub-Repo](https://github.com/Utkarsh1504/DSA-Java) - for contribution
   - [Notes-website](https://utkarsh1504.github.io/DSA-Java/) - for revision
+- [Murtuzaali Surti](https://github.com/murtuzaalisurti/DSA-notes)
