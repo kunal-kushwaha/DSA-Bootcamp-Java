@@ -42,15 +42,16 @@
 - [Power Set of permutations of a string in Lexicographic order.](https://www.geeksforgeeks.org/powet-set-lexicographic-order/) `GFG`
 - [Combination Sum](https://leetcode.com/problems/combination-sum/) `leetcode`
 - [Word Search](https://leetcode.com/problems/word-search/) `leetcode`
+- [Target sum](https://leetcode.com/problems/target-sum/) `leetcode`
 
 ## Medium
 - [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) `leetcode`
 - [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) `leetcode`
 - [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) `leetcode`
-- [N Digit numbers with digits in increasing order](https://practice.geeksforgeeks.org/problems/n-digit-numbers-with-digits-in-increasing-order5903/1/?category[]=Recursion&category[]=Recursion&difficulty[]=1&page=1&query=category[]Recursiondifficulty[]1page1category[]Recursion/) `GFG`
+- [N Digit numbers with digits in increasing order](https://practice.geeksforgeeks.org/problems/n-digit-numbers-with-digits-in-increasing-order5903/1/) `GFG`
 - [Pow(x, n)](https://leetcode.com/problems/powx-n/) `leetcode`
 - [Minimum Non-Zero Product of the Array Elements](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/) `leetcode`
-- [Handshakes](https://practice.geeksforgeeks.org/problems/handshakes1303/1/?category[]=Recursion&category[]=Recursion&difficulty[]=1&page=1&query=category[]Recursiondifficulty[]1page1category[]Recursion/) `GFG`
+- [Handshakes](https://practice.geeksforgeeks.org/problems/handshakes1303/1/) `GFG`
 - [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion&filters%5Bdifficulty%5D%5B%5D=medium)
 - [Divisible Subset](https://www.codechef.com/problems/DIVSUBS)  `Codechef`
 - [Perfect squares](https://leetcode.com/problems/perfect-squares/)`leetcode`
@@ -63,6 +64,10 @@
 - [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) `leetcode`
 - [combination Sum III](https://leetcode.com/problems/combination-sum-iii/) `leetcode`
 - [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) `leetcode`
+- [Letter tile possibilities](https://leetcode.com/problems/letter-tile-possibilities/) `leetcode`
+- [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) `leetcode`
+- [Sort a stack using recursion](https://www.geeksforgeeks.org/sort-a-stack-using-recursion/) `GFG`
+- [Reverse a stack using recursion](https://www.geeksforgeeks.org/reverse-a-stack-using-recursion/) `GFG`
 
 ## Hard
 - [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) `leetcode`
@@ -75,4 +80,5 @@
 - [N Queens](https://leetcode.com/problems/n-queens/) `leetcode`
 - [N Queens II](https://leetcode.com/problems/n-queens-ii/) `leetcode`
 - [Word break II](https://leetcode.com/problems/word-break-ii/) `leetcode`
+- [Unique paths III](https://leetcode.com/problems/unique-paths-iii/) `leetcode`
 - [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion&filters%5Bdifficulty%5D%5B%5D=hard)
