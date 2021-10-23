@@ -60,7 +60,7 @@
 - [Different ways to add parantheses in the expression](https://leetcode.com/problems/different-ways-to-add-parentheses/) `leetcode`
 - [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) `leetcode`
 - [Predict the winner.](https://leetcode.com/problems/predict-the-winner/) `leetcode`
-- [Gray code](https://leetcode.com/problems/gray-code/) `leetcode`
+- [Gray code](https://practice.geeksforgeeks.org/problems/gray-code-1611215248/1/) `GFG` `Google`
 - [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) `leetcode`
 - [combination Sum III](https://leetcode.com/problems/combination-sum-iii/) `leetcode`
 - [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) `leetcode`
@@ -68,6 +68,9 @@
 - [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) `leetcode`
 - [Sort a stack using recursion](https://www.geeksforgeeks.org/sort-a-stack-using-recursion/) `GFG`
 - [Reverse a stack using recursion](https://www.geeksforgeeks.org/reverse-a-stack-using-recursion/) `GFG`
+- [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) `leetcode`
+- [Lowest Common Ancestor of a Binary Tree](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1/) `GFG` `Amex`
+- [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/) `leetcode`
 
 ## Hard
 - [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) `leetcode`
@@ -79,6 +82,7 @@
 - [Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors/) `leetcode`
 - [N Queens](https://leetcode.com/problems/n-queens/) `leetcode`
 - [N Queens II](https://leetcode.com/problems/n-queens-ii/) `leetcode`
-- [Word break II](https://leetcode.com/problems/word-break-ii/) `leetcode`
+- [Word break II](https://leetcode.com/problems/word-break-ii/) `leetcode` `Google`
 - [Unique paths III](https://leetcode.com/problems/unique-paths-iii/) `leetcode`
+- [Minimum steps to destination](https://practice.geeksforgeeks.org/problems/minimum-number-of-steps-to-reach-a-given-number5234/1/) `GFG` `Amex` `Adobe`
 - [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion&filters%5Bdifficulty%5D%5B%5D=hard)
