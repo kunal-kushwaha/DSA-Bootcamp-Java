@@ -40,6 +40,8 @@
 - [Remove consecutive duplicate characters from a string.](https://www.geeksforgeeks.org/remove-consecutive-duplicates-string/) `GFG` 
 - [Print all possible palindromic partitions of a string.](https://www.geeksforgeeks.org/given-a-string-print-all-possible-palindromic-partition/) `GFG`
 - [Power Set of permutations of a string in Lexicographic order.](https://www.geeksforgeeks.org/powet-set-lexicographic-order/) `GFG`
+- [Combination Sum](https://leetcode.com/problems/combination-sum/) `leetcode`
+- [Word Search](https://leetcode.com/problems/word-search/) `leetcode`
 
 ## Medium
 - [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) `leetcode`
@@ -57,6 +59,10 @@
 - [Different ways to add parantheses in the expression](https://leetcode.com/problems/different-ways-to-add-parentheses/) `leetcode`
 - [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) `leetcode`
 - [Predict the winner.](https://leetcode.com/problems/predict-the-winner/) `leetcode`
+- [Gray code](https://leetcode.com/problems/gray-code/) `leetcode`
+- [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) `leetcode`
+- [combination Sum III](https://leetcode.com/problems/combination-sum-iii/) `leetcode`
+- [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) `leetcode`
 
 ## Hard
 - [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) `leetcode`
@@ -66,4 +72,7 @@
 - [Basic Calculator](https://leetcode.com/problems/basic-calculator/) `leetcode`
 - [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) `leetcode`
 - [Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors/) `leetcode`
+- [N Queens](https://leetcode.com/problems/n-queens/) `leetcode`
+- [N Queens II](https://leetcode.com/problems/n-queens-ii/) `leetcode`
+- [Word break II](https://leetcode.com/problems/word-break-ii/) `leetcode`
 - [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion&filters%5Bdifficulty%5D%5B%5D=hard)
