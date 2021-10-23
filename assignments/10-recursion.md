@@ -72,6 +72,9 @@
 - [Lowest Common Ancestor of a Binary Tree](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1/) `GFG` `Amex`
 - [Prime numbers after prime P with sum S](https://www.geeksforgeeks.org/prime-numbers-after-prime-p-with-sum-s/) `GFG`
 - [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/) `leetcode`
+- [Longest Possible Route in a Matrix with Hurdles](https://www.geeksforgeeks.org/longest-possible-route-in-a-matrix-with-hurdles/) `GFG`
+- [Tug of war](https://www.geeksforgeeks.org/tug-of-war/) `GFG` `Adobe`
+- [Rat in a maze](https://www.geeksforgeeks.org/rat-in-a-maze-backtracking-2/) `GFG`
 
 ## Hard
 - [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) `leetcode`
