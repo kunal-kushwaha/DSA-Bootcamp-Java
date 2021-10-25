@@ -1,10 +1,5 @@
 # Videos
-- [Introduction to Recursion](https://youtu.be/M2uO2nMT0Bk)
-- [Recursion Level 1 Questions](https://youtu.be/JxILxTwHukM)
-- [Recursion Array Questions](https://youtu.be/sTdiMLom00U)
-- [Pattern Questions + Bubble Sort + Selection Sort with Recursion](https://youtu.be/ymgnIIclCF0)
-- [Merge Sort](https://youtu.be/iKGAgWdgoRk)
-- [Quick Sort](https://youtu.be/Z8svOqamag8)
+- [Complete Recursion Course](https://www.youtube.com/playlist?list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod)
 
 # Problems
 
