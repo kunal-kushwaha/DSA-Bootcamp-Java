@@ -10,6 +10,10 @@ public class SmallestLetter {
 
         int start = 0;
         int end = letters.length - 1;
+        
+        if (target>=arr[end]){
+            return arr[0];
+        }
 
         while(start <= end) {
             // find the middle element
@@ -22,6 +26,6 @@ public class SmallestLetter {
                 start = mid + 1;
             }
         }
-        return letters[start % letters.length];
+        return letters[start];
     }
 }
