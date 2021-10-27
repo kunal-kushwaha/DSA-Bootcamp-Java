@@ -7,6 +7,8 @@
 - [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) `leetcode`
 - [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) `leetcode`
 - [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) `leetcode`
+- [Reverse First K elements of Queue](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1/) `GFG`
+- [Delete middle element of a stack](https://practice.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1/) `GFG`
 
 ## Medium
 - [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/) `leetcode`
@@ -18,6 +20,10 @@
 - [Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/) `leetcode`
 - [Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/) `leetcode`
 - [Task Scheduler](https://leetcode.com/problems/task-scheduler/) `leetcode`
+- [Stock span problem](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1/) `GFG`
+- [Max Rectangle](https://practice.geeksforgeeks.org/problems/max-rectangle/1/) `GFG`
+- [The Celebrity Problem](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1/) `Google` `GFG`
+- [Maximum Rectangular Area in a Histogram](https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram-1587115620/1/) `GFG`
 
 ## Hard
 - [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) `leetcode`
