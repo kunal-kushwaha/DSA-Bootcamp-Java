@@ -88,7 +88,7 @@
     - Recursion String Problems
     - [Recursion Array Problems](https://youtu.be/sTdiMLom00U)
     - [Recursion Pattern Problems](https://youtu.be/ymgnIIclCF0)
-    - Subset Questions
+    - [Subset Questions](https://youtu.be/9ByWqPzfXDU)
 - [Space and Time Complexity Analysis](https://youtu.be/mV3wrLBbuuE)
     - [Introduction](https://youtu.be/mV3wrLBbuuE)
     - [Comparisons of various cases](https://youtu.be/mV3wrLBbuuE?t=1039)
