@@ -84,7 +84,7 @@
         - Sudoku Solver
         - N-Queens
         - N-Knights
-        - Maze problems
+        - [Maze problems](https://www.youtube.com/watch?v=zg5v2rlV1tM&t=111s)
     - Recursion String Problems
     - [Recursion Array Problems](https://youtu.be/sTdiMLom00U)
     - [Recursion Pattern Problems](https://youtu.be/ymgnIIclCF0)
