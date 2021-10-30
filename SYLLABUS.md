@@ -1,4 +1,4 @@
-# Complete Java + DSA Bootcamp Syllabus
+﻿# Complete Java + DSA Bootcamp Syllabus
 
 ## NOTE
 - All topics will contain problems from LeetCode Easy to Hard, explained in an easy-to-understand manner.
@@ -80,7 +80,7 @@
     - Sorting:
         - [Merge Sort](https://youtu.be/iKGAgWdgoRk)
         - [Quick Sort](https://www.youtube.com/watch?v=Z8svOqamag8&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=27)
-    - Backtracking
+    - [Backtracking](https://youtu.be/zg5v2rlV1tM)
         - Sudoku Solver
         - N-Queens
         - N-Knights
