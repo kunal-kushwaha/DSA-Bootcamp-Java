@@ -35,12 +35,13 @@ public class Calculator {
                 if (op == '%') {
                     ans = num1 % num2;
                 }
+	System.out.println(ans);
             } else if (op == 'x' || op == 'X') {
                 break;
             } else {
                 System.out.println("Invalid operation!!");
             }
-            System.out.println(ans);
+            
         }
     }
 }
