@@ -9,4 +9,4 @@
 - Rishabh Kumar's [solutions](https://github.com/crishabhkumar/Leetcode)
 - Adarsh Navneet Sinha's [solutions](https://github.com/geeky01adarsh/DSA-Interview-Questions) (in C++)
 - Aditya Chauhan's [solution](https://github.com/aditya-2703/DSA)(Python)
-- Kapil Vaishnav's [solution](https://github.com/kapil5849/Problem-solution) (C++)
+- Kapil Vaishnav's [solution](https://github.com/kapil5849/Problem-solution) (c++)
