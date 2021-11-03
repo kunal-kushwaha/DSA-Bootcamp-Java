@@ -74,10 +74,10 @@
         - [Merge Sort](https://youtu.be/iKGAgWdgoRk)
         - [Quick Sort](https://www.youtube.com/watch?v=Z8svOqamag8&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=27)
     - [Backtracking](https://youtu.be/zg5v2rlV1tM)
-        - [Sudoku Solver](https://youtu.be/nC1rbW2YSz0)
         - [N-Queens](https://youtu.be/nC1rbW2YSz0)
-        - [N-Knights](https://youtu.be/nC1rbW2YSz0)
-        - [Maze problems](https://www.youtube.com/watch?v=zg5v2rlV1tM&t=111s)
+        - [N-Knights](https://youtu.be/nC1rbW2YSz0?t=2342)
+        - [Sudoku Solver](https://youtu.be/nC1rbW2YSz0?t=3190)
+        - [Maze problems](https://www.youtube.com/watch?v=zg5v2rlV1tM)
     - [Recursion String Problems](https://youtu.be/gdifkIwCJyg)
     - [Recursion Google, Amazon Questions](https://youtu.be/9ByWqPzfXDU)
     - [Recursion Array Problems](https://youtu.be/sTdiMLom00U)
@@ -93,7 +93,6 @@
     - [Get equation of any relation easily - best and easiest approach](https://youtu.be/mV3wrLBbuuE?t=8189)
     - [Complexity discussion of all the problems we do](https://youtu.be/mV3wrLBbuuE?t=3866)
     - [Space Complexity](https://youtu.be/mV3wrLBbuuE?t=3330)
-    - [Memory Allocation of various languages](https://youtu.be/mV3wrLBbuuE)
     - [NP-Completeness Introduction](https://youtu.be/mV3wrLBbuuE?t=8695)
 - Object Oriented Programming
     - Introduction
