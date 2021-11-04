@@ -94,7 +94,7 @@
     - [Complexity discussion of all the problems we do](https://youtu.be/mV3wrLBbuuE?t=3866)
     - [Space Complexity](https://youtu.be/mV3wrLBbuuE?t=3330)
     - [NP-Completeness Introduction](https://youtu.be/mV3wrLBbuuE?t=8695)
-- Object Oriented Programming
+- [Object Oriented Programming](https://www.youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk)
     - Introduction
     - Classes & its instances
     - this keyword in Java
