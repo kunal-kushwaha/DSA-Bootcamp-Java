@@ -118,6 +118,12 @@
     - Collections Framework
     - Lambda Expression
     - Enums
+- Linked List
+    - Introduction
+    - Fast and slow pointer
+    - Cycle Detection
+    - Single and Doubly LinkedList
+    - Reversal of LinkedList
 - Stacks & Queues
     - Introduction
     - Interview problems
@@ -125,12 +131,6 @@
     - Pop efficient
     - Queue using Stack and Vice versa
     - Circular Queue
-- Linked List
-    - Introduction
-    - Fast and slow pointer
-    - Cycle Detection
-    - Single and Doubly LinkedList
-    - Reversal of LinkedList
 - Dynamic Programming
     - Introduction
     - Recursion + Recursion DP + Iteration + Iteration Space Optimized
