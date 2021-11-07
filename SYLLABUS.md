@@ -109,6 +109,7 @@
     - Access Control
     - Interfaces
     - Abstract Classes
+    - Annotations
     - Singleton Class
     - final, finalize, finally
     - Object Cloning
@@ -116,6 +117,7 @@
     - Generics
     - Exception Handling
     - Collections Framework
+    - Vector Class
     - Lambda Expression
     - Enums
 - Linked List
