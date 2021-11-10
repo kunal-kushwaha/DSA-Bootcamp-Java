@@ -95,17 +95,17 @@
     - [Space Complexity](https://youtu.be/mV3wrLBbuuE?t=3330)
     - [NP-Completeness Introduction](https://youtu.be/mV3wrLBbuuE?t=8695)
 - [Object Oriented Programming](https://www.youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk)
-    - Introduction
-    - Classes & its instances
-    - this keyword in Java
+    - [Introduction](https://www.youtube.com/watch?v=BSVKUk58K6U&t=30s)
+    - [Classes & its instances](https://www.youtube.com/watch?v=BSVKUk58K6U&t=947s)
+    - [this keyword in Java](https://www.youtube.com/watch?v=BSVKUk58K6U&t=3380s)
     - Properties
         - Inheritance
         - Abstraction
         - Polymorphism
         - Encapsulation
     - Overloading & Overriding
-    - Static & Non-Static
-    - Packages
+    - [Static & Non-Static](https://www.youtube.com/watch?v=_Ya6CN13t8k&list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk&index=3&t=1885s)
+    - [Packages](https://www.youtube.com/watch?v=_Ya6CN13t8k&list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk&index=3&t=180s)
     - Access Control
     - Interfaces
     - Abstract Classes
