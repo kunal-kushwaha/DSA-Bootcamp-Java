@@ -1,5 +1,7 @@
 package com.kunal.singleton;
 
+import com.kunal.access.A;
+
 public class Singleton {
     private Singleton () {
 
