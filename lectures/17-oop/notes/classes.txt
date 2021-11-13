@@ -11,7 +11,7 @@ The behavior of an object is the effect of data-type operations.
 
 The dot operator links the name of the object with the name of an instance variable.
 Although commonly referred to as the dot operator, the formal specification for Java categorizes the . as a separator.
-The new operator dynamically allocates(that is, allocates at run time)memory for an object & returns a reference to it.
+The 'new' keyword dynamically allocates(that is, allocates at run time)memory for an object & returns a reference to it.
 This reference is, more or less, the address in memory of the object allocated by new.
 This reference is then stored in the variable.
 Thus, in Java, all class objects must be dynamically allocated.
