@@ -5,7 +5,7 @@ public class Basic {
         Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday;
         // these are enum constants
         // public, static and final
-        // since its final you can create child enums
+        // since it's final you can't create child enums
         // type is Week
 
         void display() {
@@ -21,8 +21,8 @@ public class Basic {
             System.out.println("hey how are you");
         }
         // this is not public or protected, only private or default
-        // why? we dont want to create new objects
-        // this is not the enum concept, thats why
+        // why? we don't want to create new objects
+        // this is not the enum concept, that's why
 
         // internally: public static final Week Monday = new Week();
     }
