@@ -11,6 +11,7 @@
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) `leetcode`
 
 ## Medium
+- [Design Twitter](https://leetcode.com/problems/design-twitter/) `leetcode`
 - [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) `leetcode`
 - [Reorder List](https://leetcode.com/problems/reorder-list/) `leetcode`
 - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) `leetcode` `HSBC`
@@ -21,6 +22,12 @@
 - [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) `leetcode`
 - [Rotate List](https://leetcode.com/problems/rotate-list/) `leetcode`
 - [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) `leetcode`
+- [LRU Cache](https://leetcode.com/problems/lru-cache/) `leetcode`
+- [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) `leetcode` `Amex`
+- [Design Browser History](https://leetcode.com/problems/design-browser-history/) `leetcode`
+- [Partition list](https://leetcode.com/problems/partition-list/) `leetcode`
 
 ## Hard
 - [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) `leetcode`
+- [LFU Cache](https://leetcode.com/problems/lfu-cache/) `leetcode` `Google`
+- [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) `leetcode`
