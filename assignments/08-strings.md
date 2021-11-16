@@ -27,6 +27,7 @@
 - [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)
 - [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)
 - [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+- [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
 ## Medium 
 - [Jump Game VII](https://leetcode.com/problems/jump-game-vii/)
