@@ -115,10 +115,10 @@
     - [Object Cloning](https://youtu.be/OY2lPr8h93U?t=4352)
     - [Object Class](https://youtu.be/W145DXs8fFg?t=1943)
     - Generics
-    - Exception Handling
+    - [Exception Handling](https://youtu.be/OY2lPr8h93U?t=3405)
     - [Collections Framework](https://youtu.be/9ogGan-R1pc?t=49)
     - [Vector Class](https://youtu.be/9ogGan-R1pc?t=668)
-    - Lambda Expression
+    - [Lambda Expression](https://youtu.be/OY2lPr8h93U?t=2894) 
     - [Enums](https://youtu.be/9ogGan-R1pc?t=909)
 - Linked List
     - Introduction
