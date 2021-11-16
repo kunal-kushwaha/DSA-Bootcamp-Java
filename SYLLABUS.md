@@ -114,7 +114,7 @@
     - [final, finalize, finally](https://youtu.be/46T2wD3IuhM?t=6317)
     - [Object Cloning](https://youtu.be/OY2lPr8h93U?t=4352)
     - [Object Class](https://youtu.be/W145DXs8fFg?t=1943)
-    - Generics
+    - [Generics](https://www.youtube.com/watch?v=OY2lPr8h93U)
     - [Exception Handling](https://youtu.be/OY2lPr8h93U?t=3405)
     - [Collections Framework](https://youtu.be/9ogGan-R1pc?t=49)
     - [Vector Class](https://youtu.be/9ogGan-R1pc?t=668)
