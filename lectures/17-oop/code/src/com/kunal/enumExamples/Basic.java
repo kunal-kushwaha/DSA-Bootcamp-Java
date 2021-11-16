@@ -5,7 +5,7 @@ public class Basic {
         Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday;
         // these are enum constants
         // public, static and final
-        // since its final you can create child enums
+        // since its final you cannot create child enums
         // type is Week
 
         void display() {
