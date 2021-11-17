@@ -1,3 +1,5 @@
+package com.kunal;
+
 public class Conditionals {
 
     public static void main(String[] args) {
@@ -32,7 +34,7 @@ public class Conditionals {
         int a = 10;
         int b = 40;
 
-        if (a != 35 && b>a) {
+        if (a != 35) {
             System.out.println("Hello World");
         }
     }
