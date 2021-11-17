@@ -1,5 +1,3 @@
-package com.kunal;
-
 public class Conditionals {
 
     public static void main(String[] args) {
@@ -21,10 +19,10 @@ public class Conditionals {
 
         // multiple if-else
 
-//        if (salary > 10000) {
-//            salary += 2000; // salary = salary + 2000
-//        } else if (salary > 20000) {
-//            salary += 3000;
+//        if (salary > 20000) {
+//            salary += 3000; // salary = salary + 3000
+//        } else if (salary > 10000) {
+//            salary += 2000;
 //        } else {
 //            salary += 1000;
 //        }
@@ -34,7 +32,7 @@ public class Conditionals {
         int a = 10;
         int b = 40;
 
-        if (a != 35) {
+        if (a != 35 && b>a) {
             System.out.println("Hello World");
         }
     }
