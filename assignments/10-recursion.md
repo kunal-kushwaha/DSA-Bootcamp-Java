@@ -71,6 +71,7 @@
 - [Tug of war](https://www.geeksforgeeks.org/tug-of-war/) `GFG` `Adobe`
 - [Rat in a maze](https://www.geeksforgeeks.org/rat-in-a-maze-backtracking-2/) `GFG`
 - [Reorder List](https://leetcode.com/problems/reorder-list/) `leetcode`
+- [Unique Paths](https://leetcode.com/problems/unique-paths/) `leetcode`
 
 ## Hard
 - [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) `leetcode`
