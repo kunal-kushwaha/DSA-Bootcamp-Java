@@ -40,6 +40,12 @@ public class CLL {
             return;
         }
 
+        if (head == tail){
+            head = null;
+            tail = null;
+            return;
+        }
+
         if (node.val == val) {
             head = head.next;
             tail.next = head;
