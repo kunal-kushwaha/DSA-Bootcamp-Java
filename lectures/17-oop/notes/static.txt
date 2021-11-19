@@ -10,7 +10,7 @@ A static method can access only static data. It cannot access non-static data (i
 A non-static member belongs to an instance. It's meaningless without somehow resolving which instance of a class you
 are talking about. In a static context, you don't have an instance, that's why you can't access a non-static member
 without explicitly mentioning an object reference.
-n fact, you can access a non-static member in a static context by specifying the object reference explicitly :
+In fact, you can access a non-static member in a static context by specifying the object reference explicitly :
 public class Human {
 
     String message = "Hello World";
