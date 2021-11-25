@@ -48,6 +48,7 @@ class Box {
        width = ob.width;
        height = ob.height;
        depth = ob.depth;
+     }
 }
 
 class BoxWeight extends Box {
