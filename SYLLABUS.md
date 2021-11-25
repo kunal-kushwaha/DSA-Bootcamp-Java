@@ -126,6 +126,7 @@
     - Cycle Detection
     - Single and Doubly LinkedList
     - Reversal of LinkedList
+    - Linked List + Recursion
 - Stacks & Queues
     - Introduction
     - Interview problems
