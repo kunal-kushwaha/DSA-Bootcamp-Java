@@ -39,7 +39,7 @@
         - [Binary Search](https://youtu.be/f6UU7V3szVw)
         - [Modified Binary Search](https://youtu.be/f6UU7V3szVw?t=2508)
         - [Binary Search on 2D Arrays](https://www.youtube.com/watch?v=enI_KyGLYPo)
-    - [Sorting](https://www.youtube.com/playlist?list=PL9gnSGHSqcnq-9CXLt9DsInytRMLoyZQ_)
+    - Sorting
         - [Insertion Sort](https://youtu.be/By_5-RRqVeE)
         - [Selection Sort](https://youtu.be/Nd4SCCIHFWk)
         - [Bubble Sort](https://youtu.be/F5MZyqRp_IM)
@@ -63,7 +63,6 @@
     - [Number Theory](https://youtu.be/lmSpZ0bjCyQ?t=4405)
     - [HCF / LCM](https://youtu.be/lmSpZ0bjCyQ?t=5110)
     - [Euclidean algorithm](https://youtu.be/lmSpZ0bjCyQ?t=5520)
-    
 - [Recursion](https://www.youtube.com/playlist?list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod)
     - [Introduction](https://youtu.be/M2uO2nMT0Bk)
     - [Flow of recursive programs - stacks](https://youtu.be/M2uO2nMT0Bk?t=2124)
