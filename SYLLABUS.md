@@ -150,8 +150,6 @@
     - BFS
     - AVL Trees
     - Segment Tree
-    - Fenwick Tree / Binary Indexed Tree
-- Square Root Decomposition
 - Heaps
     - Introduction
     - Theory
@@ -208,3 +206,5 @@
 - Euler Totient
 - NP-Completeness
 - Multithreading
+- Fenwick Tree / Binary Indexed Tree
+- Square Root Decomposition
