@@ -133,15 +133,6 @@
     - Pop efficient
     - Queue using Stack and Vice versa
     - Circular Queue
-- Dynamic Programming
-    - Introduction
-    - Recursion + Recursion DP + Iteration + Iteration Space Optimized
-    - Complexity Analysis
-    - 0/1 Knapsack
-    - Subset Questions
-    - Unbounded Knapsack
-    - Subsequence questions
-    - String DP
 - Trees
     - Introduction
     - Binary Trees
@@ -173,8 +164,6 @@
     - Huffman-Encoder
     - Top K elements problems
 - Subarray Questions: Sliding window, Two Pointer, Kadane's Algorithm
-- Greedy Algorithms
-- Tries
 - Graphs
     - Introduction
     - BFS
@@ -187,6 +176,17 @@
     - Topological Sort
     - Bellman ford
     - A* pathfinding Algorithm
+- Dynamic Programming
+    - Introduction
+    - Recursion + Recursion DP + Iteration + Iteration Space Optimized
+    - Complexity Analysis
+    - 0/1 Knapsack
+    - Subset Questions
+    - Unbounded Knapsack
+    - Subsequence questions
+    - String DP
+- Greedy Algorithms
+- Tries
 
 ### Advanced concepts apart from interviews 
 - Fast IO
