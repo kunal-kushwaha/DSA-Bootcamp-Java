@@ -120,12 +120,12 @@
     - [Lambda Expression](https://youtu.be/OY2lPr8h93U?t=2894) 
     - [Enums](https://youtu.be/9ogGan-R1pc?t=909)
 - Linked List
-    - Introduction
-    - Fast and slow pointer
-    - Cycle Detection
-    - Single and Doubly LinkedList
-    - Reversal of LinkedList
-    - Linked List + Recursion
+    - [Introduction](https://youtu.be/58YbpRDc4yw)
+    - [Singly + Doubly + Circular LinkedList](https://youtu.be/58YbpRDc4yw)
+    - [Fast and slow pointer](https://youtu.be/70tx7KcMROc)
+    - [Cycle Detection](https://youtu.be/70tx7KcMROc)
+    - [Reversal of LinkedList](https://youtu.be/70tx7KcMROc)
+    - [Linked List + Recursion](https://youtu.be/70tx7KcMROc)
 - Stacks & Queues
     - Introduction
     - Interview problems
