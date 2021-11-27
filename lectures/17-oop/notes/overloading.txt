@@ -6,7 +6,7 @@ versions of a method. When Java encounters a call to an overloaded method, it si
 whose parameters match the arguments used in the call.
 In some cases, Java’s automatic type conversions can play a role in overload resolution.
 
-class OverloadDemo(){
+class OverloadDemo {
     void test(double a){
         System.out.println("Inside test(double) a: " + a);
     }
