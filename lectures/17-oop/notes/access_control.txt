@@ -28,7 +28,7 @@ package packageOne;
 public class Base
 {
     protected void display(){
-        system.out.println("in Base");
+        System.out.println("in Base");
     }
 }
 
