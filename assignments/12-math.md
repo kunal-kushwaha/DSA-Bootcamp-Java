@@ -9,6 +9,7 @@
 - [Armstrong Numbers ](https://practice.geeksforgeeks.org/problems/armstrong-numbers2727/1/?category[]=Mathematical&category[]=Mathematical&page=2&query=category[]Mathematicalpage2category[]Mathematical)
 - [Power of Four](https://leetcode.com/problems/power-of-four/)
 - [Factorial](https://practice.geeksforgeeks.org/problems/factorial5739/1/?category[]=Mathematical&category[]=Mathematical&page=3&query=category[]Mathematicalpage3category[]Mathematical)
+- [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
 
 ## Medium
 - [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
