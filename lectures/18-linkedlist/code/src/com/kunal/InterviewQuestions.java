@@ -180,21 +180,20 @@ public class InterviewQuestions {
 
 
     // google, amazon, facebook, microsoft: https://leetcode.com/problems/reverse-nodes-in-k-group/
-    // its also reversing the < k end items -> modify it accordingly
     public ListNode reverseKGroup(ListNode head, int k) {
         if (k <= 1 || head == null) {
             return head;
         }
 
-        // skip the first left-1 nodes
         ListNode current = head;
         ListNode prev = null;
 
-        while (true) {
+		int length = getLength(head);
+		int count = length / k;
+        while (count > 0) {
             ListNode last = prev;
             ListNode newEnd = current;
 
-            // reverse between left and right
             ListNode next = current.next;
             for (int i = 0; current != null && i < k; i++) {
                 current.next = prev;
@@ -213,13 +212,21 @@ public class InterviewQuestions {
 
             newEnd.next = current;
 
-            if (current == null) {
-                break;
-            }
             prev = newEnd;
+			count--;
         }
         return head;
     }
+
+	public int getLength(ListNode head) {
+		ListNode node = head;
+		int length = 0;
+		while (node != null) {
+			length++;
+			node = node.next;
+		}
+		return length;
+	}
 
     // https://www.geeksforgeeks.org/reverse-alternate-k-nodes-in-a-singly-linked-list/
     public ListNode reverseAlternateKGroup(ListNode head, int k) {
