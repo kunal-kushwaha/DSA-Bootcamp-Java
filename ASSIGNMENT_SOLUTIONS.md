@@ -11,3 +11,4 @@
 - Aditya Chauhan's [solution](https://github.com/aditya-2703/DSA)(Python)
 - Deepak Mittal's [solutions](https://github.com/yesdeepakmittal/competitive-coding/tree/main/Kunal-DSA-Py-Solution)(Python)
 - Alok Verma's [solutions](https://github.com/alokVerma749/DSA-Bootcamp-assignment-solutions.git)(Java)
+- Omkar Pomendkar [solutions](https://github.com/Omkar-Pomendkar/Kunal-Kushwaha-Assignment-Solutions)(Java)
