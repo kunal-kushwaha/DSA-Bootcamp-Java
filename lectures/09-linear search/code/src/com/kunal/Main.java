@@ -46,21 +46,17 @@ public class Main {
     // search in the array: return the index if item found
     // otherwise if item not found return -1
     static int linearSearch(int[] arr, int target) {
-        if (arr.length == 0) {
-            return -1;
-        }
-
         // run a for loop
-        for (int index = 0; index < arr.length; index++) {
+	// the for loop will not execute if the length of array is 0
+        for (int i = 0; i < arr.length; i++) {
             // check for element at every index if it is = target
-            int element = arr[index];
+            int element = arr[i];
             if (element == target) {
-                return index;
+                return i;
             }
         }
-        // this line will execute if none of the return statements above have executed
-        // hence the target not found
+
+	// the following line will return -1 if the "target" is not found or the length of array is "0"
         return -1;
     }
-
 }
