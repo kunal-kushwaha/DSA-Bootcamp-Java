@@ -41,7 +41,7 @@
 7. [Jump Game](https://leetcode.com/problems/jump-game/)
 8. [Rotate Array](https://leetcode.com/problems/rotate-array/)
 9. [Sort Colors](https://leetcode.com/problems/sort-colors/)
-10. [House Robber](https://leetcode.com/problems/house-robber/)
+10. [House Robber](https://leetcode.com/problems/house-robber/)(Do after learning DP)
 
 ### Hard
 1. [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)
