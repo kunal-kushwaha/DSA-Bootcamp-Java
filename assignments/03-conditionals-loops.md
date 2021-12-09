@@ -2,59 +2,59 @@
 ## Write Java programs for the following: 
 
 ### Basic Java Programs
-1. Area Of Circle Java Program
-2. Area Of Triangle
-3. Area Of Rectangle Program 
-4. Area Of Isosceles Triangle 
-5. Area Of Parallelogram
-6. Area Of Rhombus
-7. Area Of Equilateral Triangle
-8. Perimeter Of Circle
-9. Perimeter Of Equilateral Triangle
-10. Perimeter Of Parallelogram
-11. Perimeter Of Rectangle
-12. Perimeter Of Square
-13. Perimeter Of Rhombus
-14. Volume Of Cone Java Program
-15. Volume Of Prism
-16. Volume Of Cylinder
-17. Volume Of Sphere
-18. Volume Of Pyramid
-19. Curved Surface Area Of Cylinder
-20. Total Surface Area Of Cube
-21. Fibonacci Series In Java Programs
-22. [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
-23. Input a number and print all the factors of that number (use loops).
+1. Area Of Circle Java Program.(DONE)
+2. Area Of Triangle.(DONE)
+3. Area Of Rectangle Program.(DONE) 
+4. Area Of Isosceles Triangle.(DONE)
+5. Area Of Parallelogram.(DONE)
+6. Area Of Rhombus.(DONE)
+7. Area Of Equilateral Triangle.(DONE)
+8. Perimeter Of Circle.(DONE)
+9. Perimeter Of Equilateral Triangle.(DONE)
+10. Perimeter Of Parallelogram.(DONE)
+11. Perimeter Of Rectangle.(DONE)
+12. Perimeter Of Square.(DONE)
+13. Perimeter Of Rhombus.(DONE)
+14. Volume Of Cone Java Program.(DONE)
+15. Volume Of Prism.(DONE)
+16. Volume Of Cylinder.(DONE)
+17. Volume Of Sphere.(DONE)
+18. Volume Of Pyramid.(DONE)
+19. Curved Surface Area Of Cylinder.(DONE)
+20. Total Surface Area Of Cube.(DONE)
+21. Fibonacci Series In Java Programs.(DONE)
+22. [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/).(DONE)
+23. Input a number and print all the factors of that number (use loops).(DONE)
 24. Take integer inputs till the user enters 0 and print the sum of all numbers
-(HINT: while loop)
+(HINT: while loop).(DONE)
 25. Take integer inputs till the user enters 0 and print the largest number from
-all.
+all.(DONE)
 
 ### Intermediate Java Programs
-1. Factorial Program In Java
-2. Calculate Electricity Bill
-3. Calculate Average Of N Numbers
-4. Calculate Discount Of Product
-5. Calculate Distance Between Two Points 
-6. Calculate Commission Percentage
-7. Power In Java
-8. Calculate Depreciation of Value
-9. Calculate Batting Average
-10. Calculate CGPA Java Program
-11. Compound Interest Java Program
-12. Calculate Average Marks
-13. Addition Of Two Numbers
-14. Sum Of N Numbers
-15. Armstrong Number In Java
-16. Find Ncr & Npr
-17. Reverse A String In Java
-18. Find if a number is palindrome or not 
-19. Future Investment Value
-20. HCF Of Two Numbers Program
-21. LCM Of Two Numbers
-22. Java Program Vowel Or Consonant 
-23. Perfect Number In Java
-24. Check Leap Year Or Not
-25. Sum Of A Digits Of Number
-26. Kunal is allowed to go out with his friends only on the even days of a given month. Write a program to count the number of days he can go out in the month of August.
-27. Write a program to print the sum of negative numbers, sum of positive even numbers and the sum of positive odd numbers from a list of numbers (N) entered by the user. The list terminates when the user enters a zero.
+1. Factorial Program In Java.(DONE)
+2. Calculate Electricity Bill.(DONE)
+3. Calculate Average Of N Numbers.(DONE)
+4. Calculate Discount Of Product.(DONE)
+5. Calculate Distance Between Two Points.(DONE) 
+6. Calculate Commission Percentage.(DONE)
+7. Power In Java.(DONE)
+8. Calculate Depreciation of Value.(DONE)
+9. Calculate Batting Average.(DONE)
+10. Calculate CGPA Java Program.(DONE)
+11. Compound Interest Java Program.(DONE)
+12. Calculate Average Marks.(DONE)
+13. Addition Of Two Numbers.(DONE)
+14. Sum Of N Numbers.(DONE)
+15. Armstrong Number In Java.(DONE)
+16. Find Ncr & Npr.(DONE)
+17. Reverse A String In Java.(DONE)
+18. Find if a number is palindrome or not.(DONE) 
+19. Future Investment Value.(DONE)
+20. HCF Of Two Numbers Program.(DONE)
+21. LCM Of Two Numbers.(DONE)
+22. Java Program Vowel Or Consonant.(DONE) 
+23. Perfect Number In Java.(DONE)
+24. Check Leap Year Or Not.(DONE)
+25. Sum Of A Digits Of Number.(DONE)
+26. Kunal is allowed to go out with his friends only on the even days of a given month. Write a program to count the number of days he can go out in the month of August.(DONE)
+27. Write a program to print the sum of negative numbers, sum of positive even numbers and the sum of positive odd numbers from a list of numbers (N) entered by the user. The list terminates when the user enters a zero.(DONE)
