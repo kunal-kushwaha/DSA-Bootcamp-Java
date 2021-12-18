@@ -2,6 +2,8 @@
 
 ## Submit the following on your Leetcode profile itself.
 
+- Click on [*Show problem tags*](https://leetcode.com/tag/array/) and do the questions that contains tag of topic (array) we have covered so far.
+
 ### Easy
 1. [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
 2. [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)

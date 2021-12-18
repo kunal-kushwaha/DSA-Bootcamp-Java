@@ -2,6 +2,8 @@
 
 ## Problems
 
+- Click on [*Show problem tags*](https://leetcode.com/tag/bit-manipulation/) and do the questions that contains tags of topics we have covered so far.
+
 ## Easy
 - [Add Binary](https://leetcode.com/problems/add-binary/)
 - [Single Number](https://leetcode.com/problems/single-number/)
