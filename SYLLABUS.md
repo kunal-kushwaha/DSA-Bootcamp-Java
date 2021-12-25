@@ -162,7 +162,6 @@
     - Chaining
     - Probing
     - Huffman-Encoder
-    - Top K elements problems
 - Subarray Questions: Sliding window, Two Pointer, Kadane's Algorithm
 - Graphs
     - Introduction
