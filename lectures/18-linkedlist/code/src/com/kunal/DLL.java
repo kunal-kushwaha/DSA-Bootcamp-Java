@@ -3,6 +3,8 @@ package com.kunal;
 public class DLL {
 
     private Node head;
+    
+    private int size ;
 
     public void insertFirst(int val) {
         Node node = new Node(val);
@@ -79,6 +81,82 @@ public class DLL {
             node.next.prev = node;
         }
     }
+    
+    
+     public int deleteFirst(){
+        if(head == null){
+            System.out.println("Head is null");
+            return -1 ;
+        }
+        Node node = head ;
+        int val = head.value ;
+
+        head= head.next ;
+        node.next = null;
+
+        head.prev = null ; //this is mandatory
+
+        size-- ;
+
+        return val ;
+    }
+    
+    public Node get(int index){
+
+        Node node = head;
+
+        for (int i = 0 ; i < index ; i++){
+            node = node.next ;
+        }
+        size -- ;
+        return node ;
+    }
+    
+    public int deleteLast(){
+        if(size >= 1){
+            deleteFirst() ;
+        }
+
+        Node node = get(size - 2);
+       Node last = get(size - 1);
+
+        int val = last.value ;
+
+        if(last != null ){
+            last.prev = null ;
+        }
+        node.next = null ;
+        size-- ;
+        return val ;
+    }
+    
+    public int delete(int index) {
+        if (index == 0){
+            deleteFirst();
+        }
+        if (index == (size - 1)){
+            deleteLast();
+        }
+
+        Node P = get(index - 1);
+        Node Target = get(index);
+
+        int val = Target.value;
+
+        if (Target.next != null) {
+            P.next = Target.next;
+            Target.next.prev = Target.prev; // P
+        }
+        Target.next = null;
+        Target.prev = null;
+
+        size--;
+
+        return value;
+       
+    }
+    
+    
 
     private class Node {
         int val;
