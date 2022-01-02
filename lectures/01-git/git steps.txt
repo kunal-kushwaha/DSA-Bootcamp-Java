@@ -1,0 +1,437 @@
+
+
+**************************************************************************************************
+            CONTENT ALL STEPS FROM KUNAL'S GIT TUTORIALS TO FOLLOW ON
+**************************************************************************************************
+
+
+
+
+********************git intialization**********************
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ ls -a
+./  ../  .git/  start.txt
+
+*************created a txt file **************************
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ ls
+start.txt
+
+************git status command **************************
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        start.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+***************git add **************************************
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git add start.txt
+
+***************git status **********************************
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   start.txt
+
+**************** if you havent logged in in git it will popup like this *******************************
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git commit -m"practice commit"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'lenovo@DESKTOP-7Q6K332.(none)')
+
+*******************command to check username****************************
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git config user.name
+gautamsbaghel
+
+*****************command to check email*********************************
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git config user.email
+
+*****************command to add username********************************
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git config --global user.email "baghelgautam2001@gmail.com"
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git config user.email
+baghelgautam2001@gmail.com
+
+******************oficial first commit **********************************
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git commit -m"practice commit"
+[master (root-commit) fb3dbf0] practice commit
+ 1 file changed, 1 insertion(+)
+ create mode 100644 start.txt
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   start.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git add .
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   start.txt
+
+********************restore to take back to stagging area from commit*****************
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git restore --staged start.txt
+
+*******************checking status**********************************
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   start.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git add .
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   start.txt
+
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git commit -m "modified"
+[master 862d380] modified
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git log
+commit 862d380061f00f12d8f4e56feff825237fd000c5 (HEAD -> master)
+Author: gautamsbaghel <baghelgautam2001@gmail.com>
+Date:   Sat Jan 1 21:17:42 2022 +0530
+
+    modified
+
+commit fb3dbf02ba805c85dceef6cf645aad43ac411a55
+Author: gautamsbaghel <baghelgautam2001@gmail.com>
+Date:   Sat Jan 1 21:07:56 2022 +0530
+
+    practice commit
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ rm -rf start.txt
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        deleted:    start.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git add .
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git commit -m "txt file deleted"
+[master 6d83d8e] txt file deleted
+ 1 file changed, 2 deletions(-)
+ delete mode 100644 start.txt
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git log
+commit 6d83d8e2c1298f6471be87512b5ee5b373643c38 (HEAD -> master)
+Author: gautamsbaghel <baghelgautam2001@gmail.com>
+Date:   Sat Jan 1 21:21:35 2022 +0530
+
+    txt file deleted
+
+commit 862d380061f00f12d8f4e56feff825237fd000c5
+Author: gautamsbaghel <baghelgautam2001@gmail.com>
+Date:   Sat Jan 1 21:17:42 2022 +0530
+
+    modified
+
+commit fb3dbf02ba805c85dceef6cf645aad43ac411a55
+Author: gautamsbaghel <baghelgautam2001@gmail.com>
+Date:   Sat Jan 1 21:07:56 2022 +0530
+
+    practice commit
+
+****************************reset to get back to a particular commit*************************8
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git reset fb3dbf02ba805c85dceef6cf645aad43ac411a55
+Unstaged changes after reset:
+D       start.txt
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git log
+commit fb3dbf02ba805c85dceef6cf645aad43ac411a55 (HEAD -> master)
+Author: gautamsbaghel <baghelgautam2001@gmail.com>
+Date:   Sat Jan 1 21:07:56 2022 +0530
+
+    practice commit
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        deleted:    start.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git add .
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        deleted:    start.txt
+
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ touch surname.txt
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        deleted:    start.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        surname.txt
+
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ touch houses.txt
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ vi surname.txt
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        deleted:    start.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        houses.txt
+        surname.txt
+
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git stash
+Saved working directory and index state WIP on master: fb3dbf0 practice commit
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git status
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        houses.txt
+        surname.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git add .
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   houses.txt
+        new file:   surname.txt
+
+**************************keep file in stagging area********************
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git stash
+Saved working directory and index state WIP on master: fb3dbf0 practice commit
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+**************************to call file from stagging area to work on***********************
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git stash pop
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   houses.txt
+        new file:   surname.txt
+
+Dropped refs/stash@{0} (b520878df4c3d0b7bc4595b250b2abb945f11359)
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git add .
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git stash
+Saved working directory and index state WIP on master: fb3dbf0 practice commit
+
+**************************to clear stash *********************************************
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git stash clear
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git stash pop
+No stash entries found.
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git add start.txt
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git status
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        git steps.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git stash
+No local changes to save
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git stash pop
+No stash entries found.
+
+*******************************add remote url****************************
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git remote add gittutor https://github.com/gautamsbaghel/git_tutorial.git
+
+*********************************list of added url********************
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git remote -v
+gittutor        https://github.com/gautamsbaghel/git_tutorial.git (fetch)
+gittutor        https://github.com/gautamsbaghel/git_tutorial.git (push)
+
+******************************pushing commits to github******************
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git push gittutor master
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 237 bytes | 118.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/gautamsbaghel/git_tutorial.git
+ * [new branch]      master -> master
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ touch hotel.txt
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git add .
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git commit -m "hotel.txt added"
+[master be0801f] hotel.txt added
+ 2 files changed, 303 insertions(+)
+ create mode 100644 git steps.txt
+ create mode 100644 hotel.txt
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ touch rollno.txt
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git add .
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git commit -m "rollno.txt added"
+[master 3196312] rollno.txt added
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 rollno.txt
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ vi rollno.txt
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   rollno.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git add .
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git commit -m "rollno.txt modified"
+[master 2a82b24] rollno.txt modified
+ 1 file changed, 1 insertion(+)
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/p1 (master)
+$ git log
+commit 2a82b244565762593725e7c3360d728bf6776eff (HEAD -> master)
+Author: gautamsbaghel <baghelgautam2001@gmail.com>
+Date:   Sun Jan 2 19:12:16 2022 +0530
+
+    rollno.txt modified
+
+commit 3196312cbeae4d22fb73f6bfcaed042a2676ae6d
+Author: gautamsbaghel <baghelgautam2001@gmail.com>
+Date:   Sun Jan 2 19:10:23 2022 +0530
+
+    rollno.txt added
+
+commit be0801f1cfeb5f3704d22a42ca88e66265bac080
+Author: gautamsbaghel <baghelgautam2001@gmail.com>
+Date:   Sun Jan 2 19:09:52 2022 +0530
+
+    hotel.txt added
+
+commit fb3dbf02ba805c85dceef6cf645aad43ac411a55 (gittutor/master)
+Author: gautamsbaghel <baghelgautam2001@gmail.com>
+Date:   Sat Jan 1 21:07:56 2022 +0530
+
+    practice commit
+(END)
