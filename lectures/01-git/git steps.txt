@@ -435,3 +435,92 @@ Date:   Sat Jan 1 21:07:56 2022 +0530
 
     practice commit
 (END)
+
+
+****************************************************************************************
+		BRANCH,PULL REQUEST AND OTHERS TOPIC 
+****************************************************************************************
+
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/DSALGO/DSA-Bootcamp-Java (main)
+$ git remote -v
+origin  https://github.com/gautamsbaghel/DSA-Bootcamp-Java.git (fetch)
+origin  https://github.com/gautamsbaghel/DSA-Bootcamp-Java.git (push)
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/DSALGO/DSA-Bootcamp-Java (main)
+$ git remote add upstream https://github.com/kunal-kushwaha/DSA-Bootcamp-Java.git
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/DSALGO/DSA-Bootcamp-Java (main)
+$ git remote -v
+origin  https://github.com/gautamsbaghel/DSA-Bootcamp-Java.git (fetch)
+origin  https://github.com/gautamsbaghel/DSA-Bootcamp-Java.git (push)
+upstream        https://github.com/kunal-kushwaha/DSA-Bootcamp-Java.git (fetch)
+upstream        https://github.com/kunal-kushwaha/DSA-Bootcamp-Java.git (push)
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/DSALGO/DSA-Bootcamp-Java (main)
+$ git branch gautam
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/DSALGO/DSA-Bootcamp-Java (main)
+$ git checkout gautam
+Switched to branch 'gautam'
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/DSALGO/DSA-Bootcamp-Java (gautam)
+$ git add .
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/DSALGO/DSA-Bootcamp-Java (gautam)
+$ git status
+On branch gautam
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   lectures/01-git/git steps.txt
+
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/DSALGO/DSA-Bootcamp-Java (gautam)
+$ git commit -m "added git steps file in git lecture"
+[gautam 839d6cf] added git steps file in git lecture
+ 1 file changed, 437 insertions(+)
+ create mode 100644 lectures/01-git/git steps.txt
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/DSALGO/DSA-Bootcamp-Java (gautam)
+$ git log
+commit 839d6cf5acef09bf721a9e4c4102ce8036068f7a (HEAD -> gautam)
+Author: gautamsbaghel <baghelgautam2001@gmail.com>
+Date:   Sun Jan 2 20:16:26 2022 +0530
+
+    added git steps file in git lecture
+
+commit 5aceaa82d67c4cc1071da31797c60ed351b46406 (origin/main, origin/HEAD, main)
+Merge: 08c9fc8 2999bc5
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Sun Dec 12 12:20:09 2021 +0530
+
+    Merge pull request #490 from HarshChib/Stack_correction
+
+    <Added easy question from hard section to easy>
+
+commit 08c9fc86330f87a0206219e3c025c6f5c6c61379
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Wed Dec 8 15:44:59 2021 +0530
+
+    Update SYLLABUS.md
+
+commit 2999bc515f77ad1bbae662198d981c7495677002
+Author: HarshChib <harshchib70@gmail.com>
+
+lenovo@DESKTOP-7Q6K332 MINGW64 ~/DSALGO/DSA-Bootcamp-Java (gautam)
+$ git push origin gautam
+Enumerating objects: 8, done.
+Counting objects: 100% (8/8), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (5/5), done.
+Writing objects: 100% (5/5), 2.41 KiB | 617.00 KiB/s, done.
+Total 5 (delta 3), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (3/3), completed with 3 local objects.
+remote:
+remote: Create a pull request for 'gautam' on GitHub by visiting:
+remote:      https://github.com/gautamsbaghel/DSA-Bootcamp-Java/pull/new/gautam
+remote:
+To https://github.com/gautamsbaghel/DSA-Bootcamp-Java.git
+ * [new branch]      gautam -> gautam
+
+
