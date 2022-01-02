@@ -21,6 +21,7 @@
 - Samadrita Shaw's [solutions](https://github.com/Samadrita-Shaw/Leetcode-Solutions-DSAwithKunal)(Java)
 - Soumajit Roy's [Solutions](https://github.com/Soumajit-Roy/DSA-Assignment-Solution)(Java)
 - Jitender Singh [solution](https://github.com/sharpsailor/Java.git)(Java)
+- Snehal Jose's [solutions](https://github.com/snehaljos/Java_Solutions)(Java)
 
 <div align="center">
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
