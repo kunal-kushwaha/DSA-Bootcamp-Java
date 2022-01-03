@@ -6,8 +6,6 @@
 
 # Problems:
 
-- Click on [*Show problem tags*](https://leetcode.com/tag/binary-search/) and do the questions that contains tags of topics we have covered so far.
-
 ## Easy
 - [Square Root](https://leetcode.com/problems/sqrtx/)
 - [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)

@@ -2,7 +2,6 @@
 
 ## Problems
 - Click on [*Show problem tags*](https://leetcode.com/tag/math/) and do the questions that contains tags of topics we have covered so far.
-- Click on [*Show problem tags*](https://www.geeksforgeeks.org/mathematical-algorithms/mathematical-algorithms-gcd-lcm/) and do the questions related to GCD and LCM.
 
 ## Easy
 - [Roman to Integer.](https://leetcode.com/problems/roman-to-integer/)

@@ -8,8 +8,6 @@
 
 # Questions
 
-- Click on [*Show problem tags*](https://leetcode.com/tag/sorting/) and do the questions that contains tag of topic (sorting) we have covered so far.
-
 ## Easy
 - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 - [Majority Element](https://leetcode.com/problems/majority-element/)

@@ -3,8 +3,6 @@
 
 # Problems
 
-- Click on [*Show problem tags*](https://leetcode.com/tag/recursion/) and do the questions that contains tag of topic (recursion) we have covered so far.
-
 ## Easy
 - [Sum Triangle from Array](https://www.geeksforgeeks.org/sum-triangle-from-array/) `GFG`
 - [Maximum and Minimum value in an array](https://www.geeksforgeeks.org/recursive-programs-to-find-minimum-and-maximum-elements-of-array/) `GFG`

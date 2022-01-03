@@ -2,8 +2,6 @@
 
 # Problems
 
-- Click on [*Show problem tags*](https://leetcode.com/tag/string/) and do the questions that contains tag of topic (String) we have covered so far.
-
 ## Easy
 
 - [Defanging an Ip address](https://leetcode.com/problems/defanging-an-ip-address/)
