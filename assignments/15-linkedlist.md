@@ -1,7 +1,6 @@
 # Problems
 
 - Click on [*Show problem tags*](https://leetcode.com/tag/linked-list/) and do the questions that contains tag of topic (Linked List) we have covered so far.
-- Click on [*Show problem tags*](https://leetcode.com/tag/doubly-linked-list/) and do the questions that contains tag of topic (doubly linked List) we have covered so far.
 
 ## Easy
 - [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) `leetcode`
