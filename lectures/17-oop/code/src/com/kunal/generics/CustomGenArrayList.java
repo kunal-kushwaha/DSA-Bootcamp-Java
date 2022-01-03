@@ -9,7 +9,7 @@ public class CustomGenArrayList<T> {
 
     private Object[] data;
     private static int DEFAULT_SIZE = 10;
-    private int size = 0; // also working as inde value
+    private int size = 0; // also working as index value
 
     public CustomGenArrayList() {
         data = new Object[DEFAULT_SIZE];
