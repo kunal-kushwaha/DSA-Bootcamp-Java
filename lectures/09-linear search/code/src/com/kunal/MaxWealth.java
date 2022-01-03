@@ -9,7 +9,7 @@ public class MaxWealth {
         // account = col
         int ans = Integer.MIN_VALUE;
         for (int[] ints : accounts) {
-            // when you start a new col, take a new sum for that row
+            // when you start a new row, take a new sum for that row
             int sum = 0;
             for (int anInt : ints) {
                 sum += anInt;
