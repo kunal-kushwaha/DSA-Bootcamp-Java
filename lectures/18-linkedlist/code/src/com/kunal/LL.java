@@ -78,6 +78,7 @@ public class LL {
         int val = tail.value;
         tail = secondLast;
         tail.next = null;
+        size--;
         return val;
     }
 
@@ -93,7 +94,7 @@ public class LL {
         int val = prev.next.value;
 
         prev.next = prev.next.next;
-
+        size--;
         return val;
     }
 

@@ -12,7 +12,7 @@
 - [Inorder Traversal (Iterative)](https://practice.geeksforgeeks.org/problems/inorder-traversal-iterative/1/) `GFG`
 - [Preorder traversal (Iterative)](https://practice.geeksforgeeks.org/problems/preorder-traversal-iterative/1/) `GFG`
 - [Flood fill](https://leetcode.com/problems/flood-fill/) `leetcode`
-
+- [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) `leetcode`
 ## Medium
 - [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/) `leetcode`
 - [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) `leetcode`
@@ -32,7 +32,6 @@
 - [Snake and Ladders](https://leetcode.com/problems/snakes-and-ladders/) `leetcode`
 
 ## Hard
-- [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) `leetcode`
 - [Longest Valid Parantheses](https://leetcode.com/problems/longest-valid-parentheses/) `leetcode`
 - [Sliding window maximum](https://leetcode.com/problems/sliding-window-maximum/) `leetcode`
 - [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/) `leetcode`
