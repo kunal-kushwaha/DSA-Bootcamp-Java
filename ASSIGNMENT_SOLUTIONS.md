@@ -20,3 +20,7 @@
 ### C++
 
 - Adarsh Navneet Sinha's [solutions](https://github.com/geeky01adarsh/DSA-Interview-Questions)
+
+### Javascript
+
+- Darshan Vaishya's [solutions](https://github.com/DarshanVaishya/DSA-Bootcamp-assignment-solutions)
