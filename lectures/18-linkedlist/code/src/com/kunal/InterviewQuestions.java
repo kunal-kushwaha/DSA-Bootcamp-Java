@@ -1,6 +1,7 @@
 package com.kunal;
 
 import javax.swing.*;
+import java.util.List;
 
 public class InterviewQuestions {
 
@@ -289,6 +290,38 @@ public class InterviewQuestions {
         reverseList(rereverseHead);
 
         return head == null || headSecond == null;
+    }
+
+    /**
+     * @param head pointer to the head of the LL
+     * @param tail pointer to the last of the LL
+     * @param NODE to store the next of head while we are comparing
+     */
+    private static ListNode NODE;
+    private boolean isPalinUtil(ListNode head, ListNode tail)
+    {
+        if (tail == null) {
+            NODE = head;
+            return true;
+        }
+        boolean res = isPalinUtil(head, tail.next);
+
+        if (!res)
+            return false;
+
+        if (NODE.val != tail.val)
+            return false;
+
+        NODE = NODE.next;
+        return true;
+    }
+
+    public boolean isPalindromeV2(ListNode head)
+    {
+        if (head == null || head.next == null)
+            return true;
+
+        return isPalinUtil(head, head);
     }
 
     // https://leetcode.com/problems/reorder-list/
