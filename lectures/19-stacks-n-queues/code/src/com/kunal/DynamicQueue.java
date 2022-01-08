@@ -22,7 +22,7 @@ public class DynamicQueue extends CircularQueue{
                 temp[i] = data[(front + i) % data.length];
             }
             front = 0;
-            end = data.length;
+            end = size;
             data = temp;
         }
 
