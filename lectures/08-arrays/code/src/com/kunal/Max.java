@@ -18,7 +18,7 @@ public class Max {
         }
 
         int maxVal = arr[start];
-        for (int i = start; i <= end; i++) {
+        for (int i = start + 1; i <= end; i++) {
             if (arr[i] > maxVal) {
                 maxVal = arr[i];
             }
