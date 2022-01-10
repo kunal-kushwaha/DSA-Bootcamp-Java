@@ -11,9 +11,11 @@
 - Rishabh Kumar's [solutions](https://github.com/crishabhkumar/Leetcode)
 - Samadrita Shaw's [solutions](https://github.com/Samadrita-Shaw/Leetcode-Solutions-DSAwithKunal)
 - Alok Verma's [solutions](https://github.com/alokVerma749/DSA-Bootcamp-assignment-solutions.git)
+- Akash Jain's[solutions](https://github.com/AkashJain2003/DSA-JAVA.git)
+
+
 
 ### Python
-
 - Aditya Chauhan's [solution](https://github.com/aditya-2703/DSA)
 - Deepak Mittal's [solutions](https://github.com/yesdeepakmittal/competitive-coding/tree/main/Kunal-DSA-Py-Solution)
 
