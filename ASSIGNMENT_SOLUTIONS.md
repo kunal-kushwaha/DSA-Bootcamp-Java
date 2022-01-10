@@ -4,6 +4,7 @@
 
 ### Java
 
+- Abhishekvrt's [solutions](https://github.com/Abhishekvrt/Java-DSA-Bootcamp)
 - Milind Mishra's [solutions](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
 - Divya Sri Darimisetti's [solutions](https://github.com/irsayvid/problem-attic)
 - Hrishabh Jain's [solutions](https://github.com/Hrishabh5/Java-DSA-Kunal-Kushwaha)
