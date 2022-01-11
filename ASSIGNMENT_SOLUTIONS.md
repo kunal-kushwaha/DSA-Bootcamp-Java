@@ -11,6 +11,7 @@
 - Rishabh Kumar's [solutions](https://github.com/crishabhkumar/Leetcode)
 - Samadrita Shaw's [solutions](https://github.com/Samadrita-Shaw/Leetcode-Solutions-DSAwithKunal)
 - Alok Verma's [solutions](https://github.com/alokVerma749/DSA-Bootcamp-assignment-solutions.git)
+- Ronit Banerjee's [solutions](https://github.com/ronitblenz/DSA_Java)
 
 ### Python
 
