@@ -2,7 +2,7 @@ package com.conditionals_loops_2;//package com.first_java_1;
 
 import java.util.Scanner;
 
-public class first_program {
+class DSA02_first_java_solutions {
     public static void main(String[] args) {
 
 //   Write a program to print whether a number is even or odd, also take input.

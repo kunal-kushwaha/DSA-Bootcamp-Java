@@ -1,5 +1,4 @@
-package com.conditionals_loops_2;
-
+ package com.conditionals_loops_2;
 //import com.company.Main;
 
 import java.awt.*;
@@ -7,8 +6,9 @@ import java.awt.geom.Area;
 import java.math.MathContext;
 import java.util.Scanner;
 
-public class conditionals_and_loops{
+class DSA03_conditionals_and_loops{
     public static void main(String[] args) {
+
         Scanner scanner = new Scanner(System.in);
 
 //        1. Area Of Circle Java Program
