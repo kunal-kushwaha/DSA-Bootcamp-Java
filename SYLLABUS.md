@@ -128,11 +128,11 @@
     - [Linked List + Recursion](https://youtu.be/70tx7KcMROc)
 - Stacks & Queues
     - [Introduction](https://youtu.be/rHQI4mrJ3cg)
-    - [Interview problems](https://youtu.be/rHQI4mrJ3cg)
     - [Push efficient](https://youtu.be/rHQI4mrJ3cg)
     - [Pop efficient](https://youtu.be/rHQI4mrJ3cg)
-    - [Queue using Stack and Vice versa](https://youtu.be/rHQI4mrJ3cg)
     - [Circular Queue](https://youtu.be/rHQI4mrJ3cg)
+    - Queue using Stack and Vice versa
+    - Interview problems
 - Trees
     - Introduction
     - Binary Trees
