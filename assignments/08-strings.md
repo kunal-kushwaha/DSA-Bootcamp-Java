@@ -1,6 +1,5 @@
 # Videos
-- [String](https://youtu.be/zL1DPZ0Ovlo)
-- 
+- [Strings and StringBuilder](https://youtu.be/zL1DPZ0Ovlo)
 # Problems
 
 ## Easy
