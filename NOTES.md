@@ -8,3 +8,4 @@
   - [Notes-website](https://utkarsh1504.github.io/DSA-Java/) - for revision
 - [Murtuzaali Surti](https://github.com/murtuzaalisurti/DSA-notes)
 - [Arti Manputra](https://github.com/artimanputra/DSA-Notes)
+- [Meet Soni](https://github.com/meetsoni1214/DSA-Notes)
