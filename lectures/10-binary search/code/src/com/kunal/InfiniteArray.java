@@ -19,6 +19,11 @@ public class InfiniteArray {
             // double the box value
             // end = previous end + sizeofbox*2
             end = end + (end - start + 1) * 2;
+            //sometimes when increasing the chunk size, it may grow out of array size
+            //problem specific to finite size array
+            //not applicable for infinite array
+            //to tackle out of bound ranges
+            if(end>arr.length-1) end=arr.length-1;
             start = temp;
         }
         return binarySearch(arr, target, start, end);
