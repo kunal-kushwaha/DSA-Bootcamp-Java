@@ -15,7 +15,7 @@
 - <a href="https://github.com/kunal-kushwaha/Competitive-Programming-Resources" title="CP Lover? Click here to get some awesome resources related to Competitive Programming" style="background-color:#FFFFFF;color:#000000;text-decoration:none">🏆 Competitive Programming Resources</a>
 
 
-### Connect with me
+## Connect with me
   <a href="https://twitter.com/kunalstwt">
     <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>&ensp;
@@ -26,7 +26,7 @@
     <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
 
-### Join Community Classroom Groups
+## Join Community Classroom Groups
   <a href="https://discord.io/commclassroom">
     <img width="30px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" />
   </a>&ensp;
