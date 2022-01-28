@@ -59,7 +59,6 @@
 - [Gray code](https://practice.geeksforgeeks.org/problems/gray-code-1611215248/1/) `GFG` `Google`
 - [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) `leetcode`
 - [combination Sum III](https://leetcode.com/problems/combination-sum-iii/) `leetcode`
-- [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) `leetcode`
 - [Letter tile possibilities](https://leetcode.com/problems/letter-tile-possibilities/) `leetcode`
 - [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) `leetcode`
 - [Sort a stack using recursion](https://www.geeksforgeeks.org/sort-a-stack-using-recursion/) `GFG`
@@ -93,3 +92,4 @@
 - [Maximum number possible by doing at-most K swaps](https://www.geeksforgeeks.org/find-maximum-number-possible-by-doing-at-most-k-swaps/) `GFG`
 - [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion&filters%5Bdifficulty%5D%5B%5D=hard)
 - [Concatenated Words](https://leetcode.com/problems/concatenated-words/)`leetcode`
+- - [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) `leetcode`
