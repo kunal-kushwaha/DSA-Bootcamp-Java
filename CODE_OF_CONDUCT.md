@@ -28,13 +28,13 @@ community includes:
 Examples of unacceptable behavior include:
 
 * The use of sexualized language or imagery, and sexual attention or
-  advances of any kind
+  advances of any kind.
 * Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
+* Public or private harassment.
 * Publishing other's private information, such as a physical or email
-  address, without their explicit permission
+  address, without their explicit permission.
 * Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+  professional setting.
 
 ## Enforcement Responsibilities
 
@@ -123,6 +123,5 @@ enforcement ladder](https://github.com/mozilla/diversity).
 
 [homepage]: https://www.contributor-covenant.org
 
-For answers to common questions about this code of conduct, see the FAQ at
-https://www.contributor-covenant.org/faq. Translations are available at
-https://www.contributor-covenant.org/translations.
+For answers to common questions about this code of conduct, see the FAQ at:(https://www.contributor-covenant.org/faq).
+Translations are available at:(https://www.contributor-covenant.org/translations).
