@@ -23,7 +23,7 @@ public class Main {
     }
 
     static void selection(int[] arr) {
-        for (int i = 0; i < arr.length; i++) {
+        for (int i = 0; i < arr.length - 1; i++) {
             // find the max item in the remaining array and swap with correct index
             int last = arr.length - i - 1;
             int maxIndex = getMaxIndex(arr, 0, last);
