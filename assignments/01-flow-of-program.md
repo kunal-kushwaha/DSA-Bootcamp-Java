@@ -2,8 +2,10 @@
 
 ## Create flowchart and pseudocode for the following:
 
-1. Input a year and find whether it is a leap year or not.
-2. Take two numbers and print the sum of both.
+1. [Input a year and find whether it is a leap year or not](https://www.beecrowd.com.br/judge/en/problems/view/1279)
+2. [Take two numbers and print the sum of both](https://www.beecrowd.com.br/judge/en/problems/view/1003)
 3. Take a number as input and print the multiplication table for it.
 4. Take 2 numbers as inputs and find their HCF and LCM.
 5. Keep taking numbers as inputs till the user enters ‘x’, after that print sum of all.
+6. [Print the greatest](https://www.beecrowd.com.br/judge/en/problems/view/1013)
+
