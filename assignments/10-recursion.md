@@ -92,4 +92,4 @@
 - [Maximum number possible by doing at-most K swaps](https://www.geeksforgeeks.org/find-maximum-number-possible-by-doing-at-most-k-swaps/) `GFG`
 - [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion&filters%5Bdifficulty%5D%5B%5D=hard)
 - [Concatenated Words](https://leetcode.com/problems/concatenated-words/)`leetcode`
-- - [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) `leetcode`
+- [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) `leetcode`
