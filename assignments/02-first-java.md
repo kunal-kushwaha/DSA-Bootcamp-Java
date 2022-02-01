@@ -2,7 +2,7 @@
 
 ## Write Java programs for the following:
 
-1. [even or odd](https://www.beecrowd.com.br/judge/en/problems/view/2677)
+1. [Find N is Even or Odd Number](https://www.beecrowd.com.br/judge/en/problems/view/2677)
 input from the user.
 2. Take name as input and print a greeting message for that particular name.
 3. Write a program to input principal, time, and rate (P, T, R) from the user and
