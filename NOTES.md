@@ -10,3 +10,4 @@
   - [Notes-website](https://utkarsh1504.github.io/DSA-Java/) - for revision
 - [Murtuzaali Surti](https://github.com/murtuzaalisurti/DSA-notes)
 - [Arti Manputra](https://github.com/artimanputra/DSA-Notes)
+- [Jaideep Kumar Singh](https://github.com/jstar2708/Handwritten-Java-Notes)
