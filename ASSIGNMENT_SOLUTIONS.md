@@ -1,6 +1,6 @@
 # 💡SOLUTIONS
 
-## Public repositories that contain solutions for [assignments](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/tree/main/assignments)
+## Public repositories that contain solutions for [assignments] --> (https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/tree/main/assignments)
 
 ### Java
 
