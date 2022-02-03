@@ -20,3 +20,5 @@
 ### C++
 
 - Adarsh Navneet Sinha's [solutions](https://github.com/geeky01adarsh/DSA-Interview-Questions)
+- Mayank Tyagi's [solutions](https://github.com/mayanktyagi1709/Leetcode-Solutions-DSAwithKunal)
+
