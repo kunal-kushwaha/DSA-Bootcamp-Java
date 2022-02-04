@@ -31,6 +31,7 @@
 26. [Plus One](https://leetcode.com/problems/plus-one/)
 27. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 28. [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)
+29. [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) 
 
 ### Medium
 1. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
