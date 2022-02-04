@@ -6,9 +6,17 @@
 
 
    ```git clone https://github.com/your_user_name/DSA-Bootcamp-Java.git```
+   
+3. Check that your fork is the "origin" remote.
 
 
-3. Create a new Branch:
+   ```git remote add origin URL_OF_FORK```
+
+4. Add the project repository as the "upstream" remote.
+
+  ```git remote add upstream URL_OF_FORK```
+
+5. Create a new Branch:
 
 
    ```git branch  -YourBranchName-```
@@ -16,9 +24,9 @@
    
    ```git checkout  -YourBranchName-```
 
-4. Make your contributions.
+6. Make your contributions.
 
-5. Stage your changes and make a commit.
+7. Stage your changes and make a commit.
 
 
    ```git add .```
@@ -27,9 +35,9 @@
    ```git commit -m "<your_commit_message>"```
    
 
-6. Push your local commits to the remote Repository.
+8. Push your local commits to the remote Repository.
 
 
    ```git push origin -YourBranchName-```
 
-7. Create a PR.
+9. Create a PR.
