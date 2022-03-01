@@ -43,6 +43,8 @@
 ----------- for (i = 1; i<= min; i++)
 ---------------if (number1 mod i == 0 ANA number2 mod i ==0)
 -------------------- HCF = i
+--------------------End
+------------End
 ----------- LCM =(number1 * number 2) / HCF
 ----------- print(HCF,LCM)
 -------Stop
