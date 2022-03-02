@@ -52,12 +52,10 @@
 5. Keep taking numbers as inputs till the user enters ‘x’, after that print sum of all.
 -Answear5
 ------Start
-----------Scanner scanner = new Scanner(System.in)
----------- while(true){
------------------------Input number =scanner.nextInt()
+-----------input number
+---------- while(number != string){
+-----------------------Input number
 -----------------------sum=sum+number
-----------------------if(!scanner.hasNextInt())
--------------------------break
 -----------}
 ------------print(sum)
 ------Stop
