@@ -1,0 +1,184 @@
+1. Write a program to print whether a number is even or odd, also take
+input from the user.
+-import java.util.Scanner;
+-public class NumIsOddOrEven {
+-----public static void main(String[] args) {
+---------int number;
+---------Scanner in = new Scanner(System.in);
+---------System.out.println("input number and to exit press x");
+---------while (in.hasNextInt()){
+-------------number=in.nextInt();
+-------------if(number%2==0)
+-----------------System.out.println(number+" Is even");
+-------------else
+-----------------System.out.println(number+" Is odd");
+---------}
+-----}
+-}
+===========================================================================
+2. Take name as input and print a greeting message for that particular name.
+-import java.util.Scanner;
+-public class PrintMessage {
+-----public static void main(String[] args) {
+---------String name;
+---------Scanner in = new Scanner(System.in);
+---------System.out.printf("Enter your name: \n");
+---------name =in.nextLine();
+---------System.out.println("Wellcom to our class "+name);
+----}
+-}
+================================================================================
+3. Write a program to input principal, time, and rate (P, T, R) from the user and
+find Simple Interest.
+-import java.util.Scanner;
+-public class SimpleInterest{
+-----public static void main(String[] args){
+---------double p,t,r,si;
+---------Scanner in = new Scanner(System.in);
+---------System.out.println("Enter principal ");
+---------p=in.nextDouble();
+---------System.out.println("Enter Time");
+---------t=in.nextDouble();
+---------System.out.println("Enter Rate");
+---------r=in.nextDouble();
+---------si=(t * p * r)/100;
+---------System.out.println("Simple Interest is : "+si);
+-----}
+-}
+============================================================================
+4. Take in two numbers and an operator (+, -, *, /) and calculate the value.
+(Use if condition)
+-import java.util.Scanner;
+-public class NumOperator {
+-----public static void main(String[] args) {
+---------double number1, number2, result;
+---------char op;
+---------Scanner in = new Scanner(System.in);
+---------while (true) {
+---------result = 0;
+---------System.out.println("Enter the operator ");
+---------op = in.next().charAt(0);
+---------if (op == '+' || op == '*' || op == '/' || op == '-') {
+-------------System.out.println("Enter two numbers ");
+-------------number1 = in.nextDouble();
+-------------number2 = in.nextDouble();
+------------if (op == '+')
+---------------result = number1 + number2;
+------------else if (op == '*')
+---------------result = number1 * number2;
+------------else if (op == '-')
+---------------result = number1 - number2;
+------------else {
+------------------if (number2 != 0)
+---------------------result = number1 / number2;
+---------------------else
+------------------------System.out.println("cant divided by zero");
+-----------------}
+-------}
+-------else if (op == 'x' || op == 'X')
+---------break;
+-------else
+------------System.out.println("invalid Enter to exit press x");
+------System.out.println(result);
+-----=}
+---}
+-}
+============================================================================
+5. Take 2 numbers as input and print the largest number.
+import java.util.Scanner;
+public class LargestNumber {
+    public static void main(String[] args) {
+        int number1,number2;
+        Scanner in = new Scanner(System.in);
+        System.out.println("enter two numbers");
+        number1= in.nextInt();
+        number2= in.nextInt();
+        if(number1>number2)
+            System.out.println(number1+" is the largest");
+        else if(number1==number2)
+            System.out.println(number1+" equal "+number2);
+        else
+            System.out.println(number2+" is the largest");
+    }
+}
+============================================================================
+6. Input currency in rupees and output in USD.
+package com.company;
+
+import java.util.Scanner;
+
+public class CurrencyConverter {
+    public static void main(String[] args) {
+        double rupees,usd;
+        Scanner in = new Scanner(System.in);
+        System.out.println("Enter the value in Indian Rupees: ");
+        rupees=in.nextDouble();
+        usd=rupees*0.0131270;
+        System.out.println("the corresponding value in USD is : "+usd);
+    }
+}
+=======================================================
+7. To calculate Fibonacci Series up to n numbers.
+package com.company;
+
+import java.util.Scanner;
+
+
+public class Fibonaicce {
+    public static void main(String[] args) {
+        int number,sum=0;
+        Scanner in = new Scanner(System.in);
+        System.out.println("Enter number to calculate fibonaicce series");
+        number = in.nextInt();
+        for(int i=1;i<=number;i++)
+            sum =sum+ (int) ((Math.pow((1+Math.sqrt(5)),i) - Math.pow((1-Math.sqrt(5)),i))/(Math.pow(2,i)*Math.sqrt(5)));
+        System.out.println(sum);
+    }
+}
+==================================================================================
+8. To find out whether the given String is Palindrome or not.
+import java.util.Scanner;
+
+public class Palindrome {
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        String str = in.next();
+        String a ="";
+        int last=str.length()-1;
+        for(int i=0;i<str.length();i++) {
+            char ch =str.charAt(last);
+            last-=1;
+             a =a+ch;
+        }
+        if(a.equals(str))
+        System.out.println(str+" is Palindrome "+a);
+        else
+            System.out.println(str+" is not Palindrome "+a);
+
+    }
+}
+============================================================================
+9. To find Armstrong Number between two given number
+package com.company;
+
+import java.util.Scanner;
+
+public class ArmostrongNumber {
+    public static void main(String[] args) {
+        int sum=0;
+        Scanner in = new Scanner(System.in);
+        System.out.println("Input any number ");
+        String number = in.next();
+        int length =number.length();
+        for(int i=0;i<length;i++){
+            char ch = number.charAt(i);
+            int n =Integer.parseInt(String.valueOf(ch));
+            sum=sum+(int)Math.pow(n,length);
+        }
+        if(sum==Integer.parseInt(number))
+            System.out.println(number+" an armostrong number");
+        else
+            System.out.println(number+" Not an armostrong number");
+    }
+}
+
