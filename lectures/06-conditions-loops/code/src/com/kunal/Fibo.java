@@ -10,7 +10,7 @@ public class Fibo {
         int b = 1;
         int count = 2;
 
-        while (count <= n) {
+        while (count < n) {
             int temp = b;
             b = b + a;
             a = temp;
