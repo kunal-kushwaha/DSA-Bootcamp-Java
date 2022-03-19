@@ -32,8 +32,8 @@
 - [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)
 
 ## Hard
-- [Minimum Number of Flips to onvert Binary Matrix to zero matrix](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/)
-- [Minimum cost to connect two group of points](https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/)
+- [Minimum Number of Flips to convert Binary Matrix to Zero matrix](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/)
+- [Minimum cost to connect two groups of points](https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/)
 - [Find XOR Sum of All Pairs Bitwise AND](https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/)
 
 # Additionally
