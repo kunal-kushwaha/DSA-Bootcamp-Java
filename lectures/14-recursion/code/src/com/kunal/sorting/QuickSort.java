@@ -20,7 +20,7 @@ public class QuickSort {
         int m = s + (e - s) / 2;
         int pivot = nums[m];
 
-        while (s <= e) {
+        while (s < e) {
 
             // also a reason why if its already sorted it will not swap
             while (nums[s] < pivot) {
@@ -30,17 +30,15 @@ public class QuickSort {
                 e--;
             }
 
-            if (s <= e) {
+            if (s < e) {
                 int temp = nums[s];
                 nums[s] = nums[e];
                 nums[e] = temp;
-                s++;
-                e--;
             }
         }
 
         // now my pivot is at correct index, please sort two halves now
-        sort(nums, low, e);
-        sort(nums, s, hi);
+        sort(nums, low, e-1);
+        sort(nums, s+1, hi);
     }
 }
