@@ -43,6 +43,7 @@
 8. [Rotate Array](https://leetcode.com/problems/rotate-array/)
 9. [Sort Colors](https://leetcode.com/problems/sort-colors/)
 10. [House Robber](https://leetcode.com/problems/house-robber/)
+11.  [Largest Number](https://leetcode.com/problems/largest-number/)
 
 ### Hard
 1. [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)
