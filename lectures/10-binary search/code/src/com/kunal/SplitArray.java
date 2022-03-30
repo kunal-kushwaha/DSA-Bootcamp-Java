@@ -6,6 +6,9 @@ public class SplitArray {
     }
 
     public int splitArray(int[] nums, int m) {
+        if( m > nums.length){
+            return -1;
+        }
         int start = 0;
         int end = 0;
 
