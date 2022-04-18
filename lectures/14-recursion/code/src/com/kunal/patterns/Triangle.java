@@ -56,22 +56,31 @@ public class Triangle {
         }
     }
 
-    static void selection(int[] arr, int r, int c, int max) {
-        if (r == 0) {
+    public static void bubbleSort(int[] arr,int row,int column,int max)
+    {
+        if(row == 0)
+        {
             return;
         }
-        if (c < r) {
-            if (arr[c] > arr[max]) {
-                selection(arr, r, c+1, c);
-            } else {
-                selection(arr, r, c+1, max);
+        if(column <= row)
+        {
+            if(arr[column] > arr[max])
+            {
+                bubbleSort(arr,row,column+1,column);
             }
-        } else {
-            int temp = arr[max];
-            arr[max] = arr[r-1];
-            arr[r-1] = temp;
-            selection(arr, r-1, 0, 0);
+            else
+            {
+                bubbleSort(arr,row,column+1,max);
+            }
         }
+        else
+        {
+            int temp = arr[max];
+            arr[max] = arr[row];
+            arr[row] = temp;
+            bubbleSort(arr, row - 1, 0, 0);
+        }
+    }
     }
 
 
