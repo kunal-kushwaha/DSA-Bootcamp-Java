@@ -20,6 +20,14 @@ public class InfiniteArray {
             // end = previous end + sizeofbox*2
             end = end + (end - start + 1) * 2;
             start = temp;
+            while (true) {
+                try {
+                    a = arr[end];
+                    break;
+                } catch (ArrayIndexOutOfBoundsException e) {
+                    end--;
+                }
+            }
         }
         return binarySearch(arr, target, start, end);
 
