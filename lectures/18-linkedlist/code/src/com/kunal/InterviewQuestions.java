@@ -279,7 +279,7 @@ public class InterviewQuestions {
         ListNode rereverseHead = headSecond;
 
         // compare both the halves
-        while (head != null && headSecond != null) {
+        while (headSecond != null) {
             if (head.val != headSecond.val) {
                 break;
             }
@@ -288,7 +288,7 @@ public class InterviewQuestions {
         }
         reverseList(rereverseHead);
 
-        return head == null || headSecond == null;
+        return headSecond == null;
     }
 
     // https://leetcode.com/problems/reorder-list/
