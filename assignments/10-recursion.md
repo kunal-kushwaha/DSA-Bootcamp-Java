@@ -34,9 +34,9 @@
 - [Number of Steps to Reduce a Number to Zero.](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) `leetcode`
 - [Check for balanced paranthesis using recursion without stack.](https://www.geeksforgeeks.org/check-for-balanced-parenthesis-without-using-stack/) `GFG`
 - [Remove consecutive duplicate characters from a string.](https://www.geeksforgeeks.org/remove-consecutive-duplicates-string/) `GFG` 
-- [Power Set of permutations of a string in Lexicographic order.](https://www.geeksforgeeks.org/powet-set-lexicographic-order/) `GFG`
 
 ## Medium
+- [Power Set of permutations of a string in Lexicographic order.](https://www.geeksforgeeks.org/powet-set-lexicographic-order/) `GFG`
 - [Combination Sum](https://leetcode.com/problems/combination-sum/) `leetcode`
 - [Word Search](https://leetcode.com/problems/word-search/) `leetcode`
 - [Target sum](https://leetcode.com/problems/target-sum/) `leetcode`
