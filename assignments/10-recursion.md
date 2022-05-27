@@ -34,7 +34,6 @@
 - [Number of Steps to Reduce a Number to Zero.](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) `leetcode`
 - [Check for balanced paranthesis using recursion without stack.](https://www.geeksforgeeks.org/check-for-balanced-parenthesis-without-using-stack/) `GFG`
 - [Remove consecutive duplicate characters from a string.](https://www.geeksforgeeks.org/remove-consecutive-duplicates-string/) `GFG` 
-- [Print all possible palindromic partitions of a string.](https://www.geeksforgeeks.org/given-a-string-print-all-possible-palindromic-partition/) `GFG`
 - [Power Set of permutations of a string in Lexicographic order.](https://www.geeksforgeeks.org/powet-set-lexicographic-order/) `GFG`
 
 ## Medium
@@ -77,6 +76,7 @@
 - [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) `leetcode`
 - [Special Binary String](https://leetcode.com/problems/special-binary-string/) `leetcode`
 - [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) `leetcode`
+- [Print all possible palindromic partitions of a string.](https://www.geeksforgeeks.org/given-a-string-print-all-possible-palindromic-partition/) `GFG`
 - [Next Happy Number](https://practice.geeksforgeeks.org/problems/next-happy-number4538/1/) `GFG`
 - [Basic Calculator](https://leetcode.com/problems/basic-calculator/) `leetcode`
 - [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) `leetcode`
