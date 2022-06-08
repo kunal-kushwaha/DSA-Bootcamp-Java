@@ -18,14 +18,14 @@ class BinarySearchTesting {
 		//Partition 2: Element at the last position
 		BinarySearch search = new BinarySearch();
 		int[] arr = {86, -12, -4, 0, 2, 3, 4, 15, 16, 18, 45, 22};
-		assertTrue(search.binarySearch(arr, 22) == arr.length);
+		assertTrue(search.binarySearch(arr, 22) == 11);
 	}
-	
+
 	@Test
-	void testTwentyTwoAtAnyPosition() {
+	void testTwentyTwoFindAtAnyPosition() {
 		//Partition 3: Element at any position
 		BinarySearch search = new BinarySearch();
-		int[] arr = {86, -12, -4, 0, 2, 3, 4, 15, 16, 18, 22, 45, 44};
+		int[] arr = {86, -12, -4, 0, 2, 3, 4, 15, 16, 18, 22, 44};
 		assertEquals(10, search.binarySearch(arr, 22));
 	}
 
