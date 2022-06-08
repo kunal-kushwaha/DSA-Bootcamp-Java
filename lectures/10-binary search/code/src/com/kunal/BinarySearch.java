@@ -3,9 +3,9 @@ package com.kunal;
 public class BinarySearch {
 
     public static void main(String[] args) {
-        int[] arr = {-18, -12, -4, 0, 2, 3, 4, 15, 16, 18, 22, 45, 89};
+        int[] arr = {86, -12, -4, 0, 2, 3, 4, 15, 16, 18, 45, 22};
         int target = 22;
-        int ans = binarySearch(arr, target);
+        int ans = binarySearch(arr, 22);
         System.out.println(ans);
     }
 

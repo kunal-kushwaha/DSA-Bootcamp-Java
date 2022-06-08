@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="lectures/05-first-java-program/first-idea-program/src"/>
+	<classpathentry kind="src" path="lectures/05-first-java-program/first-tutorial"/>
+	<classpathentry kind="src" path="lectures/06-conditions-loops/code/src"/>
+	<classpathentry kind="src" path="lectures/06-conditions-loops/switch/src"/>
+	<classpathentry kind="src" path="lectures/07-methods/code/src"/>
+	<classpathentry kind="src" path="lectures/08-arrays/code/src"/>
+	<classpathentry kind="src" path="lectures/09-linear search/code/src"/>
+	<classpathentry kind="src" path="lectures/10-binary search/code/src"/>
+	<classpathentry kind="src" path="lectures/11-sorting/code/src"/>
+	<classpathentry kind="src" path="lectures/12-strings/code/src"/>
+	<classpathentry kind="src" path="lectures/13-patterns/code/src"/>
+	<classpathentry kind="src" path="lectures/14-recursion/code/src"/>
+	<classpathentry kind="src" path="lectures/15-complexity/code/src"/>
+	<classpathentry kind="src" path="lectures/16-math/code/src"/>
+	<classpathentry kind="src" path="lectures/17-oop/code/src"/>
+	<classpathentry kind="src" path="lectures/18-linkedlist/code/src"/>
+	<classpathentry kind="src" path="lectures/19-stacks-n-queues/code/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
