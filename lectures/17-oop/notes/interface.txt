@@ -120,5 +120,5 @@ interface’s version of the method takes precedence.
 NOTE: static interface methods are not inherited by either an implementing class or a subinterface.
 i.e. static interface methods should have a body! They cannot be abstract. 
 
-NOTE : when overriding methods, the access modifier should be same or better i.e. if in Parent Class it was protected, then then overridden should be either protected or public.
+NOTE : when overriding methods, the access modifier should be same or better i.e. if in Parent Class it was protected, then the overridden method should be either protected or public.
 
