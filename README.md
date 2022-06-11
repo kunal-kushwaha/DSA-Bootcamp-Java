@@ -2,6 +2,7 @@
 
 ![DSA-Bootcamp-Java](https://socialify.git.ci/kunal-kushwaha/DSA-Bootcamp-Java/image?description=1&font=Inter&language=1&owner=1&pattern=Charlie%20Brown&theme=Dark)
 nitskdnnf
+rahul made this pool change
 - <a href="https://www.youtube.com/KunalKushwaha?sub_confirmation=1" title="Subscribe to Kunal Kushwaha's YouTube Channel" style="background-color:#FFFFFF;color:#000000;text-decoration:none">▶ Subscribe to our channel </a>
 
 - <a href="https://www.commclassroom.org/java" style="background-color:#FFFFFF;color:#000000;text-decoration:none">🧑‍💻 Syllabus and website </a>
