@@ -22,7 +22,8 @@ SUPERCLASS ref = new SUBCLASS();    // HERE ref can only access methods which ar
 
 Using super:
 Whenever a subclass needs to refer to its immediate superclass, it can do so by use of the keyword super.
-super has two general forms. The first calls the superclass’ constructor.
+Super has two general forms. 
+The first calls the superclass’ constructor.
 The second is used to access a member of the superclass that has been hidden by a member of a subclass.
 
 BoxWeight(double w, double h, double d, double m) {
