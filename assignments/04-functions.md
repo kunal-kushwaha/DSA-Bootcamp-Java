@@ -37,7 +37,7 @@ Also,
 0! = 1
 </pre>
 
-10. [Write a function to find if a number is a palindrome or not. Take number as parameter.](https://www.geeksforgeeks.org/check-if-a-number-is-palindrome/)
+10. [Write a function to find if a number is a palindrome or not. Take number as parameter.](https://leetcode.com/problems/palindrome-number/)
 
 11. Convert the programs in [flow of program](01-flow-of-program.md), [first java](02-first-java.md), [conditionals & loops](03-conditionals-loops.md) assignments into functions.
 
