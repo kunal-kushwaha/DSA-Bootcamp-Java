@@ -5,13 +5,16 @@ When you declare an object of a class, you are creating an instance of that clas
 Thus, a class is a logical construct. An object has physical reality. (That is, an object occupies space in memory.)
 
 Objects are characterized by three essential properties: state, identity, and behavior.
-The state of an object is a value from its data type. The identity of an object distinguishes one object from another.
+The state of an object is a value from its data type. State can also be defined as the attributes of an object.
+
+The identity of an object distinguishes one object from another.
 It is useful to think of an object’s identity as the place where its value is stored in memory.
+
 The behavior of an object is the effect of data-type operations.
 
 The dot operator links the name of the object with the name of an instance variable.
 Although commonly referred to as the dot operator, the formal specification for Java categorizes the . as a separator.
-The 'new' keyword dynamically allocates(that is, allocates at run time)memory for an object & returns a reference to it.
+The 'new' keyword dynamically allocates memory (at run time) for an object & returns a reference to it.
 This reference is, more or less, the address in memory of the object allocated by new.
 This reference is then stored in the variable.
 Thus, in Java, all class objects must be dynamically allocated.
@@ -26,8 +29,8 @@ The key to Java’s safety is that you cannot manipulate references as you can a
 Thus, you cannot cause an object reference to point to an arbitrary memory location or manipulate it like an integer.
 
 A Closer Look at new:
-classname class-var = new classname ( );
-Here, class-var is a variable of the class type being created. The classname is the name of the class that is being
+classname class_var = new classname ( );
+Here, class_var is a variable of the class type being created. The classname is the name of the class that is being
 instantiated. The class name followed by parentheses specifies the constructor for the class. A constructor defines
 what occurs when an object of a class is created.
 
@@ -55,4 +58,4 @@ For example, square(100) passes 100 as an argument. Inside square( ), the parame
 
 NOTE:
 Bus bus = new Bus();
-lhs(reference i.e. bus) is looked be compiler & rhs (object i.e. new Bus()) is looked by jvm
+LHS(reference i.e. bus) is handled by the compiler & RHS (object i.e. new Bus()) is handled by JVM.
