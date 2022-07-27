@@ -55,8 +55,16 @@ public class LL {
 
     // insert using recursion
     public void insertRec(int val, int index) {
+          if(index<0 || index>size){
+            System.out.println("You Cannot insert at "+index+" position");
+            return;
+        }
         head = insertRec(val, index, head);
+         if(tail==null){
+            tail=head;
+        }
     }
+    
     private Node insertRec(int val, int index, Node node) {
         if (index == 0) {
             Node temp = new Node(val, node);
