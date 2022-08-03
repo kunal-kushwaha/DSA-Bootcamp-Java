@@ -25,7 +25,7 @@ That is, using interface, you can specify what a class must do, but not how it d
 Interfaces are syntactically similar to classes, but they lack instance variables, and, as a general rule,
 their methods are declared without any body.
 
-By providing the interface keyword, Java allows you to fully utilize the “one interface, multiple methods”
+By providing the interface keyword, Java allows you to fully utilise the “one interface, multiple methods”
 aspect of polymorphism.
 
 NOTE: Interfaces are designed to support dynamic method resolution at run time.
@@ -35,15 +35,15 @@ a static and nonextensible classing environment. Inevitably in a system like thi
 and higher in the class hierarchy so that the mechanisms will be available to more and more subclasses. Interfaces are
 designed to avoid this problem. They disconnect the definition of a method or set of methods from the inheritance
 hierarchy. Since interfaces are in a different hierarchy from classes, it is possible for classes that are unrelated
-in terms of the class hierarchy to implement the same interface. This is where the real power of interfaces is realized.
+in terms of the class hierarchy to implement the same interface. This is where the real power of interfaces is realised.
 
 Beginning with JDK 8, it is possible to add a default implementation to an interface method.
-Thus, it is now possible for interface to specify some behavior.However, default methods constitute what is, in essence,
+Thus, it is now possible for interface to specify some behaviour. However, default methods constitute what is, in essence,
 a special-use feature, and the original intent behind interface still remains.
 
 Variables can be declared inside of interface declarations.
 NOTE: They are implicitly final and static, meaning they cannot be changed by the implementing class.
-They must also be initialized. All methods and variables are implicitly public.
+They must also be initialised. All methods and variables are implicitly public.
 
 NOTE: The methods that implement an interface must be declared public. Also, the type signature of the implementing
 method must match exactly the type signature specified in the interface definition.
@@ -110,7 +110,7 @@ Ex:
  }
 
 For example, you might have a class that implements two interfaces.
-If each of these interfaces provides default methods, then some behavior is inherited from both.
+If each of these interfaces provides default methods, then some behaviour is inherited from both.
 # In all cases, a class implementation takes priority over an interface default implementation.
 # In cases in which a class implements two interfaces that both have the same default method, but the class does not
 override that method, then an error will result.
@@ -120,5 +120,5 @@ interface’s version of the method takes precedence.
 NOTE: static interface methods are not inherited by either an implementing class or a subinterface.
 i.e. static interface methods should have a body! They cannot be abstract. 
 
-NOTE : when overriding methods, the access modifier should be same or better i.e. if in Parent Class it was protected, then then overridden should be either protected or public.
+NOTE : when overriding methods, the access modifier should be same or better i.e. if in Parent Class it was protected, then overridden should be either protected or public.
 
