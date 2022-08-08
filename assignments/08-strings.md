@@ -29,7 +29,7 @@
 - [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 - [Length of last word](https://leetcode.com/problems/length-of-last-word/)
-
+- [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
 ## Medium
 
 - [Jump Game VII](https://leetcode.com/problems/jump-game-vii/)
