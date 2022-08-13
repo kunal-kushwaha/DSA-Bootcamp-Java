@@ -223,15 +223,18 @@ Print these patterns using loops:
          *
 
 29.      
-       *        *
-       **      **
-       ***    ***
-       ****  ****
-       **********
-       ****  ****
-       ***    ***
-       **      **
-       *        *
+   A B C D E F 
+   A B C D E 
+   A B C D 
+   A B C 
+   A B 
+   A 
+   A 
+   A B 
+   A B C 
+   A B C D 
+   A B C D E 
+   A B C D E F
 
 30.         1
           2 1 2
