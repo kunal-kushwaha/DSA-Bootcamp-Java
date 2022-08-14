@@ -9,7 +9,7 @@ public class Ceiling {
         System.out.println(ans);
     }
 
-    // return the index of smallest no >= target
+    // return the index of smallest no >= target.
     static int ceiling(int[] arr, int target) {
 
         // but what if the target is greater than the greatest number in the array
