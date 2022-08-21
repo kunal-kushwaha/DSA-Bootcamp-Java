@@ -4,7 +4,6 @@ public class CountZeros {
     public static void main(String[] args) {
         System.out.println(count(30210004));
     }
-
     static int count(int n) {
         return helper(n, 0);
     }
@@ -20,5 +19,9 @@ public class CountZeros {
             return helper(n/10, c+1);
         }
         return helper(n/10, c);
+//         Alternative approach(Short and easy).
+    public static int countAlt(int n) {
+        if(n<10) return 0;
+        return (n % 10 == 0 ? 1 : 0) + countAlt(n / 10);
     }
 }
