@@ -1,10 +1,13 @@
-[Video Link](https://youtu.be/lhELGQAV4gg)
+# [Video Link](https://youtu.be/lhELGQAV4gg)
 
 ## Create flowchart and pseudocode for the following:
 
-## **1. Input a year and find whether it is a leap year or not.** [Answer](https://cloud.smartdraw.com/share.aspx/?pubDocShare=5A781E474482113CC33C41361849F7A6046)<div id="5A781E474482113CC33C41361849F7A6046_96118"><div id="5A781E474482113CC33C41361849F7A6046_96118_robot"><a href="https://cloud.smartdraw.com/share.aspx/?pubDocShare=5A781E474482113CC33C41361849F7A6046" target="_blank"><img src="https://cloud.smartdraw.com/cloudstorage/5A781E474482113CC33C41361849F7A6046/preview2.png"></a></div></div>
-## **2. Take two numbers and print the sum of both.**[Answer](https://cloud.smartdraw.com/share.aspx/?pubDocShare=721B826A9725E7E52B2C83062330A93BA25)<div id="361AB164F7124D637D58229865FE6D205C9_65517"><div id="361AB164F7124D637D58229865FE6D205C9_65517_robot"><a href="https://cloud.smartdraw.com/share.aspx/?pubDocShare=361AB164F7124D637D58229865FE6D205C9" target="_blank"><img src="https://cloud.smartdraw.com/cloudstorage/361AB164F7124D637D58229865FE6D205C9/preview2.png"></a></div></div>
-## **3. Take a number as input and print the multiplication table for it.**[Answer](https://cloud.smartdraw.com/share.aspx/?pubDocShare=115539ACC37764F906CF039AEA8B44120FA)<div id="115539ACC37764F906CF039AEA8B44120FA_4841"><div id="115539ACC37764F906CF039AEA8B44120FA_4841_robot"><a href="https://cloud.smartdraw.com/share.aspx/?pubDocShare=115539ACC37764F906CF039AEA8B44120FA" target="_blank"><img src="https://cloud.smartdraw.com/cloudstorage/115539ACC37764F906CF039AEA8B44120FA/preview2.png"></a></div></div>
-## **4. Take 2 numbers as inputs and find their HCF and LCM.**[Answer](https://cloud.smartdraw.com/share.aspx/?pubDocShare=D40B0217D399E01EAEE4C9BE1F862A7ADCE)<div id="D40B0217D399E01EAEE4C9BE1F862A7ADCE_78658"><div id="D40B0217D399E01EAEE4C9BE1F862A7ADCE_78658_robot"><a href="https://cloud.smartdraw.com/share.aspx/?pubDocShare=D40B0217D399E01EAEE4C9BE1F862A7ADCE" target="_blank"><img src="https://cloud.smartdraw.com/cloudstorage/D40B0217D399E01EAEE4C9BE1F862A7ADCE/preview2.png"></a></div></div>
-## **5. Keep taking numbers as inputs till the user enters ‘x’, after that print sum of all.**[Answer](https://user-images.githubusercontent.com/93924433/184545505-c9fedaca-6396-4600-a256-8c03e6b40d49.png)<div id="227EDB90909B85B81CA447B6BB8FA8E2956_9045"><div id="227EDB90909B85B81CA447B6BB8FA8E2956_9045_robot"><a href="https://cloud.smartdraw.com/share.aspx/?pubDocShare=227EDB90909B85B81CA447B6BB8FA8E2956" target="_blank"><img src="https://cloud.smartdraw.com/cloudstorage/227EDB90909B85B81CA447B6BB8FA8E2956/preview2.png"></a></div></div>
+### [1. Input a year and find whether it is a leap year or not](https://cloud.smartdraw.com/share.aspx/?pubDocShare=5A781E474482113CC33C41361849F7A6046)
 
+### [2. Take two numbers and print the sum of both](https://cloud.smartdraw.com/share.aspx/?pubDocShare=721B826A9725E7E52B2C83062330A93BA25)
+
+### [3. Take a number as input and print the multiplication table for it](https://cloud.smartdraw.com/share.aspx/?pubDocShare=115539ACC37764F906CF039AEA8B44120FA)
+
+### [4. Take 2 numbers as inputs and find their HCF and LCM](https://cloud.smartdraw.com/share.aspx/?pubDocShare=D40B0217D399E01EAEE4C9BE1F862A7ADCE)
+
+### [5. Keep taking numbers as inputs till the user enters ‘x’, after that print sum of all](https://user-images.githubusercontent.com/93924433/184545505-c9fedaca-6396-4600-a256-8c03e6b40d49.png)
