@@ -11,3 +11,6 @@
 ### [4. Take 2 numbers as inputs and find their HCF and LCM](https://cloud.smartdraw.com/share.aspx/?pubDocShare=D40B0217D399E01EAEE4C9BE1F862A7ADCE)
 
 ### [5. Keep taking numbers as inputs till the user enters ‘x’, after that print sum of all](https://user-images.githubusercontent.com/93924433/184545505-c9fedaca-6396-4600-a256-8c03e6b40d49.png)
+
+
+#### Please open the links in the incognito mode to access the answer without any interruptions!!
