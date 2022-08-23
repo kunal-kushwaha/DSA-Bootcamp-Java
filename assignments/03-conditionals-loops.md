@@ -1,60 +1,58 @@
 # [Video Link](https://youtu.be/ldYLYRNaucM)
 ## Write Java programs for the following: 
 
-### Basic Java Programs
-1. Area Of Circle Java Program
-2. Area Of Triangle
-3. Area Of Rectangle Program 
-4. Area Of Isosceles Triangle 
-5. Area Of Parallelogram
-6. Area Of Rhombus
-7. Area Of Equilateral Triangle
-8. Perimeter Of Circle
-9. Perimeter Of Equilateral Triangle
-10. Perimeter Of Parallelogram
-11. Perimeter Of Rectangle
-12. Perimeter Of Square
-13. Perimeter Of Rhombus
-14. Volume Of Cone Java Program
-15. Volume Of Prism
-16. Volume Of Cylinder
-17. Volume Of Sphere
-18. Volume Of Pyramid
-19. Curved Surface Area Of Cylinder
-20. Total Surface Area Of Cube
-21. Fibonacci Series In Java Programs
-22. [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
-23. Input a number and print all the factors of that number (use loops).
-24. Take integer inputs till the user enters 0 and print the sum of all numbers
-(HINT: while loop)
-25. Take integer inputs till the user enters 0 and print the largest number from
-all.
-26. Addition Of Two Numbers
+### Basic Java Programs ` all except leetcode tag reveals answer `
+#### 1. [Area Of Circle Java Program](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/answers/answer-for-assignments/Conditionals%20and%20Loops/Basic%20Problems/AreaOfCircle.java)
+#### 2. [Area Of Triangle](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/answers/answer-for-assignments/Conditionals%20and%20Loops/Basic%20Problems/AreaOfTriangle.java)
+#### 3. [Area Of Rectangle Program](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/answers/answer-for-assignments/Conditionals%20and%20Loops/Basic%20Problems/AreaOfRectangle.java)
+#### 4. [Area Of Isosceles Triangle ](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/answers/answer-for-assignments/Conditionals%20and%20Loops/Basic%20Problems/AreaOfIsoscelesTriangle.java)
+#### 5. [Area Of Parallelogram](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/answers/answer-for-assignments/Conditionals%20and%20Loops/Basic%20Problems/AreaOfParallelogram.java)
+#### 6. [Area Of Rhombus](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/answers/answer-for-assignments/Conditionals%20and%20Loops/Basic%20Problems/AreaOfRhombus.java)
+#### 7. [Area Of Equilateral Triangle](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/answers/answer-for-assignments/Conditionals%20and%20Loops/Basic%20Problems/AreaOfEquilateralTriangle.java)
+#### 8. [Perimeter Of Circle](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/answers/answer-for-assignments/Conditionals%20and%20Loops/Basic%20Problems/PerimeterOfCircle.java)
+#### 9. [Perimeter Of Equilateral Triangle](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/answers/answer-for-assignments/Conditionals%20and%20Loops/Basic%20Problems/PerimeterOfEquilateralTriangle.java)
+#### 10. [Perimeter Of Parallelogram](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/answers/answer-for-assignments/Conditionals%20and%20Loops/Basic%20Problems/PerimeterOfParallelogram.java)
+#### 11. [Perimeter Of Rectangle](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/answers/answer-for-assignments/Conditionals%20and%20Loops/Basic%20Problems/PerimeterOfRectangle.java)
+#### 12. [Perimeter Of Square](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/answers/answer-for-assignments/Conditionals%20and%20Loops/Basic%20Problems/PerimeterOfSquare.java)
+#### 13. [Perimeter Of Rhombus](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/answers/answer-for-assignments/Conditionals%20and%20Loops/Basic%20Problems/PerimeterOfRhombus.java)
+#### 14. [Volume Of Cone Java Program](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/answers/answer-for-assignments/Conditionals%20and%20Loops/Basic%20Problems/VolumeOfCone.java)
+#### 15. [Volume Of Prism]()
+#### 16. [Volume Of Cylinder](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/answers/answer-for-assignments/Conditionals%20and%20Loops/Basic%20Problems/VolumeOfCylinder.java)
+#### 17. [Volume Of Sphere](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/answers/answer-for-assignments/Conditionals%20and%20Loops/Basic%20Problems/VolumeOfSphere.java)
+#### 18. [Volume Of Pyramid](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/answers/answer-for-assignments/Conditionals%20and%20Loops/Basic%20Problems/VolumeOfPyramid.java)
+#### 19. [Curved Surface Area Of Cylinder](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/answers/answer-for-assignments/Conditionals%20and%20Loops/Basic%20Problems/CSAOfCylinder.java)
+#### 20. [Total Surface Area Of Cube](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/answers/answer-for-assignments/Conditionals%20and%20Loops/Basic%20Problems/TSAofCube.java)
+#### 21. [Fibonacci Series In Java Programs](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/answers/answer-for-assignments/Conditionals%20and%20Loops/Basic%20Problems/FibonacciSeriesFull.java)
+#### 22. [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) ` leetcode `
+#### 23. [Input a number and print all the factors of that number (use loops).](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/answers/answer-for-assignments/Conditionals%20and%20Loops/Basic%20Problems/Factors.java)
+#### 24. [Take integer inputs till the user enters 0 and print the sum of all numbers (HINT: while loop)](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/answers/answer-for-assignments/Conditionals%20and%20Loops/Basic%20Problems/SumOfAllinputs.java)
+#### 25. [Take integer inputs till the user enters 0 and print the largest number from all.](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/answers/answer-for-assignments/Conditionals%20and%20Loops/Basic%20Problems/MaxOfAllInputs.java)
+#### 26. [Addition Of Two Numbers](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/answers/answer-for-assignments/Conditionals%20and%20Loops/Basic%20Problems/AddTwoNumbers.java)
 
 ### Intermediate Java Programs
-1. Factorial Program In Java
-2. Calculate Electricity Bill
-3. Calculate Average Of N Numbers
-4. Calculate Discount Of Product
-5. Calculate Distance Between Two Points 
-6. Calculate Commission Percentage
-7. Power In Java
-8. Calculate Depreciation of Value
-9. Calculate Batting Average
-10. Calculate CGPA Java Program
-11. Compound Interest Java Program
-12. Calculate Average Marks
-13. Sum Of N Numbers
-14. Armstrong Number In Java
-15. Find Ncr & Npr
-16. Reverse A String In Java
-17. Find if a number is palindrome or not 
-18. Future Investment Value
-19. HCF Of Two Numbers Program
-20. LCM Of Two Numbers
-21. Java Program Vowel Or Consonant 
-22. Perfect Number In Java
-23. Check Leap Year Or Not
-24. Sum Of A Digits Of Number
-25. Kunal is allowed to go out with his friends only on the even days of a given month. Write a program to count the number of days he can go out in the month of August.
-26. Write a program to print the sum of negative numbers, sum of positive even numbers and the sum of positive odd numbers from a list of numbers (N) entered by the user. The list terminates when the user enters a zero.
+#### 1. [Factorial Program In Java](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/answers/answer-for-assignments/Conditionals%20and%20Loops/Intermediate%20Problems/Factorial.java)
+#### 2. [Calculate Electricity Bill](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/answers/answer-for-assignments/Conditionals%20and%20Loops/Intermediate%20Problems/ElectricityBill.java)
+#### 3. [Calculate Average Of N Numbers](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/answers/answer-for-assignments/Conditionals%20and%20Loops/Intermediate%20Problems/Average.java)
+#### 4. [Calculate Discount Of Product](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/answers/answer-for-assignments/Conditionals%20and%20Loops/Intermediate%20Problems/DiscountCalculation.java)
+#### 5. [Calculate Distance Between Two Points ](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/answers/answer-for-assignments/Conditionals%20and%20Loops/Intermediate%20Problems/Distance2Points.java)
+#### 6. [Calculate Commission Percentage](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/answers/answer-for-assignments/Conditionals%20and%20Loops/Basic%20Problems/CommissionPercentage.java)
+#### 7. [Power In Java](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/answers/answer-for-assignments/Conditionals%20and%20Loops/Intermediate%20Problems/Power.java)
+#### 8. [Calculate Depreciation of Value](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/answers/answer-for-assignments/Conditionals%20and%20Loops/Intermediate%20Problems/DeprecationValue.java)
+#### 9. [Calculate Batting Average](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/answers/answer-for-assignments/Conditionals%20and%20Loops/Intermediate%20Problems/BattingAverage.java)
+#### 10. [Calculate CGPA Java Program](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/answers/answer-for-assignments/Conditionals%20and%20Loops/Intermediate%20Problems/CalculateCGPA.java)
+#### 11. [Compound Interest Java Program](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/answers/answer-for-assignments/Conditionals%20and%20Loops/Basic%20Problems/CompoundInterest.java)
+#### 12. [Calculate Average Marks](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/answers/answer-for-assignments/Conditionals%20and%20Loops/Intermediate%20Problems/AverageMarks.java)
+#### 13. [Sum Of N Numbers](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/4dc249358de8935ea24de57b3778c3c20de04f2c/answer-for-assignments/Conditionals%20and%20Loops/Basic%20Problems/SumOfAllinputs.java)
+#### 14. [Armstrong Number In Java](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/answers/answer-for-assignments/Conditionals%20and%20Loops/Intermediate%20Problems/ArmstrongNumber.java)
+#### 15. [Find Ncr & Npr](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/answers/answer-for-assignments/Conditionals%20and%20Loops/Intermediate%20Problems/nPr.java) [nCr](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/answers/answer-for-assignments/Conditionals%20and%20Loops/Intermediate%20Problems/nCr.java)
+#### 16. [Reverse A String In Java](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/answers/answer-for-assignments/Conditionals%20and%20Loops/Intermediate%20Problems/ReverseString.java)
+#### 17. [Find if a number is palindrome or not ](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/answers/answer-for-assignments/Conditionals%20and%20Loops/Intermediate%20Problems/NumberPalindrome.java)
+#### 18. [Future Investment Value](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/answers/answer-for-assignments/Conditionals%20and%20Loops/Intermediate%20Problems/FutureInvestmentValue.java)
+#### 19. [HCF Of Two Numbers Program](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/answers/answer-for-assignments/Conditionals%20and%20Loops/Intermediate%20Problems/HcfOf2Numbers.java)
+#### 20. [LCM Of Two Numbers](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/answers/answer-for-assignments/Conditionals%20and%20Loops/Intermediate%20Problems/LcmOf2Numbers.java)
+#### 21. [Java Program Vowel Or Consonant](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/answers/answer-for-assignments/Conditionals%20and%20Loops/Intermediate%20Problems/VowelOrConsonant.java)
+#### 22. [Perfect Number In Java](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/answers/answer-for-assignments/Conditionals%20and%20Loops/Basic%20Problems/PerfectNumber.java)
+#### 23. [Check Leap Year Or Not](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/answers/answer-for-assignments/Conditionals%20and%20Loops/Intermediate%20Problems/LeapYearOrNot.java)
+#### 24. [Sum Of A Digits Of Number](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/answers/answer-for-assignments/Conditionals%20and%20Loops/Intermediate%20Problems/SumOfDigits.java)
+#### 25. [Kunal is allowed to go out with his friends only on the even days of a given month. Write a program to count the number of days he can go out in the month of August.](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/answers/answer-for-assignments/Conditionals%20and%20Loops/Intermediate%20Problems/KunalOuting.java)
+#### 26. [Write a program to print the sum of negative numbers, sum of positive even numbers and the sum of positive odd numbers from a list of numbers (N) entered by the user.The list terminates when the user enters a zero.](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/4dc249358de8935ea24de57b3778c3c20de04f2c/answer-for-assignments/Conditionals%20and%20Loops/Intermediate%20Problems/ListOfNumbers.java)
