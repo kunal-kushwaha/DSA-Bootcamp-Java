@@ -1,6 +1,6 @@
 # [Video Link](https://youtu.be/TAtrPoaJ7gc)
 
-## Write Java programs for the following:
+## Write Java programs for the following: ` Links -> reveals the answer `
 
 ### [1. Write a program to print whether a number is even or odd, also take input from the user](https://github.com/devsunil24/DSA-Bootcamp-Java/blob/8a65634ba7524c0567587601a5660ccd71144625/answer-for-assignments/First%20Java%20Program/EvenOdd.java)
 
