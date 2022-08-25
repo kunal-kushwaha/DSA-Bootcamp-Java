@@ -9,8 +9,16 @@ public class Main {
         int originalN = n;
         n = 2 * n;
         for (int row = 0; row <= n; row++) {
+            if(row == originalN - 1 || row == originalN + 1)
+                continue;
             for (int col = 0; col <= n; col++) {
-                int atEveryIndex = originalN - Math.min(Math.min(row, col), Math.min(n - row, n - col));
+                 if(col == originalN - 1 || col == originalN + 1)
+                    continue;
+                int atEveryIndex = 0;
+                if(row == originalN && col == originalN)
+                    atEveryIndex = 1;
+                else
+                    atEveryIndex = originalN - Math.min(Math.min(row, col), Math.min(n - row, n - col));
                 System.out.print(atEveryIndex + " ");
             }
             System.out.println();
