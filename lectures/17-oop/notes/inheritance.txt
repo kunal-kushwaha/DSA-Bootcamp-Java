@@ -62,7 +62,7 @@ class BoxWeight extends Box {
      }
 }
 
-Notice that super() is passed an object of type BoxWeight—not of type Box.This still invokes the constructor Box(Box ob).
+Notice that super() is passing an object of type BoxWeight—not of type Box.This still invokes the constructor Box(Box ob).
 NOTE: A superclass variable can be used to reference any object derived from that class.
 Thus, we are able to pass a BoxWeight object to the Box constructor.Of course,Box only has knowledge of its own members.
 
