@@ -1,6 +1,6 @@
     import java.util.Scanner;
 import java.lang.String;
-public class fAnswer {
+public class fourthAnswer {
     public static void main(String[] args) {
 //        Take in two numbers and an operator (+, -, *, /) and calculate the value. (Use if conditions)
             Scanner sc = new Scanner(System.in);
