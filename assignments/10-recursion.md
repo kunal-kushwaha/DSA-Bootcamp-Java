@@ -23,6 +23,7 @@
 - [Power of Two](https://leetcode.com/problems/power-of-two/) `leetcode`
 - [Power of Three](https://leetcode.com/problems/power-of-three/) `leetcode`
 - [Power of Four](https://leetcode.com/problems/power-of-four/) `leetcode`
+- [Matrix Cells in Distance Order - Impelement with Merge or Quick Sort](https://leetcode.com/problems/matrix-cells-in-distance-order/) `leetcode`
 - Write a recursive function for given n and a to determine x:
 ```java
       n = a ^ x 
