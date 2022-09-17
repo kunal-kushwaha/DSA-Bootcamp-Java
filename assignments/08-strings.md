@@ -29,6 +29,8 @@
 - [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 - [Length of last word](https://leetcode.com/problems/length-of-last-word/)
+- [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/)
+- [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/)
 
 ## Medium
 
