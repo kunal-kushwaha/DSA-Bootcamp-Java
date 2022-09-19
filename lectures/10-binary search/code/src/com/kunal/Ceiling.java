@@ -1,5 +1,9 @@
 package com.kunal;
 
+//Q)Find target ceiling in the array.
+
+//NOTE: The only change here is that if we do not get the target, then we will not return -1, rather we'll return n just greater than target in the array.
+
 public class Ceiling {
 
     public static void main(String[] args) {
