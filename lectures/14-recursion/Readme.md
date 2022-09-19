@@ -1,6 +1,6 @@
 #Recursion Concepts (java)
 
-Reference: [Kunal Kushwaha](https://www.youtube.com/c/KunalKushwaha)
+Reference: [Recursion playlist Kunal Kushwaha](https://youtube.com/playlist?list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod)
 
 This Readme file contains all the concept related to the **Recursion**.
 ### Before moving to the Recursion, let us just understand how functions work internally.
@@ -47,7 +47,7 @@ That means at last the function `print4` is called and when it finished the flow
 * Like function `print4`, all the other print functions will also be removed from the stack when their execution will be done.
 
 ### Now let us just talk about Recursion.
-In simple words Recution is a function that calls itself.
+In simple words Recursion is a function that calls itself.
 for eg:-
 ```java
 RecFun(){
@@ -57,15 +57,15 @@ RecFun(){
 ```
 
 #### Why Recursion?
- * It helps us in solving bigger/complex problems in a simple menner.
+ * It helps us in solving bigger/complex problems in a simple manner.
  * You can convert recursion solutions into iteration & vice versa (First solve the complex problem using recursion then convert it into iteration to get a more optimized answer )
- * Space complexity is not constent because of recursive calls.
+ * Space complexity is not constant because of recursive calls.
 
 What things we need to keep in mind while using recursion? That is the **Base condition**.
 
 **But what actually base condition is? in recursion.**
 The condition where our recurtion will stop making new calls is called base condition.
-If you are not giving any base condition to the recursive funtion you will get the error. That is why base conditions are importent.
+If you are not giving any base condition to the recursive funtion you will get the error. That is why base conditions are important.
 
 ![image](fn%20calling%20without%20base%20condition.jpg)
 
