@@ -39,6 +39,7 @@
 - [Power Set of permutations of a string in Lexicographic order.](https://www.geeksforgeeks.org/powet-set-lexicographic-order/) `GFG`
 
 ## Medium
+- [Quick sort on the basis of the key]
 - [Combination Sum](https://leetcode.com/problems/combination-sum/) `leetcode`
 - [Word Search](https://leetcode.com/problems/word-search/) `leetcode`
 - [Target sum](https://leetcode.com/problems/target-sum/) `leetcode`
