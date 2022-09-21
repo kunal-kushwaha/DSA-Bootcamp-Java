@@ -1,0 +1,1 @@
+-[Count of pairs in an array whose sum is a perfect square](https://www.geeksforgeeks.org/count-of-pairs-in-an-array-whose-sum-is-a-perfect-square/)
