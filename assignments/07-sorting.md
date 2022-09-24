@@ -47,7 +47,6 @@
 - [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 - [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 - [Sort Colors](https://leetcode.com/problems/sort-colors/)
-- [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
 - [Sort List](https://leetcode.com/problems/sort-list/)
 - [Largest Number](https://leetcode.com/problems/largest-number/)
 - [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
