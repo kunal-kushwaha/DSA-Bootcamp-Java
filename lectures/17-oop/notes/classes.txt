@@ -22,7 +22,7 @@ The first line declares mybox as a reference to an object of type Box. At this p
 actual object. The next line allocates an object and assigns a reference to it to mybox. After the second line executes,
 you can use mybox as if it were a Box object. But in reality, mybox simply holds, in essence, the memory address of the
 actual Box object.
-The key to Java’s safety is that you cannot manipulate references as you can actual pointers.
+The key to Java’s safety is that you cannot manipulate references as you can using actual pointers.
 Thus, you cannot cause an object reference to point to an arbitrary memory location or manipulate it like an integer.
 
 A Closer Look at new:
