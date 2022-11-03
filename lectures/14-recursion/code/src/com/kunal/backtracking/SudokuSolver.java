@@ -77,17 +77,17 @@ public class SudokuSolver {
 
 
     static boolean isSafe(int[][] board, int row, int col, int num) {
-        // check the row
+        // check the col
         for (int i = 0; i < board.length; i++) {
-            // check if the number is in the row
+            // check if the number is in the col
             if (board[row][i] == num) {
                 return false;
             }
         }
 
-        // check the col
+        // check the row
         for (int[] nums : board) {
-            // check if the number is in the col
+            // check if the number is in the row
             if (nums[col] == num) {
                 return false;
             }
