@@ -11,12 +11,12 @@ public class Fibo {
         int count = 2;
 
         while (count <= n) {
-            int temp = b;
-            b = b + a;
-            a = temp;
+            int temp = a;
+            a = b + a;
+            b = temp;
             count++;
         }
 
-        System.out.println(b);
+        System.out.println(a);
     }
 }
