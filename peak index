@@ -1,0 +1,23 @@
+public class mountain {
+    public static void main(String[] args) {
+        int[] arr={0,10,5,2};
+        int ans=peak(arr);
+        System.out.println(ans);
+    }
+    static int peak(int[] arr){
+        int start=arr[0];
+        int end= arr.length-1;
+        while (start<=end){
+            int mid=(end+start)/2;
+            if (arr[mid] > arr[mid+1]) {
+                return arr[mid];
+
+
+            }
+            else{
+                return arr[mid+1];
+            }
+        }
+        return 1;
+    }
+}
