@@ -1,0 +1,14 @@
+pull_request_rules:
+  - name: assign PRs with Python files modified to jd
+    conditions:
+      - files~=\.java$
+    actions:
+      assign:
+        add_users:
+          - kunal-kushwaha
+  - name: ask to resolve conflict
+    conditions:
+      - conflict
+    actions:
+        comment:
+          message: This pull request is now in conflicts. Could you fix it @{{author}}? 🙏
