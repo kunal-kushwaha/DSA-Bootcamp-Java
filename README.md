@@ -38,7 +38,7 @@
     <img width="30px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" />
   </a> 
   </a>&ensp;
-  <a href="https://twitter.com/commclassroom/">
+  <a href="https://twitter.com/WeMakeDevs">
     <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>&ensp;
   <a href="https://www.linkedin.com/company/commclassroom/">
