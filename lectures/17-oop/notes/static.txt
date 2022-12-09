@@ -66,7 +66,7 @@ Note: main method is static, since it must be accessible for an application to r
 NOTE: Only nested classes can be static.
 NOTE: Static inner classes can have static variables
 
-You cant override the inherited static methods, as in java overriding takes place by resolving the type of object at
+You can't override the inherited static methods, as in java overriding takes place by resolving the type of object at
 run-time and not compile time, and then calling the respective method.
 Static methods are class level methods, so it is always resolved during compile time.
 Static INTERFACE METHODS are not inherited by either an implementing class or a sub-interface.
