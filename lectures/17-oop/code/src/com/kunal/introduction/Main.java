@@ -89,7 +89,7 @@ class Student {
 
 
     // Student arpit = new Student(17, "Arpit", 89.7f);
-    // here, this will be replaced with arpit
+    // here, this keyword will be replaced with arpit
     Student (int rno, String name, float marks) {
         this.rno = rno;
         this.name = name;
