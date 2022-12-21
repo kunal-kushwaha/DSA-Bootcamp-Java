@@ -104,12 +104,13 @@ public class Main {
 
         /* 
         for (int i = 1; i <= n; i++) {
-            // column starts from end and goes till row.
+            // column starts with n and goes upto i.
             for (int j = n; j >= i; j--) {
                 System.out.print("*");
             }
             System.out.println();
-        } */
+        }
+         */
     }
 
     static void pattern1(int n) {
