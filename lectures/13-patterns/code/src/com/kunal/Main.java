@@ -101,6 +101,15 @@ public class Main {
             // when one row is printed, we need to add a newline
             System.out.println();
         }
+
+        /* 
+        for (int i = 1; i <= n; i++) {
+            // column starts from end and goes till row.
+            for (int j = n; j >= i; j--) {
+                System.out.print("*");
+            }
+            System.out.println();
+        } */
     }
 
     static void pattern1(int n) {
