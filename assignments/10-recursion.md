@@ -34,8 +34,6 @@
 - [Number of Steps to Reduce a Number to Zero.](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) `leetcode`
 - [Check for balanced paranthesis using recursion without stack.](https://www.geeksforgeeks.org/check-for-balanced-parenthesis-without-using-stack/) `GFG`
 - [Remove consecutive duplicate characters from a string.](https://www.geeksforgeeks.org/remove-consecutive-duplicates-string/) `GFG` 
-- [Print all possible palindromic partitions of a string.](https://www.geeksforgeeks.org/given-a-string-print-all-possible-palindromic-partition/) `GFG`
-- [Power Set of permutations of a string in Lexicographic order.](https://www.geeksforgeeks.org/powet-set-lexicographic-order/) `GFG`
 
 ## Medium
 - [Combination Sum](https://leetcode.com/problems/combination-sum/) `leetcode`
@@ -72,6 +70,7 @@
 - [Tug of war](https://www.geeksforgeeks.org/tug-of-war/) `GFG` `Adobe`
 - [Rat in a maze](https://www.geeksforgeeks.org/rat-in-a-maze-backtracking-2/) `GFG`
 - [Reorder List](https://leetcode.com/problems/reorder-list/) `leetcode`
+- [Power Set of permutations of a string in Lexicographic order.](https://www.geeksforgeeks.org/powet-set-lexicographic-order/) `GFG`
 
 ## Hard
 - [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) `leetcode`
@@ -93,3 +92,4 @@
 - [Maximum number possible by doing at-most K swaps](https://www.geeksforgeeks.org/find-maximum-number-possible-by-doing-at-most-k-swaps/) `GFG`
 - [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion&filters%5Bdifficulty%5D%5B%5D=hard)
 - [Concatenated Words](https://leetcode.com/problems/concatenated-words/)`leetcode`
+- [Print all possible palindromic partitions of a string.](https://www.geeksforgeeks.org/given-a-string-print-all-possible-palindromic-partition/) `GFG`
