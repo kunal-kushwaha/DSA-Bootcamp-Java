@@ -50,7 +50,8 @@ public class Main {
     static void bubble(int[] arr) {
         boolean swapped;
         // run the steps n-1 times
-        for (int i = 0; i < arr.length; i++) {
+        
+        for (int i = 0; i < arr.length-1; i++) {
             swapped = false;
             // for each step, max item will come at the last respective index
             for (int j = 1; j < arr.length - i; j++) {
