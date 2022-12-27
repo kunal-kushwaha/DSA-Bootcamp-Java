@@ -40,7 +40,7 @@
 ## Medium
 - [Combination Sum](https://leetcode.com/problems/combination-sum/) `leetcode`
 - [Word Search](https://leetcode.com/problems/word-search/) `leetcode`
-- [Target sum](https://leetcode.com/problems/target-sum/) `leetcode`
+- [Target sum](https://leetcode.com/problems/target-sum/) `leetcode` `facebook` `google`
 - [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) `leetcode`
 - [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) `leetcode`
 - [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) `leetcode`
