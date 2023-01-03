@@ -2,11 +2,12 @@ package com.kunal;
 
 public class Mountain {
     public static void main(String[] args) {
-
+        int []arr={1,2,3,5,6,4,3,2};
+        System.out.println(peakIndexInMountainArray(arr));
     }
     // https://leetcode.com/problems/peak-index-in-a-mountain-array/
     // https://leetcode.com/problems/find-peak-element/
-    public int peakIndexInMountainArray(int[] arr) {
+    public static int peakIndexInMountainArray(int[] arr) {
         int start = 0;
         int end = arr.length - 1;
 
@@ -27,6 +28,6 @@ public class Mountain {
         // hence, when they are pointing to just one element, that is the max one because that is what the checks say
         // more elaboration: at every point of time for start and end, they have the best possible answer till that time
         // and if we are saying that only one item is remaining, hence cuz of above line that is the best possible ans
-        return start; // or return end as both are =
+        return start; // or return end as both are
     }
 }
