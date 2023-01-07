@@ -52,4 +52,4 @@
 39. [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
 40. [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)
 41. [Count smaller number after Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
-42 [Divide Chocolate Problem](https://curiouschild.github.io/leetcode/2019/06/21/divide-chocolate.html)
+42. [Divide Chocolate Problem](https://curiouschild.github.io/leetcode/2019/06/21/divide-chocolate.html)
