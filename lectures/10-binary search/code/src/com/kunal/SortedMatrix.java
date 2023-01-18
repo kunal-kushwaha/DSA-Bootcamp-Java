@@ -63,13 +63,16 @@ public class SortedMatrix {
         if (matrix[rStart + 1][cMid] == target) {
             return new int[]{rStart + 1, cMid};
         }
+        
+        // check if the matrix has only 1 column and the target is not in the matrix 
+          if(cMid-1<0||rStart<0) return new int[]{-1,-1};
 
         // search in 1st half
         if (target <= matrix[rStart][cMid - 1]) {
             return binarySearch(matrix, rStart, 0, cMid-1, target);
         }
         // search in 2nd half
-        if (target >= matrix[rStart][cMid + 1] && target <= matrix[rStart][cols - 1]) {
+        if (target <= matrix[rStart][cols - 1] && target >= matrix[rStart][cMid + 1]) {
             return binarySearch(matrix, rStart, cMid + 1, cols - 1, target);
         }
         // search in 3rd half
