@@ -30,18 +30,18 @@
   <img width="30px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" />
   </a>
 
-## Join Community Classroom Groups
-  <a href="https://discord.io/commclassroom">
+## Join we make devs Groups
+  <a href="https://discord.gg/wemakedevs">
     <img width="30px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" />
   </a>&ensp;
-    <a href="https://telegram.me/commclassroom">
+    <a href="https://telegram.me/WeMakeDevs">
     <img width="30px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" />
   </a> 
   </a>&ensp;
-  <a href="https://twitter.com/commclassroom/">
+  <a href="https://twitter.com/WeMakeDevs/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>&ensp;
-  <a href="https://www.linkedin.com/company/commclassroom/">
+  <a href="https://www.linkedin.com/company/wemakedevs/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>&ensp;
   <a href="https://www.instagram.com/commclassroom/">
