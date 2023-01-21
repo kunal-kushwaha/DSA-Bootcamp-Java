@@ -55,4 +55,4 @@ For example, square(100) passes 100 as an argument. Inside square( ), the parame
 
 NOTE:
 Bus bus = new Bus();
-lhs(reference i.e. bus) is looked be compiler & rhs (object i.e. new Bus()) is looked by jvm
+lhs(reference i.e. bus) is looked by compiler & rhs (object i.e. new Bus()) is looked by jvm
