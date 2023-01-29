@@ -30,13 +30,13 @@ public class QuickSort {
                 e--;
             }
 
-            if (s <= e) {
+            //if (s <= e) {
                 int temp = nums[s];
                 nums[s] = nums[e];
                 nums[e] = temp;
                 s++;
                 e--;
-            }
+            //}
         }
 
         // now my pivot is at correct index, please sort two halves now
