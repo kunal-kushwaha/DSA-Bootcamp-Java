@@ -4,7 +4,7 @@
 
 - <a href="https://www.youtube.com/KunalKushwaha?sub_confirmation=1" title="Subscribe to Kunal Kushwaha's YouTube Channel" style="background-color:#FFFFFF;color:#000000;text-decoration:none">▶ Subscribe to our channel </a>
 
-- <a href="https://www.commclassroom.org/java" style="background-color:#FFFFFF;color:#000000;text-decoration:none">🧑‍💻 Syllabus and website </a>
+- <a href="https://wemakedevs.org/" style="background-color:#FFFFFF;color:#000000;text-decoration:none">🧑‍💻 Syllabus and website </a>
 
 - <a href="https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ" title="Click here to access full Playlist on YouTube" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📂 Complete Playlist</a>
  
@@ -30,18 +30,18 @@
   <img width="30px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" />
   </a>
 
-## Join Community Classroom Groups
-  <a href="https://discord.io/commclassroom">
+## Join we make devs Groups
+  <a href="https://discord.gg/wemakedevs">
     <img width="30px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" />
   </a>&ensp;
-    <a href="https://telegram.me/commclassroom">
+    <a href="https://telegram.me/WeMakeDevs">
     <img width="30px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" />
   </a> 
   </a>&ensp;
-  <a href="https://twitter.com/commclassroom/">
+  <a href="https://twitter.com/WeMakeDevs/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>&ensp;
-  <a href="https://www.linkedin.com/company/commclassroom/">
+  <a href="https://www.linkedin.com/company/wemakedevs/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>&ensp;
   <a href="https://www.instagram.com/commclassroom/">
