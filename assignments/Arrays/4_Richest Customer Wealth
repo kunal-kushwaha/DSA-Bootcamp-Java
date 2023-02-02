@@ -1,0 +1,32 @@
+//https://leetcode.com/problems/richest-customer-wealth/
+
+class Solution {
+    public int maximumWealth(int[][] accounts) 
+    {
+        ArrayList<Integer> arr = new ArrayList<>();
+        
+        for(int i = 0; i< accounts.length; i++)
+        {
+            int cnt = 0;
+
+            for(int j = 0; j< accounts[i].length; j++)
+            {
+                cnt = cnt + accounts[i][j];
+            }
+            arr.add(cnt);
+          
+        }
+
+        int max = Integer.MIN_VALUE;
+        for(int i = 0; i< arr.size(); i++)
+        {
+            if(arr.get(i) > max)
+            {
+                max = arr.get(i);
+            }
+        }
+
+        return max;
+        
+    }
+}
