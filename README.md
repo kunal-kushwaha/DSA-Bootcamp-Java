@@ -15,5 +15,5 @@
   <img src = "https://contrib.rocks/image?repo=kunal-kushwaha/DSA-Bootcamp-Java"/>
 </a>
 
-NIKUNJ MITTAL
+NIKUNJ MITTAL is born in Bangalore
 MILONI MITTAL
