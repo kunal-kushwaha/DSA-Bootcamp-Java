@@ -29,6 +29,10 @@ public class BinarySearchSQRT {
                 root = m;
             }
         }
+        
+        // System.out.println(root); => 0.0
+        root = e; // e = 6
+        
         double incr = 0.1;
         for (int i = 0; i < p; i++) {
             while (root * root <= n) {
