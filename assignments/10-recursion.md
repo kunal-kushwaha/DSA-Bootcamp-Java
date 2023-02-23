@@ -72,6 +72,7 @@
 - [Tug of war](https://www.geeksforgeeks.org/tug-of-war/) `GFG` `Adobe`
 - [Rat in a maze](https://www.geeksforgeeks.org/rat-in-a-maze-backtracking-2/) `GFG`
 - [Reorder List](https://leetcode.com/problems/reorder-list/) `leetcode`
+- [Minimum steps to destination](https://practice.geeksforgeeks.org/problems/minimum-number-of-steps-to-reach-a-given-number5234/1/) `GFG` `Amex` `Adobe`
 
 ## Hard
 - [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) `leetcode`
@@ -86,7 +87,6 @@
 - [Word break II](https://leetcode.com/problems/word-break-ii/) `leetcode` `Google`
 - [Unique paths III](https://leetcode.com/problems/unique-paths-iii/) `leetcode`
 - [Find shortest safe route in a path with landmines](https://www.geeksforgeeks.org/find-shortest-safe-route-in-a-path-with-landmines/) `GFG` `Google`
-- [Minimum steps to destination](https://practice.geeksforgeeks.org/problems/minimum-number-of-steps-to-reach-a-given-number5234/1/) `GFG` `Amex` `Adobe`
 - [Hamiltonian Cycle](https://www.geeksforgeeks.org/hamiltonian-cycle-backtracking-6/) `GFG`
 - [M colorning problem](https://www.geeksforgeeks.org/m-coloring-problem-backtracking-5/) `GFG`
 - [The Knight's tour](https://www.geeksforgeeks.org/the-knights-tour-problem-backtracking-1/) `GFG`
