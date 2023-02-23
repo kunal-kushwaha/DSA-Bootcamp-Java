@@ -122,17 +122,18 @@
 - Linked List
     - [Introduction](https://youtu.be/58YbpRDc4yw)
     - [Singly + Doubly + Circular LinkedList](https://youtu.be/58YbpRDc4yw)
+    - [Linked List Interview Question With Trick](https://youtu.be/70tx7KcMROc)
     - [Fast and slow pointer](https://youtu.be/70tx7KcMROc)
     - [Cycle Detection](https://youtu.be/70tx7KcMROc)
     - [Reversal of LinkedList](https://youtu.be/70tx7KcMROc)
     - [Linked List + Recursion](https://youtu.be/70tx7KcMROc)
 - Stacks & Queues
-    - Introduction
-    - Interview problems
-    - Push efficient
-    - Pop efficient
-    - Queue using Stack and Vice versa
-    - Circular Queue
+    - [Introduction](https://youtu.be/rHQI4mrJ3cg)
+    - [Push efficient](https://youtu.be/rHQI4mrJ3cg)
+    - [Pop efficient](https://youtu.be/rHQI4mrJ3cg)
+    - [Queue using Stack and Vice versa](https://youtu.be/rHQI4mrJ3cg)
+    - [Circular Queue](https://youtu.be/rHQI4mrJ3cg)
+    - [Interview problems Google, Facebook, Amazon, Microsoft](https://youtu.be/S9LUYztYLu4)
 - Trees
     - Introduction
     - Binary Trees
