@@ -127,12 +127,12 @@
     - [Reversal of LinkedList](https://youtu.be/70tx7KcMROc)
     - [Linked List + Recursion](https://youtu.be/70tx7KcMROc)
 - Stacks & Queues
-    - Introduction
+    - [Introduction](https://www.youtube.com/watch?v=rHQI4mrJ3cg&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=46&t=0s)
     - Interview problems
     - Push efficient
     - Pop efficient
     - Queue using Stack and Vice versa
-    - Circular Queue
+    - [Circular Queue](https://www.youtube.com/watch?v=rHQI4mrJ3cg&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=46&t=4019s)
 - Trees
     - Introduction
     - Binary Trees
