@@ -3,7 +3,6 @@
 ## Easy
 - [Next greater element I](https://leetcode.com/problems/next-greater-element-i/) `leetcode`
 - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) `leetcode`
-- [Min Stack](https://leetcode.com/problems/min-stack/) `leetcode`
 - [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) `leetcode`
 - [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) `leetcode`
 - [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) `leetcode`
@@ -14,6 +13,7 @@
 - [Flood fill](https://leetcode.com/problems/flood-fill/) `leetcode`
 - [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) `leetcode`
 ## Medium
+- [Min Stack](https://leetcode.com/problems/min-stack/) `leetcode`
 - [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/) `leetcode`
 - [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) `leetcode`
 - [Decode String](https://leetcode.com/problems/decode-string/) `leetcode`
