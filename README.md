@@ -38,8 +38,8 @@
   - [x] Searching 
     - - [x] Linear Search
     - - [x] Binary Search
-    - - [ ] Modified Binary Search
-    - - [ ] Binary Search Interview questions
+    - - [x] Modified Binary Search
+    - - [x] Binary Search Interview questions
     - - [ ] Binary Search on 2D Arrays
 - [ ] Pattern questions
 - [ ] Strings
