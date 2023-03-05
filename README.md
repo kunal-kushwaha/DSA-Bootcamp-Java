@@ -1,4 +1,4 @@
-# Progress Tracker
+# My Personal Progress Tracker
 
 ## DSA
 - [x] Complete Git & GitHub Course
