@@ -31,7 +31,7 @@ public class RBS {
 */
 
         // if pivot is found, you have found 2 asc sorted arrays
-        if (nums[pivot] == target) {
+        if (pivot != -1 && nums[pivot] == target) {
             return pivot;
         }
 
