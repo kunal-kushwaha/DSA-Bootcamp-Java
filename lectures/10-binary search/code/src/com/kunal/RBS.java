@@ -7,13 +7,28 @@ public class RBS {
     }
 
     static int search(int[] nums, int target) {
-        int pivot = findPivot(nums);
-
-        // if you did not find a pivot, it means the array is not rotated
-        if (pivot == -1) {
-            // just do normal binary search
+        
+        // This condition is a alternative to the conditions pivot == -1 which never becomes true
+        // This is efficient than that because we don't have to find the pivot
+        // in the first place to check if the array is rotated or not
+        // so to find whether it's a rotated or non-rotated binary search,
+        // we can check the below conditions
+        
+        if(nums[0] < nums[arr.length - 1]){
             return binarySearch(nums, target, 0 , nums.length - 1);
         }
+        
+        int pivot = findPivot(nums);
+        
+        // This statement is not needed because anways pivot (Maximum in the given array)
+        // is going to lie somewhere in the array even it contains duplicate elements
+        
+/*
+         if (pivot == -1) {
+             // just do normal binary search
+             return binarySearch(nums, target, 0 , nums.length - 1);
+         }
+*/
 
         // if pivot is found, you have found 2 asc sorted arrays
         if (nums[pivot] == target) {
