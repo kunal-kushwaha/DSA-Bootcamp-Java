@@ -7,8 +7,16 @@ public class RBS {
     }
 
     static int search(int[] nums, int target) {
+    
+        if(nums[0] == target){
+            return 0;
+        }
         
-        // This condition is a alternative to the conditions pivot == -1 which never becomes true
+        if(nums[nums.length - 1] == target){
+            return nums.length - 1;
+        }            
+        
+        // This condition is a alternative to the conditions pivot == -1
         // This is efficient than that because we don't have to find the pivot
         // in the first place to check if the array is rotated or not
         // so to find whether it's a rotated or non-rotated binary search,
