@@ -10,7 +10,7 @@
        *        *
  */
 
-public class Patttern19Assignment {
+public class Pattern19Assignment {
     public static void main(String[] args) {
         int n = 5;
 
