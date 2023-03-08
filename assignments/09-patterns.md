@@ -142,7 +142,7 @@ Print these patterns using loops:
       ****  ****
       ***    ***
       **      **
-      *        *
+      *        * 
       *        *
       **      **
       ***    ***
@@ -165,7 +165,7 @@ Print these patterns using loops:
        *  *
        *  *
        *  *
-       ****
+       **** 
 
 21.    1
        2  3
