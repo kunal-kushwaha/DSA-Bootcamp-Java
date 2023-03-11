@@ -36,7 +36,7 @@ The answer is that Java’s primitive types are not implemented as objects.
 Rather, they are implemented as “normal” variables.
 This is done in the interest of efficiency.
 
-It is important to understand that new allocates memory for an object during run time.
+It is important to understand that new keyword dynamically allocates the memory for an object during run time and return the reference variable to it.
 
 Box b1 = new Box();
 Box b2 = b1;
