@@ -1,3 +1,5 @@
+package SolvedProblems.SomeConcepts;
+
 public class Varags {
     public static void main(String[] args) {
         // Sum obj1 = new Sum();
