@@ -40,7 +40,7 @@
     - - [x] Binary Search
     - - [x] Modified Binary Search
     - - [x] Binary Search Interview questions
-    - - [ ] Binary Search on 2D Arrays
+    - - [x] Binary Search on 2D Arrays
 - [ ] Pattern questions
 - [ ] Strings
     - [ ] Introduction
