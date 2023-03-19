@@ -1,3 +1,5 @@
+package SolvedProblems.BinarySearch;
+
 public class BinarySearch {
     public static void main(String[] args) {
         // Binary search for values sorted in ascending order eg:98,87,76,65,54,43,32,21

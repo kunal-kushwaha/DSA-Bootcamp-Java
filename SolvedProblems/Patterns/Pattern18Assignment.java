@@ -10,6 +10,7 @@
       ****  ****
       **********
  */
+package SolvedProblems.Patterns;
 
 public class Pattern18Assignment {
     public static void main(String[] args) {

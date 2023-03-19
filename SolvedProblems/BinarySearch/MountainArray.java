@@ -1,3 +1,5 @@
+package SolvedProblems.BinarySearch;
+
 public class MountainArray {
     public static int usingBinarySearch(int[] arr) {
         int start = 0;

@@ -1,3 +1,5 @@
+package SolvedProblems.Patterns;
+
 public class Pattern33Assignment {
     public static void main(String[] args) {
         int n = 5;

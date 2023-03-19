@@ -7,6 +7,7 @@
          4 3 3 3 3 3 4   
          4 4 4 4 4 4 4 
  */
+package SolvedProblems.Patterns;
 
 public class Pattern31Assignment {
     public static void main(String[] args) {

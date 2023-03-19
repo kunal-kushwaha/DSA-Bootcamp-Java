@@ -5,6 +5,7 @@
                13 14 17 18
                   15 16
  */
+package SolvedProblems.Patterns;
 
 public class Pattern27Assignment {
     public static void main(String[] args) {

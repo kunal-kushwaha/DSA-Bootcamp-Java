@@ -4,6 +4,7 @@
        123  321
        12344321
  */
+package SolvedProblems.Patterns;
 
 public class Pattern35Assignment {
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package SolvedProblems.Patterns;
+
 public class Pattern32Assignment {
     public static void main(String[] args) {
         char n = 5;

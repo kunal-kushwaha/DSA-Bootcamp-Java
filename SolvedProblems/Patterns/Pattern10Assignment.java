@@ -1,3 +1,5 @@
+package SolvedProblems.Patterns;
+
 import java.util.Scanner;
 
 public class Pattern10Assignment {

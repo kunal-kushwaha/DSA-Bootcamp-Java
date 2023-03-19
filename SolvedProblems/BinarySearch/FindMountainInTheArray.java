@@ -1,5 +1,6 @@
 // https://leetcode.com/problems/find-in-mountain-array/
 // I'm trying to solve this problem without using interface
+package SolvedProblems.BinarySearch;
 
 public class FindMountainInTheArray {
     public static int orderAgnosticBinarySearch(int[] arr, int target, int start, int end) {

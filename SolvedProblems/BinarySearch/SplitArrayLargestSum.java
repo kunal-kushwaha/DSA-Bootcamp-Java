@@ -1,3 +1,5 @@
+package SolvedProblems.BinarySearch;
+
 public class SplitArrayLargestSum {
 
     public static int sumArray(int[] nums, int k) {

@@ -7,6 +7,7 @@
         212
          1
  */
+package SolvedProblems.Patterns;
 
 public class Pattern17Assignment {
     public static void main(String[] args) {

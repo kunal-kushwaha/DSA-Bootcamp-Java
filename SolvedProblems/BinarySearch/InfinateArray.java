@@ -1,3 +1,4 @@
+package SolvedProblems.BinarySearch;
 
 public class InfinateArray {
     static int start = 0, end = 1;

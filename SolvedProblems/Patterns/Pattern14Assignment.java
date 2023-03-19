@@ -3,6 +3,7 @@
 //        *   *
 //         * *
 //          *
+package SolvedProblems.Patterns;
 
 public class Pattern14Assignment {
     public static void main(String[] args) {

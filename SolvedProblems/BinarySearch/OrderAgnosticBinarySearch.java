@@ -1,3 +1,5 @@
+package SolvedProblems.BinarySearch;
+
 public class OrderAgnosticBinarySearch {
     public static void main(String[] args) {
         // Let say I don't know whether it's sorted in ascending (2, 6, 34, 45, 65, 76, 78, 88, 95, 864) or descending order (98, 87, 78, 76, 65, 54, 43, 32, 21)

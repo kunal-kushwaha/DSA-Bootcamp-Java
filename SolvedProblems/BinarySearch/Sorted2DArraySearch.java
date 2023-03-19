@@ -1,3 +1,5 @@
+package SolvedProblems.BinarySearch;
+
 import java.util.Arrays;
 
 public class Sorted2DArraySearch {

@@ -9,6 +9,7 @@
        **      **
        *        *
  */
+package SolvedProblems.Patterns;
 
 public class Pattern19Assignment {
     public static void main(String[] args) {

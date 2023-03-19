@@ -1,3 +1,5 @@
+package SolvedProblems.BinarySearch;
+
 public class CeilingOfNumber {
     public static int findingCeiling(int[] arr, int target) {
         if (target > arr[arr.length - 1]) {

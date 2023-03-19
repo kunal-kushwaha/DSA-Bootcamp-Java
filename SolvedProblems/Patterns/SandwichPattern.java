@@ -5,6 +5,7 @@
   16  17  18  19  20
    6   7   8   9  10
  */
+package SolvedProblems.Patterns;
 
 public class SandwichPattern {
     public static void main(String[] args) {

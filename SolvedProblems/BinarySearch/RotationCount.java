@@ -2,6 +2,8 @@
 // This is nothing but pivot+1 is the minimum element 
 // in the array that would have been in the 0th index. 
 // So returning pivot + 1 is the number of times the array is rotated
+package SolvedProblems.BinarySearch;
+
 public class RotationCount {
 
     public static int findingPivotWithDuplicateElements(int[] arr) {

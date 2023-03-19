@@ -1,3 +1,5 @@
+package SolvedProblems.Patterns;
+
 import java.util.*;
 
 public class Pattern8Assignment {

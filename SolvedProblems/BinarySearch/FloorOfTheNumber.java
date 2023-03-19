@@ -1,3 +1,5 @@
+package SolvedProblems.BinarySearch;
+
 public class FloorOfTheNumber {
     public static int floorOfNum(int[] arr, int target) {
         if (target < arr[0]) {
