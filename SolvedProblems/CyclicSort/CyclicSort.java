@@ -13,7 +13,7 @@ public class CyclicSort {
                 arr[i] = arr[checkIndex];
                 arr[checkIndex] = temp;
             }
-        } 
+        }
 
         return arr;
     }

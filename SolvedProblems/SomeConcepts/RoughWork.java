@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class RoughWork {
     public static int[] cyclicSort(int[] arr) {
         for (int i = 0; i < arr.length; ) {
-            int checkIndex = arr[i] - 1;
+            int checkIndex = arr[i] - 1; 
             if(arr[i] != arr[checkIndex]){
                 int temp = arr[i];
                 arr[i] = arr[checkIndex];
