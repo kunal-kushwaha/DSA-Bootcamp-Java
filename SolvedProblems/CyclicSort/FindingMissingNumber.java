@@ -31,7 +31,7 @@ public class FindingMissingNumber {
     }
 
     public static void main(String[] args) {
-        int[] nums = { 5, 2, 3, 0, 1 };
+        int[] nums = { 5, 2, 3, 0, 1 };  // 4
         System.out.println("Missing number is :" + missingNumber(nums));
     }
 }
