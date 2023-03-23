@@ -2,14 +2,15 @@ package SolvedProblems.Recursion;
 
 public class FibonacciUsingRecursion {
     // Printing fibonacci series from 0 to N using recursion
-    public static void fibonacciSeries(int n_1, int n_2, int n) {
+    public static void fibonacciSeries(int previous, int secondPrevious, int n) {
         if (n == 0) {
+            System.out.println(previous + secondPrevious);
             return;
         }
 
-        System.out.println(n_1 + n_2);
+        System.out.println(previous + secondPrevious);
 
-        fibonacciSeries(n_1 + n_2, n_1, n - 1);
+        fibonacciSeries(previous + secondPrevious, previous, n - 1);
     }
 
     // Printing the Nth fibonacci number using recursion
@@ -25,10 +26,12 @@ public class FibonacciUsingRecursion {
         // Printing fibonacci from backwards
         int n = 10;
 
+        // Printing fibonacci series
         System.out.println(0);
         System.out.println(1);
-        fibonacciSeries(0, 1, n);
+        fibonacciSeries(1, 0, n - 2);
 
+        // Printing Nth fibonacci number
         System.out.println(fibonacci(n));
     }
 }
@@ -40,4 +43,8 @@ public class FibonacciUsingRecursion {
  * 3
  * 5
  * 8
+ * 13
+ * 21
+ * 34
+ * 55
  */
