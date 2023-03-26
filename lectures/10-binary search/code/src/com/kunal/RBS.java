@@ -5,7 +5,7 @@ public class RBS {
         int[] arr = {1,2,3,4,5,5,6};
         System.out.println(findPivotWithDuplicates(arr));
     }
-
+    
     static int search(int[] nums, int target) {
         int pivot = findPivot(nums);
 
@@ -14,7 +14,7 @@ public class RBS {
             // just do normal binary search
             return binarySearch(nums, target, 0 , nums.length - 1);
         }
-
+        
         // if pivot is found, you have found 2 asc sorted arrays
         if (nums[pivot] == target) {
             return pivot;
@@ -30,9 +30,8 @@ public class RBS {
     static int binarySearch(int[] arr, int target, int start, int end) {
         while(start <= end) {
             // find the middle element
-//            int mid = (start + end) / 2; // might be possible that (start + end) exceeds the range of int in java
+            // int mid = (start + end) / 2; // might be possible that (start + end) exceeds the range of int in java
             int mid = start + (end - start) / 2;
-
             if (target < arr[mid]) {
                 end = mid - 1;
             } else if (target > arr[mid]) {
@@ -44,7 +43,7 @@ public class RBS {
         }
         return -1;
     }
-
+    
     // this will not work in duplicate values
     static int findPivot(int[] arr) {
         int start = 0;
@@ -79,7 +78,6 @@ public class RBS {
             if (mid > start && arr[mid] < arr[mid - 1]) {
                 return mid-1;
             }
-
             // if elements at middle, start, end are equal then just skip the duplicates
             if (arr[mid] == arr[start] && arr[mid] == arr[end]) {
                 // skip the duplicates
@@ -105,5 +103,4 @@ public class RBS {
         }
         return -1;
     }
-
 }
