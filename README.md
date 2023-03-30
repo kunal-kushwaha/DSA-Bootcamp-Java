@@ -11,6 +11,7 @@
 - [Connect with me](http://kunalkushwaha.com)
 
 - Check out [WeMakeDevs](https://wemakedevs.org)
+- [Leetcode Extension](https://chrome.google.com/webstore/detail/big-%CF%89-enhance-leetcode-ex/hfjfkofmpdgbfpkgnknikojbpljnkfkf) it can be helpful to know which companies have asked a particular question and how many times it has been asked
  
 ## Thanks to all the contributors ❤️
 <a href = "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/graphs/contributors">
