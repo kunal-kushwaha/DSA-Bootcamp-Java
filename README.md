@@ -34,20 +34,20 @@
     - - [x] Insertion Sort
     - - [x] Selection Sort
     - - [x] Bubble Sort
-    - - [ ] Cyclic Sort (Merge sort etc after recursion)
+    - - [x] Cyclic Sort (Merge sort etc after recursion)
   - [x] Searching 
     - - [x] Linear Search
     - - [x] Binary Search
     - - [x] Modified Binary Search
     - - [x] Binary Search Interview questions
     - - [x] Binary Search on 2D Arrays
-- [ ] Pattern questions
-- [ ] Strings
-    - [ ] Introduction
-    - [ ] How Strings work
-    - [ ] Comparison of methods
-    - [ ] Operations in Strings
-    - [ ] StringBuilder in java
+- [x] Pattern questions
+- [x] Strings
+    - [x] Introduction
+    - [x] How Strings work
+    - [x] Comparison of methods
+    - [x] Operations in Strings
+    - [x] StringBuilder in java
 - [ ] Maths for DSA
     - - [ ] Introduction
     - - [ ] Complete Bitwise Operators
@@ -69,12 +69,12 @@
     - - [ ] Memory Allocation of various languages
     - - [ ] NP Completeness and Hardness
 - [ ] Recursion
-    - - [ ] Introduction
-    - - [ ] Why recursion?
-    - - [ ] Flow of recursive programs - stacks
+    - - [x] Introduction
+    - - [x] Why recursion?
+    - - [x] Flow of recursive programs - stacks
     - - [ ] Convert recursion to iteration
     - - [ ] Tree building of function calls
-    - - [ ] Tail recursion
+    - - [x] Tail recursion
     - - [ ] Sorting:
         - - [ ] Merge Sort
         - - [ ] Quick Sort
