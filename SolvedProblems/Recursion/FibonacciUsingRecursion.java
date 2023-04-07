@@ -1,7 +1,5 @@
 package SolvedProblems.Recursion;
 
-import java.util.*;
-
 public class FibonacciUsingRecursion {
     // Printing fibonacci series from 0 to N using recursion
     public static void fibonacciSeries(int previous, int secondPrevious, int n) {
