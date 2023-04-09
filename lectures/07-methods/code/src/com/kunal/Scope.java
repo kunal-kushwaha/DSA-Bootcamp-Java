@@ -6,13 +6,13 @@ public class Scope {
         int b = 20;
         String name = "Kunal";
         {
-//                int a = 78; // already initialised outside the block in the same method, hence you cannot initialise again
+//                int a = 78; // already declared outside the block in the same method, hence you cannot declare again
                 a = 100; // reassign the origin ref variable to some other value
             System.out.println(a);
                 int c = 99;
                 name = "Rahul";
             System.out.println(name);
-                // values initialised in this block, will remain in block
+                // values declared in this block, will remain in block
         }
         int c = 900;
         System.out.println(a);
