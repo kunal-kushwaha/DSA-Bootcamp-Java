@@ -56,3 +56,34 @@ For example, square(100) passes 100 as an argument. Inside square( ), the parame
 NOTE:
 Bus bus = new Bus();
 lhs(reference i.e. bus) is looked by compiler & rhs (object i.e. new Bus()) is looked by jvm
+
+Singleton Classes:
+Singleton classes in java is a class that can have only one instance of it at a time i.e. it can only have one object.
+
+Purpose of the Singleton classes:
+1) To reduce the memory space westage
+2) Used to create only one object of the class to take control over the resources
+
+Key points to remmember while creating singleton classes:
+1) make constructor always private
+2) Use public static method to create instance of the object i.e. also called as Lazy Initialization
+
+Below is the code for Singleton classes:
+Code:
+
+public class Signleton {
+//    you can create only one instnace of a class
+    private static int num = 0;
+    private Signleton(){
+
+    }
+    private static Signleton instance;
+
+    public static Signleton getInstance(){
+//        you can only get access to the constructor only once
+        if(instance == null){
+            instance = new Signleton();
+        }
+        return instance;
+    }
+}
