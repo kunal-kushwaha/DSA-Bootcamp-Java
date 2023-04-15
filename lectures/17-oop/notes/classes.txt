@@ -26,8 +26,8 @@ The key to Java’s safety is that you cannot manipulate references as you can a
 Thus, you cannot cause an object reference to point to an arbitrary memory location or manipulate it like an integer.
 
 A Closer Look at new:
-classname class-var = new classname ( );
-Here, class-var is a variable of the class type being created. The classname is the name of the class that is being
+classname class_var = new classname ( );
+Here, class_var is a variable of the class type being created. The classname is the name of the class that is being
 instantiated. The class name followed by parentheses specifies the constructor for the class. A constructor defines
 what occurs when an object of a class is created.
 
