@@ -48,32 +48,32 @@
     - [x] Comparison of methods
     - [x] Operations in Strings
     - [x] StringBuilder in java
-- [ ] Maths for DSA
-    - - [ ] Introduction
-    - - [ ] Complete Bitwise Operators
-    - - [ ] Prime numbers
-    - - [ ] HCF / LCM
-    - - [ ] Sieve of Eratosthenes
-    - - [ ] Newton's Square Root Method
-    - - [ ] Number Theory
-    - - [ ] Euclidean algorithm
-- [ ] Space and Time Complexity Analysis
-    - - [ ] Introduction
-    - - [ ] Comparion of various cases
-    - - [ ] Solving Linear Recurrence Relations
-    - - [ ] Solving Divide and Conquer Recurrence Relations
-    - - [ ] Big-O, Big-Omega, Big-Theta Notations
-    - - [ ] Get equation of any relation easily - best and easiest approach
-    - - [ ] Complexity discussion of all the problems we do
-    - - [ ] Space Complexity 
-    - - [ ] Memory Allocation of various languages
-    - - [ ] NP Completeness and Hardness
-- [ ] Recursion
+- [x] Maths for DSA
+    - - [x] Introduction
+    - - [x] Complete Bitwise Operators
+    - - [x] Prime numbers
+    - - [x] HCF / LCM
+    - - [x] Sieve of Eratosthenes
+    - - [x] Newton's Square Root Method
+    - - [x] Number Theory
+    - - [x] Euclidean algorithm
+- [x] Space and Time Complexity Analysis
+    - - [x] Introduction
+    - - [x] Comparion of various cases
+    - - [x] Solving Linear Recurrence Relations
+    - - [x] Solving Divide and Conquer Recurrence Relations
+    - - [x] Big-O, Big-Omega, Big-Theta Notations
+    - - [x] Get equation of any relation easily - best and easiest approach
+    - - [x] Complexity discussion of all the problems we do
+    - - [x] Space Complexity 
+    - - [x] Memory Allocation of various languages
+    - - [x] NP Completeness and Hardness
+- [x] Recursion
     - - [x] Introduction
     - - [x] Why recursion?
     - - [x] Flow of recursive programs - stacks
-    - - [ ] Convert recursion to iteration
-    - - [ ] Tree building of function calls
+    - - [x] Convert recursion to iteration
+    - - [x] Tree building of function calls
     - - [x] Tail recursion
     - - [ ] Sorting:
         - - [ ] Merge Sort
@@ -84,8 +84,8 @@
         - - [ ] N-Knights
         - - [ ] Maze problems
     - - [ ] Recursion String Problems
-    - - [ ] Recursion Array Problems
-    - - [ ] Recursion Pattern Problems
+    - - [x] Recursion Array Problems
+    - - [x] Recursion Pattern Problems
     - - [ ] Subset Questions
     - - [ ] Recursion - Permutations, Dice Throws etc Questions
 - [ ] Object Oriented Programming
