@@ -14,4 +14,8 @@ find Simple Interest.
 7. To calculate Fibonacci Series up to n numbers.
 8. To find out whether the given String is Palindrome or not.
 9. To find Armstrong Number between two given number.
-
+10. Write a program that takes a character as input and prints  according to the following rules.
+- uppercase, if the character is an uppercase alphabet (A - Z)
+- lower case, if the character is a lowercase alphabet (a - z)
+- not a alphabet, if the character is not an alphabet.
+11. Take the 3 inputs from user- Start Fahrenheit Value (S), End Fahrenheit value (E) and Step Size (W), you need to convert all Fahrenheit values from Start to End at the gap of W, into their corresponding Celsius values and print the table.
