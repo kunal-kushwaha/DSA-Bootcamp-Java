@@ -44,6 +44,20 @@ public class SkipAChar {
         }
     }
 
+    // Skipping 'word' if it there is no 'condition'
+    static void skipWordIfNot(String str, String word, String condition, String result){
+        if(str.isEmpty()){
+            System.out.println(result);
+            return;
+        }
+
+        if(str.startsWith(word) && !str.startsWith(condition)){
+            skipWordIfNot(str.substring(word.length()), word, condition, result);
+        } else {
+            skipWordIfNot(str.substring(1), word, condition, result + str.charAt(0));
+        }
+    }
+
     public static void main(String[] args) {
         String str = "abcapplecaba";
         char character = 'a';
@@ -58,5 +72,10 @@ public class SkipAChar {
         skipAWord(str, word, "");
 
         // Skip app if there is no apple
+        // Expected result : 34 bdfh appledvd
+        str = "app34 bdfh appledvd";
+        word = "app";
+        String condition = "apple";
+        skipWordIfNot(str, word, condition, "");
     }
 }
