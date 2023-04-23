@@ -75,15 +75,15 @@
     - - [x] Convert recursion to iteration
     - - [x] Tree building of function calls
     - - [x] Tail recursion
-    - - [ ] Sorting:
-        - - [ ] Merge Sort
-        - - [ ] Quick Sort
+    - - [x] Sorting:
+        - - [x] Merge Sort
+        - - [x] Quick Sort
     - - [ ] Backtracking
         - - [ ] Sudoku Solver
         - - [ ] N-Queens
         - - [ ] N-Knights
         - - [ ] Maze problems
-    - - [ ] Recursion String Problems
+    - - [x] Recursion String Problems
     - - [x] Recursion Array Problems
     - - [x] Recursion Pattern Problems
     - - [ ] Subset Questions
