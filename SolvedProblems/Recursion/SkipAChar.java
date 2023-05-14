@@ -9,7 +9,6 @@ public class SkipAChar {
             return;
         }
 
-
         if(str.charAt(i) != character){
             sb.append(str.charAt(i));
         }
