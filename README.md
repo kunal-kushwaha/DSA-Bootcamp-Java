@@ -18,3 +18,4 @@
 </a>
 
 commit
+- This is an example for merge conflict.
