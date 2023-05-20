@@ -1,7 +1,6 @@
 package SolvedProblems.Backtracking.Maze;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class MazeNoOfPaths {
     public static int noOfPaths(int row, int col) {
