@@ -78,20 +78,20 @@
     - - [x] Sorting:
         - - [x] Merge Sort
         - - [x] Quick Sort
-    - - [ ] Backtracking
-        - - [ ] Sudoku Solver
-        - - [ ] N-Queens
-        - - [ ] N-Knights
-        - - [ ] Maze problems
+    - - [x] Backtracking
+        - - [x] Sudoku Solver
+        - - [x] N-Queens
+        - - [x] N-Knights
+        - - [x] Maze problems
     - - [x] Recursion String Problems
     - - [x] Recursion Array Problems
     - - [x] Recursion Pattern Problems
-    - - [ ] Subset Questions
-    - - [ ] Recursion - Permutations, Dice Throws etc Questions
+    - - [x] Subset Questions
+    - - [x] Recursion - Permutations, Dice Throws etc Questions
 - [ ] Object Oriented Programming
-    - - [ ] Introduction
-    - - [ ] Classes & its instances
-    - - [ ] this keyword in Java
+    - - [x] Introduction
+    - - [x] Classes & its instances
+    - - [x] this keyword in Java
     - - [ ] Properties
         - - [ ] Inheritance
         - - [ ] Abstraction
