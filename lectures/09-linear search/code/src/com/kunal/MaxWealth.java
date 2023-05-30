@@ -5,7 +5,7 @@ public class MaxWealth {
 
     }
     public int maximumWealth(int[][] accounts) {
-        // person = rol
+        // person = row
         // account = col
         int ans = Integer.MIN_VALUE;
         for (int[] ints : accounts) {
