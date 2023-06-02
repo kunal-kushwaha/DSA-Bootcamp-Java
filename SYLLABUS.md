@@ -127,20 +127,20 @@
     - [Reversal of LinkedList](https://youtu.be/70tx7KcMROc)
     - [Linked List + Recursion](https://youtu.be/70tx7KcMROc)
 - Stacks & Queues
-    - Introduction
-    - Interview problems
-    - Push efficient
-    - Pop efficient
-    - Queue using Stack and Vice versa
-    - Circular Queue
+    - [Introduction](http://y2u.be/S9LUYztYLu4)
+    - [Interview problems](http://y2u.be/S9LUYztYLu4)
+    - [Push efficient](http://y2u.be/S9LUYztYLu4)
+    - [Pop efficient](http://y2u.be/S9LUYztYLu4)
+    - [Queue using Stack and Vice versa](http://y2u.be/S9LUYztYLu4)
+    - [Circular Queue](http://y2u.be/S9LUYztYLu4)
 - Trees
-    - Introduction
-    - Binary Trees
-    - Binary Search Trees
-    - DFS
-    - BFS
-    - AVL Trees
-    - Segment Tree
+    - [Introduction](http://y2u.be/4s1Tcvm00pA)
+    - [Binary Trees](http://y2u.be/4s1Tcvm00pA)
+    - [Binary Search Trees](http://y2u.be/4s1Tcvm00pA)
+    - [DFS](http://y2u.be/4s1Tcvm00pA)
+    - [BFS](http://y2u.be/4s1Tcvm00pA)
+    - [AVL Trees](http://y2u.be/4s1Tcvm00pA)
+    - [Segment Tree](http://y2u.be/4s1Tcvm00pA)
 - Heaps
     - Introduction
     - Theory
