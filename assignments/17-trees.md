@@ -1,3 +1,6 @@
+# Videos:
+- [Binary Trees](https://www.youtube.com/watch?v=4s1Tcvm00pA&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=49)
+
 # Problems
 
 ## Easy
