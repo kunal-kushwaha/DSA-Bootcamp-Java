@@ -127,12 +127,12 @@
     - File handling
 - Greedy Algorithms
 - Stacks & Queues
-    - Introduction
-    - Interview problems
-    - Push efficient
-    - Pop efficient
-    - Queue using Stack and Vice versa
-    - Circular Queue
+    - [Introduction](https://www.youtube.com/watch?v=rHQI4mrJ3cg&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=46)
+    - [Push efficient](https://www.youtube.com/watch?v=rHQI4mrJ3cg&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=46)
+    - [Pop efficient](https://www.youtube.com/watch?v=rHQI4mrJ3cg&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=46)
+    - [Queue using Stack and Vice versa](https://www.youtube.com/watch?v=rHQI4mrJ3cg&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=46)
+    - [Circular Queue](https://www.youtube.com/watch?v=rHQI4mrJ3cg&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=46)
+    - [Interview problems](https://www.youtube.com/watch?v=S9LUYztYLu4&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=47)
 - Linked List
     - Introduction
     - Fast and slow pointer
