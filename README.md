@@ -16,3 +16,6 @@
 <a href = "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=kunal-kushwaha/DSA-Bootcamp-Java"/>
 </a>
+
+ The Session is nice and easier to catch what we're learning. Thanks Kunal.
+ From Bhuvan from TN
