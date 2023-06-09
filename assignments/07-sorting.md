@@ -6,7 +6,7 @@
 - [Merge Sort](https://youtu.be/iKGAgWdgoRk)
 - [Quick Sort](https://youtu.be/Z8svOqamag8)
 
-# Questions
+# Questions on leetcode
 
 ## Easy
 - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
