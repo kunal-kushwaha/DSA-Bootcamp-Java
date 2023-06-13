@@ -46,3 +46,5 @@ Also,
 13. [Write a function that returns all prime numbers between two given numbers.](https://www.geeksforgeeks.org/program-to-find-prime-numbers-between-given-interval/)
 
 14. [Write a function that returns the sum of first n natural numbers.](https://www.geeksforgeeks.org/program-find-sum-first-n-natural-numbers/)
+15. [Write a program to enter the numbers till the user wants and at the end it should display the count of positive, negative and zeros entered. 
+](https://www.easterscience.com/q7-write-a-program-to-enter-numbers-till-the-user-wants-at-the-end-it-should-display-the-count-of-positive-negative-and-zeros-entered/)
