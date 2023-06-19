@@ -26,9 +26,9 @@
 22. [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 23. Input a number and print all the factors of that number (use loops).
 24. Take integer inputs till the user enters 0 and print the sum of all numbers
-(HINT: while loop)
+(HINT:do while loop)
 25. Take integer inputs till the user enters 0 and print the largest number from
-all.
+all.(HINT:do while loop)
 26. Addition Of Two Numbers
 
 ### Intermediate Java Programs
