@@ -1,45 +1,51 @@
 1.Write a program to print whether a number is even or odd, also.take input from the user.
 
-2.Take name as input and print a greeting message for that.particular name.
-
-3.Write a program to input principal, time, and rate (P, T, R) from the user and find Simple Interest.
-
-4.Take in two numbers and an operator (+, -, *, /) and calculate the value. (Use if conditions)
-
-5.Take 2 numbers as input and print the largest number.
-
-6.Input currency in rupees and output in USD.
-
-7.To calculate Fibonacci Series up to n numbers.
-
-8.To find out whether the given String is Palindrome or not.
-
-9.To find Armstrong Number between two given number
- 
-
 import java.util.*;
 public class Main
 {
 	public static void main(String[] args) {
 	    Scanner sc=new Scanner(System.in);
+	    int num1=sc.nextInt();
+	    if(num1%2==0 ){ System.out.print("EVEN NUMBER");  }
+	    else{ System.out.print("ODD NUMBER");  }
+}
+}
+
+2.Take name as input and print a greeting message for that.particular name.
+
+import java.util.*;
+public class Main
+{
+	public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+        String s=sc.nextLine();
+  	System.out.print("Hello "+s+"! Good to meet you");
 	    
 }
 }       
-            /*
-	    String s=sc.nextLine();
-	    System.out.print("Hello "+s+"! Good to meet you");
-	    */
-	    
-	    /*
+
+3.Write a program to input principal, time, and rate (P, T, R) from the user and find Simple Interest.
+
+import java.util.*;
+public class Main
+{           public static void main(String[] args) {
+	    Scanner sc=new Scanner(System.in);
 	    double p=sc.nextInt();
 	    double t=sc.nextInt();
 	    double r=sc.nextInt();
 	    
 	    double si=((p*t*r)/100);
 	    System.out.print("simple interest : "+si);
-	    */
-	    
-	    /*
+}
+}
+
+4.Take in two numbers and an operator (+, -, *, /) and calculate the value. (Use if conditions)
+
+import java.util.*;
+public class Main
+{          
+            public static void main(String[] args) {
+	    Scanner sc=new Scanner(System.in);	    
 	    int a=sc.nextInt();
 	    int b=sc.nextInt();
 	    char op=sc.next().charAt(0);
@@ -53,25 +59,45 @@ public class Main
 	    else if(op=='/') { return a/b; }
 	    else { return 0; }
         }
-        */
-        
-        /*
+}
+
+5.Take 2 numbers as input and print the largest number.
+
+import java.util.*;
+public class Main
+{           
+        public static void main(String[] args) {
+	Scanner sc=new Scanner(System.in);
         int a=sc.nextInt();
 	    int b=sc.nextInt();
 	    if(a>b){  System.out.println(a); }
 	    else if(a<b){  System.out.println(b); }
         else {  System.out.println("equal"); }
-        */
-        
-        /*
+}
+}
+
+6.Input currency in rupees and output in USD.
+
+import java.util.*;
+public class Main
+{           
+        public static void main(String[] args) {
+	Scanner sc=new Scanner(System.in);
         double Inr= 0.014;
         int cur=sc.nextInt();
         double val=cur*Inr;
         System.out.println("value"+val);
-        */
+}
+}
+
+7.To calculate Fibonacci Series up to n numbers.
         
-        /*
-         int n=sc.nextInt();
+import java.util.*;
+public class Main
+{           
+        public static void main(String[] args) {
+	Scanner sc=new Scanner(System.in);
+        int n=sc.nextInt();
         for(int i=0;i<n;i++) {
         System.out.print(fibo(i)+" ");
         }
@@ -84,9 +110,15 @@ public class Main
                 return fibo(n-1)+fibo(n-2);
             }
         }
-        */
-        
-        /*
+}
+
+8.To find out whether the given String is Palindrome or not.
+
+import java.util.*;
+public class Main
+{           
+        public static void main(String[] args) {
+	Scanner sc=new Scanner(System.in);
         String str=sc.nextLine();
         if(palindrome(str)){
             System.out.print("Palindrome");
@@ -103,13 +135,19 @@ public class Main
             }
             return true;
         }
-    */
-    
-    /*
-    int f=sc.nextInt();
-	    int l=sc.nextInt();
-	    for(int i=f;i<=l;i++){
-	        if(arms(i)) {  System.out.println(i+" "); }
+}
+
+9.To find Armstrong Number between two given number
+
+import java.util.*;
+public class Main
+{           
+         public static void main(String[] args) {
+	 Scanner sc=new Scanner(System.in);
+         int f=sc.nextInt();
+	 int l=sc.nextInt();
+	 for(int i=f;i<=l;i++){
+	 if(arms(i)) {  System.out.println(i+" "); }
 	    }
         }
             public static boolean arms(int n){
@@ -124,4 +162,4 @@ public class Main
                 if(num==sum){ return true; }
                 else { return false; }
         }
-    */
+}
