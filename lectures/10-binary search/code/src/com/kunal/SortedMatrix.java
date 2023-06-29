@@ -27,7 +27,7 @@ public class SortedMatrix {
         }
         return new int[]{-1, -1};
     }
-
+  //code which return the coordinates of the matrix 
     static int[] search(int[][] matrix, int target) {
         int rows = matrix.length;
         int cols = matrix[0].length; // be cautious, matrix may be empty
