@@ -8,7 +8,6 @@ public class Ceiling {
         int ans = ceiling(arr, target);
         System.out.println(ans);
     }
-
     // return the index of smallest no >= target
     static int ceiling(int[] arr, int target) {
 
@@ -17,25 +16,23 @@ public class Ceiling {
             return -1;
         }
         int start = 0;
-        int end = arr.length - 1; 
+        int end = arr.length - 1;
         while(start < end) {
             // find the middle element
 //            int mid = (start + end) / 2; // might be possible that (start + end) exceeds the range of int in java
             int mid = start + (end - start) / 2;
 
-            if (target < arr[mid]) {
-                end = mid - 1;
-            } else if (target > arr[mid]) {
-                start = mid + 1;
-            } else {
-                // ans found 
+            
+            if (target <= arr[mid]) {
+                // ans found
                 //but there might be same answer before it.
-                //so instead of return mid 
+                //so instead of return mid
                 //we will check the array again from start to mid (included)
-                end=mid;
+                end = mid - 1;
+            } else{
+                start = mid + 1;
             }
         }
         return start;
     }
-
 }
