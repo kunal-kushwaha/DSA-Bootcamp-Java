@@ -28,7 +28,7 @@ public class Ceiling {
                 //but there might be same answer before it.
                 //so instead of return mid
                 //we will check the array again from start to mid (included)
-                end = mid - 1;
+                end = mid;
             } else{
                 start = mid + 1;
             }
