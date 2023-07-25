@@ -4,23 +4,26 @@ public class InfiniteArray {
     public static void main(String[] args) {
         int[] arr = {3, 5, 7, 9, 10, 90,
                 100, 130, 140, 160, 170};
-        int target = 10;
-        System.out.println(ans(arr, target));
+        int target = 100;
+        System.out.println(infiniteArray(arr, target, 0,1));
     }
-    static int ans(int[] arr, int target) {
-        // first find the range
-        // first start with a box of size 2
-        int start = 0;
-        int end = 1;
 
+    static int infiniteArray(int[] arr, int target,int start, int end ){
         // condition for the target to lie in the range
-        while (target > arr[end]) {
-            int temp = end + 1; // this is my new start
-            // double the box value
-            // end = previous end + sizeofbox*2
-            end = end + (end - start + 1) * 2;
-            start = temp;
+        if(end - start < 0) {
+            return -1;
         }
+        try {
+            while(target > arr[end]) {
+                int oldS = start;
+                start = end+1;
+                end += (end+1-oldS)*2;
+            }
+        }catch(ArrayIndexOutOfBoundsException e) {
+            end = end - (end-start)/2 - 1;
+            return infiniteArray(arr, target , start, end);
+        }
+        System.out.println("s :"+start +" end: "+end);
         return binarySearch(arr, target, start, end);
 
     }
