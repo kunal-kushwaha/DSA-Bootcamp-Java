@@ -127,7 +127,7 @@
     - [Reversal of LinkedList](https://youtu.be/70tx7KcMROc)
     - [Linked List + Recursion](https://youtu.be/70tx7KcMROc)
 - Stacks & Queues
-    - Introduction
+    - [Introduction](https://youtu.be/rHQI4mrJ3cg)
     - Interview problems
     - Push efficient
     - Pop efficient
