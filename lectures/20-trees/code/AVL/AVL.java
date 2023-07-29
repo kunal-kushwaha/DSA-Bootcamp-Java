@@ -1,5 +1,3 @@
-package com.company;
-
 public class AVL {
     public class Node {
         private int value;
