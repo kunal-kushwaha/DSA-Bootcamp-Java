@@ -29,6 +29,6 @@ public class NiceCar {
     }
 
     public void upgradeEngine() {
-        this.engine = new ElecticEngine();
+        this.engine = new ElectricEngine();
     }
 }
