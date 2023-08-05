@@ -127,20 +127,20 @@
     - [Reversal of LinkedList](https://youtu.be/70tx7KcMROc)
     - [Linked List + Recursion](https://youtu.be/70tx7KcMROc)
 - Stacks & Queues
-    - Introduction
-    - Interview problems
+    - [Introduction](https://youtu.be/rHQI4mrJ3cg)
+    - [Interview problems](https://youtu.be/S9LUYztYLu4)
     - Push efficient
     - Pop efficient
     - Queue using Stack and Vice versa
-    - Circular Queue
+    - [Circular Queue](https://youtu.be/rHQI4mrJ3cg)
 - Trees
-    - Introduction
-    - Binary Trees
-    - Binary Search Trees
+    - [Introduction](https://youtu.be/4s1Tcvm00pA)
+    - [Binary Trees](https://youtu.be/4s1Tcvm00pA)
+    - [Binary Search Trees](https://youtu.be/4s1Tcvm00pA)
     - DFS
     - BFS
-    - AVL Trees
-    - Segment Tree
+    - [AVL Trees](https://youtu.be/CVA85JuJEn0)
+    - [Segment Tree](https://youtu.be/ciHThtTVNto)
 - Heaps
     - Introduction
     - Theory
@@ -189,7 +189,7 @@
 
 ### Advanced concepts apart from interviews 
 - Fast IO
-- File handling
+- [File handling](https://youtu.be/b35mlSPOlJg)
 - Bitwise + DP
 - Extended Euclidean algorithm
 - Modulo Multiplicative Inverse
