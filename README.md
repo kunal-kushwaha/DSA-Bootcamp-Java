@@ -1,4 +1,4 @@
-# 🔥DSA-Bootcamp-Java
+# 🔥Java + DSA + Interview Preparation Course :
 
 - [Join Replit](http://join.replit.com/kunal-kushwaha )
 
