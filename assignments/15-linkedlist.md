@@ -28,7 +28,6 @@
 - [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) `leetcode`
 - [LRU Cache](https://leetcode.com/problems/lru-cache/) `leetcode`
 - [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) `leetcode` `Amex`
-- [Design Browser History](https://leetcode.com/problems/design-browser-history/) `leetcode`
 - [Partition list](https://leetcode.com/problems/partition-list/) `leetcode`
 - [Find first node of loop in a linked list](https://www.geeksforgeeks.org/find-first-node-of-loop-in-a-linked-list/) `GFG`
 - [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)`leetcode`
