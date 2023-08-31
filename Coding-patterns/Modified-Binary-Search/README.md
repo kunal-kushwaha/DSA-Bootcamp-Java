@@ -10,7 +10,7 @@ The pattern for an ascending order set looks as follows:
 
 3. If the key is not equal to the number at index middle:
    - Check if the key is less than `arr[middle]`. If it is, reduce the search space by updating `end = middle - 1`.
-   - Check if the key is greater than `arr[middle]`. If it is, reduce the search space by updating `end = middle + 1`.
+   - Check if the key is greater than `arr[middle]`. If it is, reduce the search space by updating `start = middle + 1`.
 
 Here is a visual representation of the Modified Binary Search pattern:
 
