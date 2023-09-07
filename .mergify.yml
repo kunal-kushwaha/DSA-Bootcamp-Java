@@ -1,8 +1,0 @@
-pull_request_rules:
-  - name: assign PRs with Python files modified to jd
-    conditions:
-      - files~=\.java$
-    actions:
-      assign:
-        add_users:
-          - kunal-kushwaha
