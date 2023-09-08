@@ -50,7 +50,8 @@
     - [How Strings work](https://youtu.be/zL1DPZ0Ovlo?t=216)
     - [Comparison of methods](https://youtu.be/zL1DPZ0Ovlo?t=977)
     - [Operations in Strings](https://youtu.be/zL1DPZ0Ovlo?t=1681)
-    - [StringBuilder in java](https://youtu.be/zL1DPZ0Ovlo?t=4199)
+    - [StringBuilder in Java](https://youtu.be/zL1DPZ0Ovlo?t=4199)
+    - [StringBuffer](https://www.youtube.com/watch?v=YFZai3fPUQI)
 - [Maths for DSA](https://youtu.be/fzip9Aml6og)
     - [Introduction](https://youtu.be/fzip9Aml6og?t=20)
     - [Complete Bitwise Operators](https://youtu.be/fzip9Aml6og?t=95)
@@ -63,6 +64,7 @@
     - [Number Theory](https://youtu.be/lmSpZ0bjCyQ?t=4405)
     - [HCF / LCM](https://youtu.be/lmSpZ0bjCyQ?t=5110)
     - [Euclidean algorithm](https://youtu.be/lmSpZ0bjCyQ?t=5520)
+    - [BigInteger & BigDecimal](https://www.youtube.com/watch?v=lHtoypC-4Ps)
 - [Recursion](https://www.youtube.com/playlist?list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod)
     - [Introduction](https://youtu.be/M2uO2nMT0Bk)
     - [Flow of recursive programs - stacks](https://youtu.be/M2uO2nMT0Bk?t=2124)
@@ -126,21 +128,24 @@
     - [Cycle Detection](https://youtu.be/70tx7KcMROc)
     - [Reversal of LinkedList](https://youtu.be/70tx7KcMROc)
     - [Linked List + Recursion](https://youtu.be/70tx7KcMROc)
-- Stacks & Queues
+- [Stacks & Queues](https://www.youtube.com/watch?v=rHQI4mrJ3cg)
     - Introduction
-    - Interview problems
     - Push efficient
     - Pop efficient
-    - Queue using Stack and Vice versa
+    - Queue using Stack and vice versa
     - Circular Queue
-- Trees
-    - Introduction
-    - Binary Trees
-    - Binary Search Trees
-    - DFS
-    - BFS
-    - AVL Trees
-    - Segment Tree
+    - [Interview problems](https://www.youtube.com/watch?v=S9LUYztYLu4)
+- [File handling](https://www.youtube.com/watch?v=b35mlSPOlJg)
+- [Trees](https://www.youtube.com/playlist?list=PL9gnSGHSqcnqfctdbCQKaw5oZ9Up2cmsq)
+    - [Introduction](https://www.youtube.com/watch?v=4s1Tcvm00pA)
+      - Binary Trees
+      - Binary Search Trees
+    - [Interview questions](https://www.youtube.com/watch?v=9D-vP-jcc-Y)
+      - DFS
+      - BFS
+    - [AVL Trees](https://www.youtube.com/watch?v=CVA85JuJEn0)
+    - [Segment Tree](https://www.youtube.com/watch?v=ciHThtTVNto)
+    - Fenwick Tree / Binary Indexed Tree
 - Heaps
     - Introduction
     - Theory
@@ -188,8 +193,6 @@
 - Tries
 
 ### Advanced concepts apart from interviews 
-- Fast IO
-- File handling
 - Bitwise + DP
 - Extended Euclidean algorithm
 - Modulo Multiplicative Inverse
@@ -205,5 +208,4 @@
 - Euler Totient
 - NP-Completeness
 - Multithreading
-- Fenwick Tree / Binary Indexed Tree
 - Square Root Decomposition
