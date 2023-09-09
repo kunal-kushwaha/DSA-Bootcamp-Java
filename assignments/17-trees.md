@@ -18,7 +18,7 @@
 - [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) `leetcode`
 - [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) `leetcode`
 - [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) `leetcode`
-
+- [Right View of Binary Tree](https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1) `GFG`
 ## Medium
 
 - [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) `leetcode`
