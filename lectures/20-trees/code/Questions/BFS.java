@@ -27,6 +27,33 @@ class BFS {
     return result;
   }
 
+  // Another solution of above code using recursion.
+  // BFS traversal of tree using recursion.
+  // Leetcode Q 102, Level order traversal.
+
+  public List<List<Integer>> levelOrder(TreeNode root) 
+    {
+        List<List<Integer>>al=new ArrayList<>();
+        pre(root,0,al);
+        return al;
+    }
+    public static void pre(TreeNode root,int level,List<List<Integer>>al)
+    {
+        if(root==null)
+            return;
+        if(al.size()==level)
+        {
+            List<Integer>li=new ArrayList<>();
+            li.add(root.val);
+            al.add(li);
+        }
+        else
+            al.get(level).add(root.val);
+        pre(root.left,level+1,al);
+        pre(root.right,level+1,al);
+    }
+  
+
   public List<Integer> rightSideView(TreeNode root) {
     List<Integer> result = new ArrayList<>();
 
