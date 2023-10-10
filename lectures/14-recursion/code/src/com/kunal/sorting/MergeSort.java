@@ -30,7 +30,7 @@ public class MergeSort {
         int k = 0;
 
         while (i < first.length && j < second.length) {
-            if (first[i] < second[j]) {
+            if (first[i] <=second[j]) {
                 mix[k] = first[i];
                 i++;
             } else {
@@ -64,7 +64,7 @@ public class MergeSort {
             return;
         }
 
-        int mid = (s + e) / 2;
+        int mid = s+ (e - s) / 2;
 
         mergeSortInPlace(arr, s, mid);
         mergeSortInPlace(arr, mid, e);
@@ -73,14 +73,14 @@ public class MergeSort {
     }
 
     private static void mergeInPlace(int[] arr, int s, int m, int e) {
-        int[] mix = new int[e - s];
+        int[] mix = new int[e - s+1];
 
         int i = s;
-        int j = m;
+        int j = m+1;
         int k = 0;
 
         while (i < m && j < e) {
-            if (arr[i] < arr[j]) {
+            if (arr[i] <= arr[j]) {
                 mix[k] = arr[i];
                 i++;
             } else {
