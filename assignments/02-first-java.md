@@ -241,4 +241,4 @@ public class First{
             
     }
 }
-//added solution 
+//added my solution 
