@@ -7,6 +7,8 @@
 - [Single Number](https://leetcode.com/problems/single-number/)
 - [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 - [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
+- [Sort Integers by The Number of 1 Bits
+] https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/
 - [Counting Bits](https://leetcode.com/problems/counting-bits/)
 - [Binary Watch](https://leetcode.com/problems/binary-watch/)
 - [Hamming Distance](https://leetcode.com/problems/hamming-distance/)
