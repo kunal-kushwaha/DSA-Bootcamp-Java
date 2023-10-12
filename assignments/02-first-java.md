@@ -241,3 +241,4 @@ public class First{
             
     }
 }
+//added solution 
