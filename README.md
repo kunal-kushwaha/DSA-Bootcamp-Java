@@ -7,6 +7,6 @@
 - [Connect with me](http://kunalkushwaha.com)
  
 ## Thanks to all the contributors ❤️
-<a href = "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=kunal-kushwaha/DSA-Bootcamp-Java"/>
+<a href = "https://github.com/codewithnikhilsharma">
+  <img src = "https://avatars.githubusercontent.com/u/122785600?v=4"/>
 </a>
