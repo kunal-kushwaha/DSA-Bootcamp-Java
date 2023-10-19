@@ -19,4 +19,3 @@ made at run time.
 In other words, it is the type of the object being referred to (not the type of the reference variable)
 that determines which version of an overridden method will be executed.
 
-If B extends A then you can override a method in A through B with changing the return type of method to B.
