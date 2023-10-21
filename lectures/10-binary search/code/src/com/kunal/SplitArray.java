@@ -10,7 +10,7 @@ public class SplitArray {
         int end = 0;
 
         for (int i = 0; i < nums.length; i++) {
-            start = Math.max(start, nums[i]); // in the end of the loop this will contain the max item fro the array
+            start = Math.max(start, nums[i]); // in the end of the loop this will contain the max item of the array
             end += nums[i];
         }
 
