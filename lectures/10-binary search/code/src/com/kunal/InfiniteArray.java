@@ -18,7 +18,8 @@ public class InfiniteArray {
             int temp = end + 1; // this is my new start
             // double the box value
             // end = previous end + sizeofbox*2
-            end = end + (end - start + 1) * 2;
+            //This line will give index out of bound error for other target lets say 130, if we change this then it will go till whatever the length of array is provided.
+            end = (end + (end - start + 1) * 2) > arr.length-1? arr.length-1: (end + (end - start + 1) * 2);
             start = temp;
         }
         return binarySearch(arr, target, start, end);
