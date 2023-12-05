@@ -64,11 +64,21 @@ public class SortedMatrix {
             return new int[]{rStart + 1, cMid};
         }
 
-        // search in 1st half
+        
+        //search in first half this code will not give index out of bound exception if we check cMid 
+        if(cMid > 0 && target <= matrix[rStart][cMid -1]){
+            return binarySearch(matrix, rStart, 0, cMid-1, target);
+        }
+        //search in second half, also this will not give out of bound exception 
+        if (target >= matrix[rStart][cMid] && target <= matrix[rStart][cols - 1]) {
+            return binarySearch(matrix, rStart, cMid, cols - 1, target);
+        }
+
+        // search in 1st half, this will give out of bound exception if cMid is zero
         if (target <= matrix[rStart][cMid - 1]) {
             return binarySearch(matrix, rStart, 0, cMid-1, target);
         }
-        // search in 2nd half
+        // search in 2nd half, this will give out of bound exception for cMid zero
         if (target >= matrix[rStart][cMid + 1] && target <= matrix[rStart][cols - 1]) {
             return binarySearch(matrix, rStart, cMid + 1, cols - 1, target);
         }
