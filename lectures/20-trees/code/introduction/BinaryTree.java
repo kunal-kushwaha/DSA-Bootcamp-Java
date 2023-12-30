@@ -96,28 +96,28 @@ class BinaryTree {
   }
 
   public void inOrder() {
-    preOrder(root);
+    inOrder(root);
   }
 
   private void inOrder(Node node) {
     if (node == null) {
       return;
     }
-    preOrder(node.left);
+    inOrder(node.left);
     System.out.print(node.value + " ");
-    preOrder(node.right);
+    inOrder(node.right);
   }
 
   public void postOrder() {
-    preOrder(root);
+    postOrder(root);
   }
 
   private void postOrder(Node node) {
     if (node == null) {
       return;
     }
-    preOrder(node.left);
-    preOrder(node.right);
+    postOrder(node.left);
+    postOrder(node.right);
     System.out.print(node.value + " ");
   }
 
