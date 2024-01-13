@@ -42,5 +42,13 @@ public class TypeCasting {
         // float + int - double = double
         System.out.println((f * b) + " " + (i / c) + " " + (d * s));
         System.out.println(result);
+        
+        //parse is Function Provided by the String Class which is present in Integer Wrapper Class which converts numeric String Input to int,float,byte,long,double
+        String str1=sc.nextLine();
+        System.out.println(Integer.parseInt(str1));
+        System.out.println(Float.parseFloat(str1));
+        System.out.println(Byte.parseByte(str1));
+        System.out.println(Long.parseLong(str1));
+        System.out.println(Double.parseDouble(str1));
     }
 }
