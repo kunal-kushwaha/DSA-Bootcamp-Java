@@ -26,9 +26,9 @@ class AVL {
   }
   private int height(Node node) {
     if (node == null) {
-      return -1;
+        return -1;
     }
-    return node.height;
+    return Math.max(height(node.left), height(node.right)) + 1;
   }
   
   public void insert(int value) {
@@ -49,7 +49,7 @@ class AVL {
       node.right = insert(value, node.right);
     }
 
-    node.height = Math.max(height(node.left), height(node.right)) + 1;
+    node.height = height(node);
     return rotate(node);
   }
 
@@ -90,9 +90,9 @@ class AVL {
     c.right = p;
     p.left = t;
     
-    p.height = Math.max(height(p.left), height(p.right) + 1);
-    c.height = Math.max(height(c.left), height(c.right) + 1);
-
+    p.height = height(p);
+    c.height = height(c);
+    
     return c;
   }
 
@@ -103,9 +103,9 @@ class AVL {
     p.left = c;
     c.right = t;
     
-    p.height = Math.max(height(p.left), height(p.right) + 1);
-    c.height = Math.max(height(c.left), height(c.right) + 1);
-
+    p.height = height(p);
+    c.height = height(c);
+    
     return p;
   }
 
