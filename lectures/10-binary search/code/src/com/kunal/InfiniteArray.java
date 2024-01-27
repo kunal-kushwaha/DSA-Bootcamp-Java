@@ -12,7 +12,7 @@ public class InfiniteArray {
         // first start with a box of size 2
         int start = 0;
         int end = 1;
-
+        int a;
         // condition for the target to lie in the range
         while (target > arr[end]) {
             int temp = end + 1; // this is my new start
@@ -20,6 +20,14 @@ public class InfiniteArray {
             // end = previous end + sizeofbox*2
             end = end + (end - start + 1) * 2;
             start = temp;
+            while (true) {
+                try {
+                    a = arr[end];
+                    break;
+                } catch (ArrayIndexOutOfBoundsException e) {
+                    end--;
+                }
+            }
         }
         return binarySearch(arr, target, start, end);
 
