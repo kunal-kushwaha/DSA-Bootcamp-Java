@@ -5,6 +5,7 @@ public class NQueens {
         int n = 4;
         boolean[][] board = new boolean[n][n];
         System.out.println(queens(board, 0));
+        System.out.println("This is how github works");
     }
 
     static int queens(boolean[][] board, int row) {
