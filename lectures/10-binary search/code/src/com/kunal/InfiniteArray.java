@@ -19,6 +19,9 @@ public class InfiniteArray {
             // double the box value
             // end = previous end + sizeofbox*2
             end = end + (end - start + 1) * 2;
+             if(end > arr.length-1){
+                end  = arr.length-1;
+            }
             start = temp;
         }
         return binarySearch(arr, target, start, end);
