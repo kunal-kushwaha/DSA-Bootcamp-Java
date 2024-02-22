@@ -14,4 +14,5 @@ find Simple Interest.
 7. To calculate Fibonacci Series up to n numbers.
 8. To find out whether the given String is Palindrome or not.
 9. To find Armstrong Number between two given number.
-
+10.Write program to chek whether the given number is multiple of 5 or not.
+11.Write program to chek whether the given char vowel or not
