@@ -3,11 +3,122 @@
 
 ### Basic Java Programs
 1. Area Of Circle Java Program
+```java
+import java.util.Scanner;
+
+public class AreaOfTriangle_1 {
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        System.out.println("Enter the base of the triangle : ");
+        double base = in.nextDouble();
+        System.out.println("Enter the height of the triangle : ");
+        double height = in.nextDouble();
+
+        double area = (height*base)/2;
+
+        System.out.println("Area of the triangle : " +area);
+    }
+}
+```
 2. Area Of Triangle
-3. Area Of Rectangle Program 
-4. Area Of Isosceles Triangle 
+```java
+import java.util.Scanner;
+
+public class AreaOfCircle_2 {
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        System.out.println("Enter the radius of the circle : ");
+        double radius = in.nextDouble();
+
+
+        double area = Math.PI * (radius*radius);
+
+        System.out.println("Area of the circle :" +area );
+
+
+
+
+    }
+}
+```
+3. Area Of Rectangle Program
+```java
+import java.util.Scanner;
+
+public class AreaOfRectangle_3 {
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        System.out.println("Enter the length of the rectangle : ");
+        double length = in.nextDouble();
+        System.out.println("Enter the width of the rectangle : ");
+        double width = in.nextDouble();
+
+        double area = length*width;
+
+        System.out.println("Area of the rectangle : " +area);
+    }
+}
+```
+4. Area Of Isosceles Triangle
+```java
+import java.util.Scanner;
+
+public class AreaOfIsoscelesTriangle_4 {
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+
+        System.out.print("Enter the length of the base of the isosceles triangle: ");
+        double base = in.nextDouble();
+
+        System.out.print("Enter the height of the isosceles triangle: ");
+        double height = in.nextDouble();
+
+
+        double area = 0.5 * base * height;
+
+        System.out.println("Area of the isosceles triangle: " + area);
+    }
+}
+```
 5. Area Of Parallelogram
+```java
+import java.util.Scanner;
+
+public class AreaOfParallelogram_5 {
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+
+        System.out.print("Enter the length of the base of the parallelogram: ");
+        double base = in.nextDouble();
+
+        System.out.print("Enter the height of the parallelogram: ");
+        double height = in.nextDouble();
+
+
+        double area = base * height;
+
+        System.out.println("Area of the parallelogram: " + area);
+    }
+}
+```
 6. Area Of Rhombus
+```java
+import java.util.Scanner;
+
+public class AreaOfRhombus_6 {
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        System.out.println("Enter the length of one of the diagonals of the rhombus : ");
+        double d1 = in.nextDouble();
+        System.out.println("Enter the length of the other diagonal of the rhombus : ");
+        double d2 = in.nextDouble();
+
+        double area = (d1 * d2) / 2;
+
+        System.out.println("Area of the rhombus: " + area);
+    }
+}
+```
 7. Area Of Equilateral Triangle
 8. Perimeter Of Circle
 9. Perimeter Of Equilateral Triangle
