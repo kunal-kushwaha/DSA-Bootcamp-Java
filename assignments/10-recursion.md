@@ -40,7 +40,7 @@
 ## Medium
 - [Combination Sum](https://leetcode.com/problems/combination-sum/) `leetcode`
 - [Word Search](https://leetcode.com/problems/word-search/) `leetcode`
-- [Target sum](https://leetcode.com/problems/target-sum/) `leetcode`
+- [Target sum](https://leetcode.com/problems/target-sum/) `leetcode` `Facebook` `Google`
 - [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) `leetcode`
 - [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) `leetcode`
 - [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) `leetcode`
@@ -48,7 +48,7 @@
 - [Pow(x, n)](https://leetcode.com/problems/powx-n/) `leetcode`
 - [Minimum Non-Zero Product of the Array Elements](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/) `leetcode`
 - [Handshakes](https://practice.geeksforgeeks.org/problems/handshakes1303/1/) `GFG`
-- [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion&filters%5Bdifficulty%5D%5B%5D=medium)
+- [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion&filters%5Bdifficulty%5D%5B%5D=medium) `HackerRank`
 - [Divisible Subset](https://www.codechef.com/problems/DIVSUBS)  `Codechef`
 - [Perfect squares](https://leetcode.com/problems/perfect-squares/)`leetcode`
 - [decode string](https://leetcode.com/problems/decode-string/)`leetcode`
@@ -91,5 +91,5 @@
 - [M colorning problem](https://www.geeksforgeeks.org/m-coloring-problem-backtracking-5/) `GFG`
 - [The Knight's tour](https://www.geeksforgeeks.org/the-knights-tour-problem-backtracking-1/) `GFG`
 - [Maximum number possible by doing at-most K swaps](https://www.geeksforgeeks.org/find-maximum-number-possible-by-doing-at-most-k-swaps/) `GFG`
-- [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion&filters%5Bdifficulty%5D%5B%5D=hard)
+- [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion&filters%5Bdifficulty%5D%5B%5D=hard) `HackerRank`
 - [Concatenated Words](https://leetcode.com/problems/concatenated-words/)`leetcode`
