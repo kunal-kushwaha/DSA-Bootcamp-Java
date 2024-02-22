@@ -26,7 +26,6 @@
 21. [Two Sum](https://leetcode.com/problems/two-sum/)
 22. [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
 23. [Lucky Number In a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)
-24. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 25. [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
 26. [Plus One](https://leetcode.com/problems/plus-one/)
 27. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
@@ -40,9 +39,10 @@
 5. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 6. [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 7. [Jump Game](https://leetcode.com/problems/jump-game/)
-8. [Rotate Array](https://leetcode.com/problems/rotate-array/)
-9. [Sort Colors](https://leetcode.com/problems/sort-colors/)
-10. [House Robber](https://leetcode.com/problems/house-robber/)
+8. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+9. [Rotate Array](https://leetcode.com/problems/rotate-array/)
+10. [Sort Colors](https://leetcode.com/problems/sort-colors/)
+11. [House Robber](https://leetcode.com/problems/house-robber/)
 
 ### Hard
 1. [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)
