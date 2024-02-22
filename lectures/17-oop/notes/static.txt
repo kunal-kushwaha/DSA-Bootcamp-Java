@@ -58,7 +58,8 @@ which calls meth( ), passing 42 to x. The three println( ) statements refer to t
 as well as to the local variable x.
 
 Here is the output of the program:
-Static block initialized. x = 42
+Static block initialized.
+x = 42
 a = 3
 b = 12
 Note: main method is static, since it must be accessible for an application to run, before any instantiation takes place.
