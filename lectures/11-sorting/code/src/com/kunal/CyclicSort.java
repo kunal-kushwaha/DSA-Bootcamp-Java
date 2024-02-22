@@ -27,5 +27,22 @@ public class CyclicSort {
         arr[second] = temp;
     }
 
+    
+    //Optimised cyclic sort
+    //Author: Tausiq
+    //This sorting method works for every consecutive array, i.e. for any unsorted ranges. 
+
+    // static void sort(int[] arr) {
+    //     int i = 0;
+    //     while (i < arr.length) {
+    //         int correct = Math.floorMod((arr[i] - 1), arr.length);
+    //         if (arr[i] != arr[correct]) {
+    //             swap(arr, i , correct);
+    //         } else {
+    //             i++;
+    //         }
+    //     }
+    // }
+
 
 }
