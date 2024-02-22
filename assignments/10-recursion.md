@@ -23,6 +23,7 @@
 - [Power of Two](https://leetcode.com/problems/power-of-two/) `leetcode`
 - [Power of Three](https://leetcode.com/problems/power-of-three/) `leetcode`
 - [Power of Four](https://leetcode.com/problems/power-of-four/) `leetcode`
+- [Matrix Cells in Distance Order - Impelement with Merge or Quick Sort](https://leetcode.com/problems/matrix-cells-in-distance-order/) `leetcode`
 - Write a recursive function for given n and a to determine x:
 ```java
       n = a ^ x 
@@ -38,6 +39,7 @@
 - [Power Set of permutations of a string in Lexicographic order.](https://www.geeksforgeeks.org/powet-set-lexicographic-order/) `GFG`
 
 ## Medium
+- [Quick sort on the basis of the key]
 - [Combination Sum](https://leetcode.com/problems/combination-sum/) `leetcode`
 - [Word Search](https://leetcode.com/problems/word-search/) `leetcode`
 - [Target sum](https://leetcode.com/problems/target-sum/) `leetcode`
@@ -74,6 +76,7 @@
 - [Reorder List](https://leetcode.com/problems/reorder-list/) `leetcode`
 
 ## Hard
+- [Count smaller number after Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
 - [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) `leetcode`
 - [Special Binary String](https://leetcode.com/problems/special-binary-string/) `leetcode`
 - [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) `leetcode`
