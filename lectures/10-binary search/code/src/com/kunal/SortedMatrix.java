@@ -40,8 +40,8 @@ public class SortedMatrix {
 
         int rStart = 0;
         int rEnd = rows - 1;
-        int cMid = cols / 2;
-
+        int cMid = (cols-1) / 2;
+        
         // run the loop till 2 rows are remaining
         while (rStart < (rEnd - 1)) { // while this is true it will have more than 2 rows
             int mid = rStart + (rEnd - rStart) / 2;
