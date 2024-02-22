@@ -12,6 +12,7 @@
 - [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)`leetcode`
 - [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) `leetcode`
 - [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) `leetcode`
+- [Implement Stack using Linked List](https://practice.geeksforgeeks.org/problems/implement-stack-using-linked-list/1?page=1&category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&curated[]=1&sortBy=submissions/)`GFG` `Microsoft` `SamsungFactSetSAP` `LabsCodenation`
 
 ## Medium
 - [Design Twitter](https://leetcode.com/problems/design-twitter/) `leetcode`
