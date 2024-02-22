@@ -1,0 +1,99 @@
+Here are Some Important Git Bash Commands to Use :
+Git Tutorial
+1.pwd
+2.cd File/Directory
+2.cd /c
+git status
+git config --global user.name "Name"
+git config --global user.email "email"
+git config --list
+git config user.name
+git init(To make changes in Project)
+git add --a(ALL the files now in under staging area)
+git commit -m "Initial commit"
+git log (Know All the commit)rm
+git add <file>
+rm -rf .git (to delete tracking)
+q(Back to Bash)
+git clone <website>
+
+
+Life Cycle of File: Untracked->Unmodified->Modified->Staged
+
+
+                    init       add         edit      commit
+
+javac Main/Demo.java(Compilation)
+java Main/Demo(Run)
+
+touch <File.Name>
+"When you put your file into .gitignore file it ignore it"
+->> *.file(All file will be ignore by gitignore)
+psvm
+sout
+git add .
+git diff (compare working directory to staging area)
+git diff --staged(compare old commit with pwd)
+git commit -a -m "Direct Commit"9(tracked files will be commited)
+git rm <file.name>(Remove the file)
+git mv <existing> <rename>
+git rm --cached <file.name>(Tracking stopped now)
+git log -p (See changes with comparisions)
+git log --stat
+git log --pretty=oneline(see all changes in one line)
+git log --pretty=short(See changes in short)
+git log --pretty=full(See full changes)
+git log --since=n.days(See changes from n days)
+git log --since=n.weeks
+git log --since=n.months
+git log --since=n.years
+git commit --amend(To change in commit)
+git restore --staged <file.name>(To unstage the files)
+git rm --cached <file.name>(To unstage the files)
+git checkout -- <file.name>(To bring back the information)
+git checkout -f (You will find you clean pwd)
+
+git remote
+git remote -v
+git config --global alias.st status
+
+git branch -m master/git checkout master (Swith the branch)
+git checkout -b "branch.name" (Making the new branch)
+git merge <Branch.Name>
+git branch -v (Branch with last commit)
+git branch --merged (Show merged branches)
+git branch --no-merged(show unmerged branches)
+git branch -d <branch.name>(Delete the branch)
+git branch -D <Branch.name>(Delete unmerged Branch)
+git push origin bugfix:MyBugFix
+git push -d origin bugfix
+vi file.name(To add some changes)
+cat file.name(To see the content of file)
+git reset +hashkey (To delete above commits)
+git stash
+git stash pop
+git stash pop
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
