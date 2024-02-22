@@ -51,6 +51,7 @@
 - [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/)
 - [Camelcase Matching](https://leetcode.com/problems/camelcase-matching/)
 - [Print Words Vertically](https://leetcode.com/problems/print-words-vertically/)
+- [Removing Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)
 
 ## Hard
 
