@@ -89,6 +89,19 @@ public class Find {
 
         return list;
     }
+//     improved code. it only creates a new arraylist in a recursive call when there is index found with key.
+     public static ArrayList<Integer> searchAlt(int[] arr, int start, int key) {
+        if (start == arr.length) return new ArrayList<>();
+
+        if (arr[start] == key) {
+            ArrayList<Integer> al = new ArrayList<>();
+            al.add(start);
+            al.addAll(searchAlt(arr, ++start, key));
+            return al;
+        }
+        return searchAlt(arr, ++start, key);
+    }
+    
 
 
 }
