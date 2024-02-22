@@ -10,21 +10,26 @@
 
 5. [Define a method that returns the product of two numbers entered by user.](https://code4coding.com/java-program-to-multiply-two-numbers-using-method/)
 
-6. [Write a program to print the circumference and area of a circle of radius entered by user by defining your own method.](https://beginnersbook.com/2014/01/java-program-to-calculate-area-and-circumference-of-circle/)
+6. [Write a program to print the circumference and area of a circle, from the radius entered by user, defining your own method.](https://beginnersbook.com/2014/01/java-program-to-calculate-area-and-circumference-of-circle/)
 
 7. [Define a method to find out if a number is prime or not.](https://www.geeksforgeeks.org/java-program-to-check-if-a-number-is-prime-or-not/)
 
 8. [Write a program that will ask the user to enter his/her marks (out of 100). Define a method that will display grades according to the marks entered as below:](https://www.techcrashcourse.com/2017/02/java-program-to-calculate-grade-of-students.html) <br/>
-<pre> 
-Marks        Grade 
-91-100         AA 
-81-90          AB 
-71-80          BB 
-61-70          BC 
-51-60          CD 
-41-50          DD 
-<=40          Fail 
-</pre>
+
+<div align="center">
+  
+|Marks  | Grade|
+|:----: |:----:|
+|91-100 | AA   |
+|81-90  | AB   |
+|71-80  | BB   |
+|61-70  | BC   |
+|51-60  | CD   |
+|41-50  | DD   |
+|<=40   | Fail |   
+     
+</div>
+
 
 9. [Write a program to print the factorial of a number by defining a method named 'Factorial'.](https://www.javatpoint.com/factorial-program-in-java)
 Factorial of any number n is represented by n! and is equal to 1 * 2 * 3 * .... * (n-1) *n. E.g.- <br/>
