@@ -9,6 +9,8 @@ The state of an object is a value from its data type. The identity of an object 
 It is useful to think of an object’s identity as the place where its value is stored in memory.
 The behavior of an object is the effect of data-type operations.
 
+// arrays.tostring() {returns the elements present in the array as a string } 
+
 The dot operator links the name of the object with the name of an instance variable.
 Although commonly referred to as the dot operator, the formal specification for Java categorizes the . as a separator.
 The 'new' keyword dynamically allocates(that is, allocates at run time)memory for an object & returns a reference to it.
