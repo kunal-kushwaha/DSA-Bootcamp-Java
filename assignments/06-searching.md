@@ -10,7 +10,6 @@
 - [Square Root](https://leetcode.com/problems/sqrtx/)
 - [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
 - [First Bad Version](https://leetcode.com/problems/first-bad-version/)
-- [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 - [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
 - [Arranging Coins(Easy)](https://leetcode.com/problems/arranging-coins/)
 - [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
@@ -26,6 +25,7 @@
 - [Binary Search](https://leetcode.com/problems/binary-search/)
 
 ## Medium
+- [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 - [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 - [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
 - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
