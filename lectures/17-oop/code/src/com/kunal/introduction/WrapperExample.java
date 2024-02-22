@@ -30,6 +30,7 @@ public class WrapperExample {
 //        for (int i = 0; i < 1000000000; i++) {
 //            obj = new A("Random name");
 //        }
+        System.gc(); // Adding System.gc() will recommend the garbage collector to run even for a comparatively small number of unreferenced objects of class A
 
     }
 
