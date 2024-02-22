@@ -7,6 +7,14 @@ final Keyword:
 A field can be declared as final. Doing so prevents its contents from being modified, making it, essentially, a constant.
 This means that you must initialize a final field when it is declared.
 
+The final keyword can be used in many context:
+1.Variable  -> If you make any variable as final, you cannot change the value of final variable
+2.method    -> If you make any method as final, you cannot override it
+3.class     -> If you make any class as final, you cannot extend it
+
+
+
+
 It is a common coding convention to choose all uppercase identifiers for final fields:
      final int FILE_OPEN = 2;
 
