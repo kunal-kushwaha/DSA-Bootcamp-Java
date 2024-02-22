@@ -1,0 +1,407 @@
+1. Area Of Circle Java Program
+import java.util.Scanner;
+public class CircleArea {
+    public static void main(String[] args) {
+        double radius;
+        Scanner in = new Scanner(System.in);
+        System.out.println("Input the radius of circle: ");
+        radius =in.nextDouble();
+        in.close();
+        System.out.println("The area of circle is "+Math.PI*Math.pow(radius,2));
+    }
+}
+=====================================================================================
+2. Area Of Triangle
+import java.util.Scanner;
+public class AreaOfTriangle {
+    public static void main(String[] args) {
+        double base,high;
+        Scanner in = new Scanner(System.in);
+        System.out.println("Input the base and high of triangle : ");
+        base =in.nextDouble();
+        high =in.nextDouble();
+        in.close();
+        System.out.println("The area of triangle is "+ (high*base/2));
+    }
+}
+=========================================================================
+3. Area Of Rectangle Program
+import java.util.Scanner;
+public class AreaOfRectangle {
+    public static void main(String[] args) {
+        double length,width;
+        Scanner in = new Scanner(System.in);
+        System.out.println("Input the length and width of Rectangle : ");
+        length=in.nextDouble();
+        width=in.nextDouble();
+        in.close();
+        System.out.println("The area of triangle is "+ (length*width));
+    }
+}
+============================================================================
+4. Area Of Isosceles Triangle
+import java.util.Scanner;
+public class AreaOfIsoscelesTriangle {
+    public static void main(String[] args) {
+        double equalSides,base;
+        Scanner in = new Scanner(System.in);
+        System.out.println("Input the length of sides equal: ");
+        equalSides= in.nextDouble();
+        System.out.println("input the base: ");
+        base=in.nextDouble();
+        in.close();
+        double s=(2*equalSides+base)/2;
+        System.out.println("The area of Isosceles Triangle is : "+(s-equalSides)*Math.sqrt(s*(s-base)));
+    }
+}
+=======================================================================================
+5. Area Of Parallelogram
+import java.util.Scanner;
+public class AreaOfParallelogram {
+    public static void main(String[] args) {
+        double length,width;
+        Scanner in = new Scanner(System.in);
+        System.out.println("Input the length and width of Parallelogram: ");
+        length =in.nextDouble();
+        width =in.nextDouble();
+        in.close();
+        System.out.println("The area of Parallelogram is "+ (length*width));
+    }
+}
+===========================================================================================
+6. Area Of Rhombus
+import java.util.Scanner;
+public class AreaOfRhombus {
+    public static void main(String[] args) {
+        double d1,d2;
+        Scanner in = new Scanner(System.in);
+        System.out.println("Input the Diagonal 1 and Diagonal 2 : ");
+        d1 =in.nextDouble();
+        d2 =in.nextDouble();
+        in.close();
+        System.out.println("The area of triangle is "+ (d1*d2/2));
+    }
+}
+==========================================================================================
+7. Area Of Equilateral Triangle
+import java.util.Scanner;
+public class AreaOfEquilateralTriangle{
+    public static void main(String[] args) {
+        double length;
+        Scanner in = new Scanner(System.in);
+        System.out.println("Input the length : ");
+        length =in.nextDouble();
+        in.close();
+        System.out.println("The area of Isosceles Triangle is : "+(Math.pow(length,2)*Math.sqrt(3))/4);
+    }
+}
+========================================================================================================
+8. Perimeter Of Circle
+import java.util.Scanner;
+public class PerimeterOfCircle{
+    public static void main(String[] args) {
+        double radius;
+        Scanner in = new Scanner(System.in);
+        System.out.println("Input the radius: ");
+        radius=in.nextDouble();
+        in.close();
+        System.out.println("The Perimeter Of Circle is : "+(Math.PI)*2*radius);
+    }
+}
+=====================================================================================
+9. Perimeter Of Equilateral Triangle
+import java.util.Scanner;
+public class PerimeterOfEquilateralTriangle{
+    public static void main(String[] args) {
+        double length;
+        Scanner in = new Scanner(System.in);
+        System.out.println("Input the length : ");
+        length =in.nextDouble();
+        in.close();
+        System.out.println("The Perimeter Of Equilateral Triangle is : "+(3*length);
+    }
+}
+===========================================================================================
+10. Perimeter Of Parallelogram
+import java.util.Scanner;
+public class PerimeterOfParallelogram {
+    public static void main(String[] args) {
+        double length,width;
+        Scanner in = new Scanner(System.in);
+        System.out.println("Input the length and width of Parallelogram: ");
+        length =in.nextDouble();
+        width =in.nextDouble();
+        in.close();
+        System.out.println("The Perimeter Of Parallelogram is "+ (2(length+width)));
+    }
+}
+===========================================================================================
+11. Perimeter Of Rectangle
+import java.util.Scanner;
+public class PerimeterOfRectangle {
+    public static void main(String[] args) {
+        double length,width;
+        Scanner in = new Scanner(System.in);
+        System.out.println("Input the length and width of Rectangle: ");
+        length =in.nextDouble();
+        width =in.nextDouble();
+        in.close();
+        System.out.println("The Perimeter Of Rectangle is "+ (2(length+width)));
+    }
+}
+=============================================================================================
+12. Perimeter Of Square
+import java.util.Scanner;
+public class PerimeterOfSquare {
+    public static void main(String[] args) {
+        double length;
+        Scanner in = new Scanner(System.in);
+        System.out.println("Input the length of Square");
+        length =in.nextDouble();
+        in.close();
+        System.out.println("The Perimeter Of Square is "+ (4length));
+    }
+}
+==================================================================================================
+13. Perimeter Of Rhombus
+import java.util.Scanner;
+public class PerimeterOfRhombus {
+    public static void main(String[] args) {
+        double length;
+        Scanner in = new Scanner(System.in);
+        System.out.println("Input the length of Rhombus");
+        length =in.nextDouble();
+        in.close();
+        System.out.println("The Perimeter Of Rhombus is "+ (4length));
+    }
+}
+
+=====================================================================================================
+14. Volume Of Cone Java Program
+import java.util.Scanner;
+public class VolumeOfCone{
+    public static void main(String[] args) {
+        double radius,high;
+        Scanner in = new Scanner(System.in);
+        System.out.println("Input the radius: ");
+        radius=in.nextDouble();
+	System.out.println("Input the high: ");
+        high=in.nextDouble();
+        in.close();
+        System.out.println("The Volume Of Cone is : "+((Math.PI)*Math.pow(radius,2)*high)/3);
+    }
+}
+================================================================================================
+15. Volume Of Prism
+import java.util.Scanner;
+public class VolumeOfPrismRectangleAndTriangle{
+    public static void main(String[] args) {
+        double length,high,width;
+	String shape;
+        Scanner in = new Scanner(System.in);
+	System.out.println("Input the shape you want count R for Rectangle or T for triangle: ");
+	shape=in.next();
+	if(shape.equals("R")){
+	System.out.println("Input the length: ");
+        length=in.nextDouble();
+	System.out.println("Input the high: ");
+        high=in.nextDouble();
+	System.out.println("Input the width");
+        width=in.nextDouble();
+	System.out.println("The  Volume Of Rectangle Prism is: "+(high*width*length));
+	}
+	else if(shape.equals("T")){
+	System.out.println("Input the length: ");
+        length=in.nextDouble();
+	System.out.println("Input the high: ");
+        high=in.nextDouble();
+	System.out.println("Input the width");
+        width=in.nextDouble();
+	System.out.println("The  Volume Of Rectangle Prism is: "+(high*width*length)/2);
+	}
+	else
+	System.out.println("You enter wrong Shape R for Rectangle T for triangle");
+        in.close();
+    }
+}
+=========================================================================================
+16. Volume Of Cylinder
+import java.util.Scanner;
+public class VolumeOfCylinder{
+    public static void main(String[] args) {
+        double radius,high;
+        Scanner in = new Scanner(System.in);
+        System.out.println("Input the radius: ");
+        radius=in.nextDouble();
+	System.out.println("Input the high: ");
+        high=in.nextDouble();
+        in.close();
+        System.out.println("The Volume Of Cylinder is : "+((Math.PI)*Math.pow(radius,2)*high));
+    }
+}
+==============================================================================================================
+17. Volume Of Sphere
+import java.util.Scanner;
+public class VolumeOfSphere {
+    public static void main(String[] args) {
+        double radius;
+        Scanner in = new Scanner(System.in);
+        System.out.println("Input the radius of Sphere: ");
+        radius =in.nextDouble();
+        in.close();
+        System.out.println("The Volume Of Sphere is "+4*(Math.PI*Math.pow(radius,3)/3));
+    }
+}
+=============================================================================================
+18. Volume Of Pyramid
+import java.util.Scanner;
+public class VolumeOfPyramid{
+    public static void main(String[] args) {
+        double length,high,width;
+        Scanner in = new Scanner(System.in);
+	System.out.println("Input the length: ");
+        length=in.nextDouble();
+	System.out.println("Input the high: ");
+        high=in.nextDouble();
+	System.out.println("Input the width");
+        width=in.nextDouble();
+	System.out.println("The  Volume Of Pyramid is: "+(high*width*length)/3);
+        in.close();
+    }
+}
+=============================================================================================================
+19. Curved Surface Area Of Cylinder
+import java.util.Scanner;
+public class CurvedSurfaceAreaOfCylinder{
+    public static void main(String[] args) {
+        double radius,high;
+        Scanner in = new Scanner(System.in);
+        System.out.println("Input the radius: ");
+        radius=in.nextDouble();
+	System.out.println("Input the high: ");
+        high=in.nextDouble();
+        in.close();
+        System.out.println("The Curved Surface Area Of Cylinder is : "+(Math.PI*radius*2*high));
+    }
+}
+=============================================================================================================================
+20. Total Surface Area Of Cube
+import java.util.Scanner;
+public class SurfaceAreaOfCube {
+    public static void main(String[] args) {
+        double length,width;
+        Scanner in = new Scanner(System.in);
+        System.out.println("Input the length and width of Rectangle : ");
+        length=in.nextDouble();
+        width=in.nextDouble();
+        in.close();
+        System.out.println("The area of triangle is "+ (6*length*width));
+    }
+}
+=====================================================================================================================================
+21. Fibonacci Series In Java Programs
+import java.util.Scanner;
+public class FibonaicceSeries {
+    public static void main(String[] args) {
+        int number;
+        Scanner in = new Scanner(System.in);
+        System.out.println("Enter number to print fibonaicce series");
+        number = in.nextInt();
+        for(int i=1;i<=number;i++)
+		System.out.println((int) ((Math.pow((1+Math.sqrt(5)),i) - Math.pow((1-Math.sqrt(5)),i))/(Math.pow(2,i)*Math.sqrt(5))));
+        in.close();
+    }
+}
+=================================================================================================================================================
+22. [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
+mport java.util.Scanner;
+public class SubtractTheProductAndSumOfDigits {
+    public static void main(String[] args) {
+        int num,sum=0,prd=1;
+        Scanner in = new Scanner(System.in);
+        System.out.println("Input number");
+        num= in.nextInt();
+        while (true){
+            if(num>0){
+                sum=sum+(num%10);
+                prd=prd*(num%10);
+                num=num/10;
+            }else
+                break;
+        }
+        System.out.println("The SubtractProduct And Sum Of Digits numbers is "+(prd-sum));
+        in.close();
+    }
+}
+=============================================================================================================================================================
+23. Input a number and print all the factors of that number (use loops).
+import java.util.Scanner;
+public class FactorsOfNumber {
+    public static void main(String[] args) {
+        int num;
+        Scanner in = new Scanner(System.in);
+        System.out.println("Input any number");
+        num= in.nextInt();
+        for(int i=1;i<=num;i++)
+            if(num%i==0)
+                System.out.println(i);
+    }
+}
+====================================================================================================================
+24. Take integer inputs till the user enters 0 and print the sum of all numbers
+(HINT: while loop)
+import java.util.Scanner;
+
+public class Sumnum {
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        int sum=0;
+        System.out.println("Enter number to sum and for exit press 0");
+
+        while(true){
+            int number =in.nextInt();
+            if(number==0)
+                break;
+            else
+                sum=sum+number;
+        }
+        System.out.println(sum);
+        in.close();
+    }
+}
+=================================================================================================
+25. Take integer inputs till the user enters 0 and print the largest number from
+all.
+import java.util.Scanner;
+
+public class SumInputsNumber {
+        public static void main(String[] args) {
+            Scanner in = new Scanner(System.in);
+            int largest=0;
+            System.out.println("Enter number to sum and for exit press 0");
+
+            while(true){
+                int number =in.nextInt();
+                if(number==0)
+                    break;
+                if(number>largest)
+                    largest=number;
+            }
+            System.out.println(largest);
+            in.close();
+        }
+}
+==================================================================================================
+26. Addition Of Two Numbers
+import java.util.Scanner;
+public class SumOfTwoNumbers{
+	public static void main(String[] args){
+		int num1,num2;
+		Scanner in = new Scanner(System.in);
+		System.out.println("Enter two numbers");
+		num1 = in.nextInt();
+		num2 = in.nextInt();
+		System.out.println("the sum is "+ (num1+num2));
+		in.close();
+}
+}
