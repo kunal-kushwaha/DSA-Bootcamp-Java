@@ -18,18 +18,17 @@ public class SubSeq {
         subseq(p, up.substring(1));
     }
 
+    static ArrayList<String> ans = new ArrayList<>();
     static ArrayList<String> subseqRet(String p, String up) {
         if (up.isEmpty()) {
-            ArrayList<String> list = new ArrayList<>();
-            list.add(p);
-            return list;
+            ans.add(p);
+            return null;
         }
-        char ch = up.charAt(0);
-        ArrayList<String> left = subseqRet(p + ch, up.substring(1));
-        ArrayList<String> right = subseqRet(p, up.substring(1));
 
-        left.addAll(right);
-        return left;
+        char ch = up.charAt(0);
+        subSeqList(p + ch, up.substring(1));
+        subSeqList(p, up.substring(1));
+        return ans;
     }
 
     static void subseqAscii(String p, String up) {
