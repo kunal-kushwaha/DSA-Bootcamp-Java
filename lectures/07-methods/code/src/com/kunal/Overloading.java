@@ -25,4 +25,7 @@ public class Overloading {
         System.out.println("Second one");
         System.out.println(name);
     }
+    static void fun(){
+        System.out.println("kjkk");
+    }
 }
