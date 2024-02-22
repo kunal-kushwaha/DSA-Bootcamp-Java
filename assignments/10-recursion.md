@@ -72,6 +72,7 @@
 - [Tug of war](https://www.geeksforgeeks.org/tug-of-war/) `GFG` `Adobe`
 - [Rat in a maze](https://www.geeksforgeeks.org/rat-in-a-maze-backtracking-2/) `GFG`
 - [Reorder List](https://leetcode.com/problems/reorder-list/) `leetcode`
+- [Check Knight Tour Configuration](https://leetcode.com/problems/check-knight-tour-configuration/) `leetcode`
 
 ## Hard
 - [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) `leetcode`
@@ -91,5 +92,5 @@
 - [M colorning problem](https://www.geeksforgeeks.org/m-coloring-problem-backtracking-5/) `GFG`
 - [The Knight's tour](https://www.geeksforgeeks.org/the-knights-tour-problem-backtracking-1/) `GFG`
 - [Maximum number possible by doing at-most K swaps](https://www.geeksforgeeks.org/find-maximum-number-possible-by-doing-at-most-k-swaps/) `GFG`
-- [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion&filters%5Bdifficulty%5D%5B%5D=hard)
+- [HackerRank Hard Recursion Questions](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion&filters%5Bdifficulty%5D%5B%5D=hard) `HackerRank`
 - [Concatenated Words](https://leetcode.com/problems/concatenated-words/)`leetcode`
