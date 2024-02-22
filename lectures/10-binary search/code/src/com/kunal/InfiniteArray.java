@@ -4,7 +4,7 @@ public class InfiniteArray {
     public static void main(String[] args) {
         int[] arr = {3, 5, 7, 9, 10, 90,
                 100, 130, 140, 160, 170};
-        int target = 10;
+        int target = 100;
         System.out.println(ans(arr, target));
     }
     static int ans(int[] arr, int target) {
@@ -19,6 +19,9 @@ public class InfiniteArray {
             // double the box value
             // end = previous end + sizeofbox*2
             end = end + (end - start + 1) * 2;
+            if (end> arr.length-1){
+                end = arr.length-1;
+            }
             start = temp;
         }
         return binarySearch(arr, target, start, end);
