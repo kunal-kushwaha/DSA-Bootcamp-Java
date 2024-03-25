@@ -26,8 +26,8 @@ class PreIn {
       return node;
     }
 
-    node.left = helper(preOrder, inOrder, left, index - 1, map, index);
-    node.right = helper(preOrder, inOrder, index + 1, right, map, index);
+    node.left = helper(preOrder, inOrder, left, index[0]- 1, map, index);
+    node.right = helper(preOrder, inOrder, index[0] + 1, right, map, index);
 
     return node;
   }
