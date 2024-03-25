@@ -25,9 +25,14 @@ class PreIn {
     if (left == right) {
       return node;
     }
+    int inOrderIndex=0;
+    if(map.containsKey(r)){
+        inOrderIndex=map.get(r);
+     }
+    
 
-    node.left = helper(preOrder, inOrder, left, index - 1, map, index);
-    node.right = helper(preOrder, inOrder, index + 1, right, map, index);
+    node.left = helper(preOrder, inOrder, left, inOrderIndex- 1, map, index);
+    node.right = helper(preOrder, inOrder, inOrderIndex + 1, right, map, index);
 
     return node;
   }
