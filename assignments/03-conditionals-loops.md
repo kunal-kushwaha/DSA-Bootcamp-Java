@@ -16,7 +16,7 @@
 12. Perimeter Of Square
 13. Perimeter Of Rhombus
 14. Volume Of Cone Java Program
-15. Volume Of Prism
+15. Volume Of Triangluar Prism
 16. Volume Of Cylinder
 17. Volume Of Sphere
 18. Volume Of Pyramid
