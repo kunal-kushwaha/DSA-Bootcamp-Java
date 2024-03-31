@@ -9,7 +9,11 @@ public class FindUnique {
     private static int ans(int[] arr) {
         int unique = 0;
 
-        for(int n : arr) {
+        for (int n : arr)
+        //for (int i = 0; i < arr.length; i++) {
+            //    int n = arr[i];
+            //    // Code block to be executed for each element in the array 'arr'
+            {
             unique ^= n;
         }
 
