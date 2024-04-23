@@ -37,6 +37,8 @@
         - [Selection Sort](https://youtu.be/Nd4SCCIHFWk)
         - [Bubble Sort](https://youtu.be/F5MZyqRp_IM)
         - [Cyclic Sort](https://youtu.be/JfinxytTYFQ)
+        - [Count Sort](https://youtu.be/FOo820lJV1Y)
+        - [Radix Sort](https://youtu.be/mLi6VQDqAOs)
 - [Pattern questions](https://youtu.be/lsOOs5J8ycw)
 - [Strings](https://www.youtube.com/watch?v=zL1DPZ0Ovlo)
     - [Introduction](https://www.youtube.com/watch?v=zL1DPZ0Ovlo)
@@ -140,26 +142,25 @@
     - [Segment Tree](https://www.youtube.com/watch?v=ciHThtTVNto)
     - Fenwick Tree / Binary Indexed Tree
 - Heaps
-    - Introduction
-    - Theory
-    - Priority Queue
-    - Heapsort
+    - [Introduction](https://youtu.be/Qf-TDPr0nYw)
+        - Theory
+        - Priority Queue
+        - Heapsort
     - Two Heaps Method
     - k-way merge
     - Top k elements
     - Interval problems
 - HashMap
-    - Introduction
-    - Theory - how it works
-    - Comparisons of various forms
-    - Limitations and how to solve
-    - Map using LinkedList
-    - Map using Hash
-    - Count Sort
-    - Radix Sort
-    - Chaining
-    - Probing
-    - Huffman-Encoder
+    - [Introduction](https://youtu.be/XLbvmMz8Fr8)
+        - Theory - how it works
+        - Comparisons of various forms
+        - Limitations and how to solve
+        - Map using LinkedList
+        - Map using Hash
+        - Chaining
+        - Probing
+    - [Huffman Coding](https://youtu.be/XLfgeaYHinM)
+    - [Karp-Rabin Strng matching algorithm](https://youtu.be/swciWFPq3NE)
 - Subarray Questions: Sliding window, Two Pointer, Kadane's Algorithm
 - Graphs
     - Introduction
