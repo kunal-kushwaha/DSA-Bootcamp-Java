@@ -1,10 +1,9 @@
 There are many format specifiers we can use. Here are some common ones:
 
 %c - Character
-%d - Decimal number (base 10)
+%d - Integer number(base 10)
 %e - Exponential floating-point number
-%f - Floating-point number
-%i - Integer (base 10)
+%f - Decimal number(float and double) (base 10)
 %o - Octal number (base 8)
 %s - String
 %u - Unsigned decimal (integer) number
