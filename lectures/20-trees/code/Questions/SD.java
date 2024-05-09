@@ -23,7 +23,7 @@ class SD {
     Node node = helper2(list);
     return node;
   }
-  Node helper(List<String> list) {
+  Node helper2(List<String> list) {
     String val = list.remove(list.size() - 1);
 
     if (val.charAt(0) == 'n') {
