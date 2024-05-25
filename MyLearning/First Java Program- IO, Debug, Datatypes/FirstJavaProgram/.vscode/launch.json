@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "TypeCasting2",
+            "request": "launch",
+            "mainClass": "com.ajit.TypeCasting2",
+            "projectName": "FirstJavaProgram_bbb8df63"
+        },
+        {
+            "type": "java",
+            "name": "TypeCasting",
+            "request": "launch",
+            "mainClass": "com.ajit.TypeCasting",
+            "projectName": "FirstJavaProgram_bbb8df63"
+        },
+        {
+            "type": "java",
+            "name": "sumOfTwoNumbers",
+            "request": "launch",
+            "mainClass": "com.ajit.sumOfTwoNumbers",
+            "projectName": "FirstJavaProgram_bbb8df63"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "com.ajit.Hello",
+            "projectName": "FirstJavaProgram_bbb8df63"
+        },
+        {
+            "type": "java",
+            "name": "Inputs",
+            "request": "launch",
+            "mainClass": "com.ajit.Inputs",
+            "projectName": "FirstJavaProgram_bbb8df63"
+        },
+        {
+            "type": "java",
+            "name": "Primitives",
+            "request": "launch",
+            "mainClass": "com.ajit.Primitives",
+            "projectName": "FirstJavaProgram_bbb8df63"
+        }
+    ]
+}
