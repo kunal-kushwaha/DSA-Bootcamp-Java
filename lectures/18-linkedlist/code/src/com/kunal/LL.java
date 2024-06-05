@@ -1,5 +1,5 @@
 package com.kunal;
-
+// hi sir in insert method you wrote for pos==0 we have to call the insert first method(it indicates the indexing starts from zero), sir but in the pos==size case there is a small mistake sir, if we name the index from zero then we haveto write pos==size-1; let us consider there is only 1 element and say somebody want to call insert method to insert in postion 1(that means he meant at last postion according to your code size is 2 and pos =1;then pos==size will return false and then there will be some ambiguity 
 public class LL {
 
     private Node head;
