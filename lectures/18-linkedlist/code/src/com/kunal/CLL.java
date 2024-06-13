@@ -43,8 +43,10 @@ public class CLL {
         }
 
         if (head == tail){
-            head = null;
-            tail = null;
+	    	if(head.val==val){
+            	head = null;
+            	tail = null;
+	    	}
             return;
         }
 
