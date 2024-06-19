@@ -203,3 +203,7 @@
 - NP-Completeness
 - Multithreading
 - Square Root Decomposition
+
+"iam adding nothing content but to practice it"
+"paractice makes the imperfect perfect"
+
