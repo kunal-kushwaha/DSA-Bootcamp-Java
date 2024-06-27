@@ -6,8 +6,11 @@ public class Main {
 
     public static void main(String[] args) {
         int[] arr = {5, 3, 4, 1, 2};
-        insertion(arr);
+//        insertion(arr);
+        selection_new_method(arr);
+
         System.out.println(Arrays.toString(arr));
+
     }
 
     static void insertion(int[] arr) {
@@ -68,5 +71,23 @@ public class Main {
                 break;
             }
         }
+    }
+
+    public static void selection_new_method(int [] nums){
+
+        for(int i = 0; i < array.length - 1; i++) {
+            int min = i;
+            for(int j = i + 1; j < array.length; j++) {
+                if(array[min] > array[j]) {
+                    min = j;
+                }
+            }
+
+            int temp = array[i];
+            array[i] = array[min];
+            array[min] = temp;
+        }
+
+    }
     }
 }
