@@ -15,11 +15,8 @@ public class InfiniteArray {
 
         // condition for the target to lie in the range
         while (target > arr[end]) {
-            int temp = end + 1; // this is my new start
-            // double the box value
-            // end = previous end + sizeofbox*2
-            end = end + (end - start + 1) * 2;
-            start = temp;
+          start =  end + 1 ; 
+          end = end * 2 ; 
         }
         return binarySearch(arr, target, start, end);
 
