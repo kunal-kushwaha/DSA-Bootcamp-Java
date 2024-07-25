@@ -1,3 +1,4 @@
+added comments
 # DSA + Interview preparation bootcamp
 - [Join Replit](http://join.replit.com/kunal-kushwaha)
 - Subscribe to the [YouTube channel](https://www.youtube.com/KunalKushwaha?sub_confirmation=1)
