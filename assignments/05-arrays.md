@@ -21,16 +21,17 @@
 16. [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
 17. [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
 18. [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
-19. [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)
-20. [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)
-21. [Two Sum](https://leetcode.com/problems/two-sum/)
-22. [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
-23. [Lucky Number In a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)
-24. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
-25. [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
-26. [Plus One](https://leetcode.com/problems/plus-one/)
-27. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
-28. [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)
+19. [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)  repeat
+    
+21. [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)
+22. [Two Sum](https://leetcode.com/problems/two-sum/)
+23. [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
+24. [Lucky Number In a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)
+25. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+26. [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
+27. [Plus One](https://leetcode.com/problems/plus-one/)
+28. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+29. [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)
 
 ### Medium
 1. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
