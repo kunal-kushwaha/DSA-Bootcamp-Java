@@ -79,7 +79,7 @@ class PathSum {
     int s = 0;
     // how many paths I can make
     ListIterator<Integer> itr = path.listIterator(path.size());
-    while (itr.hashPrevious()) {
+    while (itr.hasPrevious()) {
       s += itr.previous();
 
       if (s == sum) {
