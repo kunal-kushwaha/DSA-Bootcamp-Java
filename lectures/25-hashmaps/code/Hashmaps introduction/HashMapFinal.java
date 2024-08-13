@@ -9,7 +9,7 @@ public class HashMapFinal<K, V> {
 
   public HashMapFinal() {
     list = new ArrayList<>();
-    for(int i=0; i < 10; i++) {
+    for (int i = 0; i < 10; i++) {
       list.add(new LinkedList<>());
     }
   }
@@ -20,19 +20,20 @@ public class HashMapFinal<K, V> {
     LinkedList<Entity> entities = list.get(hash);
 
     for (Entity entity : entities) {
-      if(entity.key.equals(key)) {
+      if (entity.key.equals(key)) {
         entity.value = value;
         return;
       }
     }
 
-    if((float)(size) / list.size() > lf) {
-      reHash();
-    }
-    
     entities.add(new Entity(key, value));
 
     size++;
+
+    if ((float) (size) / list.size() > lf) {
+      reHash();
+    }
+
   }
 
   private void reHash() {
@@ -43,12 +44,12 @@ public class HashMapFinal<K, V> {
 
     size = 0;
 
-    for(int i=0; i<old.size() * 2; i++) {
+    for (int i = 0; i < old.size() * 2; i++) {
       list.add(new LinkedList<>());
     }
 
-    for(LinkedList<Entity> entries :old) {
-      for(Entity entry : entries) {
+    for (LinkedList<Entity> entries : old) {
+      for (Entity entry : entries) {
         put(entry.key, entry.value);
       }
     }
@@ -57,8 +58,8 @@ public class HashMapFinal<K, V> {
   public V get(K key) {
     int hash = Math.abs(key.hashCode() % list.size());
     LinkedList<Entity> entities = list.get(hash);
-    for(Entity entity : entities) {
-      if(entity.key.equals(key)) {
+    for (Entity entity : entities) {
+      if (entity.key.equals(key)) {
         return entity.value;
       }
     }
@@ -70,9 +71,9 @@ public class HashMapFinal<K, V> {
     LinkedList<Entity> entities = list.get(hash);
 
     Entity target = null;
-    
-    for(Entity entity : entities) {
-      if(entity.key.equals(key)) {
+
+    for (Entity entity : entities) {
+      if (entity.key.equals(key)) {
         target = entity;
         break;
       }
@@ -87,21 +88,21 @@ public class HashMapFinal<K, V> {
   }
 
   @Override
-    public String toString() {
-      StringBuilder builder = new StringBuilder();
-        builder.append("{");
-      for(LinkedList<Entity> entities : list) {
-        for(Entity entity : entities) {
-          builder.append(entity.key);
-          builder.append(" = ");
-          builder.append(entity.value);
-          builder.append(" , ");
-        }
+  public String toString() {
+    StringBuilder builder = new StringBuilder();
+    builder.append("{");
+    for (LinkedList<Entity> entities : list) {
+      for (Entity entity : entities) {
+        builder.append(entity.key);
+        builder.append(" = ");
+        builder.append(entity.value);
+        builder.append(" , ");
       }
-      builder.append("}");
-
-      return builder.toString();
     }
+    builder.append("}");
+
+    return builder.toString();
+  }
 
   private class Entity {
     K key;
@@ -113,7 +114,4 @@ public class HashMapFinal<K, V> {
     }
   }
 
-  
 }
-
-
