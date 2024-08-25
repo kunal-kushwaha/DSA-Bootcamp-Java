@@ -1,0 +1,79 @@
+OOPs - 2
+
+static in Java
+
+static in java in linked directly to a class and not its instances/objects. 
+e.g., Human class will have age, name etc as non-static because that will be different for every person, but if we want to include population count in that class, it should be the static because its count shall increase with new objects - 
+
+public class Human{
+	int age;
+	String name;
+	static int population;
+
+	public Human(int age, String name){		//constructor of the class
+		this.age = age;
+		this.name = name;
+		Human.population += 1;		//population is now linked to the class Human instead of the object
+	}
+}
+
+Human prithvi = new Human(24, ”Prithvi”); 		//when we create this object, the population variable is incremented from 0 to 1
+Human aman = new Human(29, “Aman”); 		//when we create this object, the population variable is incremented from 1 to 2
+System.out.println(Human.population);			//this will have output of 2 
+
+Main function is always static, because it is the first thing that runs when we run a program, and if it is static, it will not require an object of that class in order to run.
+Note: main method is static, since it must be accessible for an application to run, before any instantiation takes place.
+Non-static members cannot be called without referencing (creating an object) inside a static function. But the opposite is possible. A static member can be called inside a non-static member.
+
+this keyword can not be used within a static function inside a class. Because ‘this’ references to an object created for the class, and a static function should not contain anything non-static inside it.
+
+Static block {}
+
+The static block is used to initialise static variables inside a class. The static block is run only once, when the first object is created for that class.
+
+public class StaticBlock {
+	static int a = 5;
+	static int b;
+	static {
+		b = a*5;
+	}
+	psvm(String args[]){
+			Staticblock obj = new StaticBlock();		//this is where the static block of the class is run and the variable b is initialised.
+			sout(Staticblock.a + “ “ + Staticblock.b);		//Output will be 4 20, 
+													//Staticblock.a is used instead of obj.a because static members belong to the class and not objects :-)
+			
+			Staticblock.b += 3;		//now the value of b is 23
+			
+			Staticblock obj2 = new StaticBlock();
+			sout(Staticblock.a + “ “ + Staticblock.b);		//Output will be 4 23, because static block is run only once when the first object obj was created
+		}
+
+}
+
+# objects are created during runtime, but static things do not depend on object of the class. So they are resolved during compile time.
+
+Singleton class -  a class that can have only one object/instance at a time.
+
+public class Singleton {  
+    private Singleton() {
+		//private constructor to ensure that instance cannot be created outside the class
+	}
+    private static final Singleton instance;  		//instance is being declared here, not defined
+    public static Singleton getInstance() { 
+		if (instance == null){
+		instance 	= new Singleton();
+		} 
+        return instance;  
+    }  
+}
+
+Now, if getInstance is called -
+
+Singleton obj1 = Singleton.getInstance();
+Singleton obj2 = Singleton.getInstance();
+Singleton obj3 = Singleton.getInstance();
+Here all the objects will point to a single object only. 3 separate objects won’t be created.
+
+
+
+#DSA

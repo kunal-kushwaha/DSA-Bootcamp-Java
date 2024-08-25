@@ -1,0 +1,76 @@
+OOPs - 1
+
+Class - group of properties and functions
+Object - instance of a class
+
+new operator - dynamic memory allocation, cannot be used with primitive data type like int, char etc
+
+
+Constructors - similar to methods but with no return type(return type is the class itself, as it creates an object of the type class). It is called when an object of the class is being created and memory is then being allocated.
+If a constructor is not explicitly written inside a class, the default constructor is called in JAVA, which assigns every variables in the class as 0 or null.
+this keyword - points to the current instance (object) of the class.
+Student(int roll, String name, float marks){ //constructor of the Student class with parameters
+	this.roll = roll;
+	this.name = name;
+	this.marks = marks;
+}
+Now if we create 
+Student stud1 = new Student(7,””,85.3f);
+So this keyword in the above case would point to the object stud1.
+
+Calling one constructor from another in a class.
+
+Student (Student other){
+	this.roll = other.roll;
+	this.name = other.name;
+	this.marks = other.marks;
+}
+Now we can create something like
+Student stud1 = new Student(7,””,85.3f);
+Student stud2 = new Student(stud1);
+This is an example of Copy Constructor.
+A copy constructor creates a new object that is a copy of an existing object. Each object has its own memory space, and changes to one object do not affect the other.
+
+If we would have done stud2 = stud1 instead, then both stud2 and stud1 refer to the same object in memory. This means any changes made to the object through stud1 will be reflected when accessing it through stud2, and vice versa. Essentially, stud2 is just another reference to the same object.
+
+
+Wrapper class - converting (or treating) primitive data type as objects.
+int abc = 10; //here abc is of a primitive data type
+Integer abc = new Integer(10); // here abc acts as an object of the Integer class. Integer is the wrapper class here.
+Wrapper classes provide a way to use primitive data types (int, boolean, etc..) as objects.
+
+
+Java uses Pass by Value only. There is no pass by reference in Java.
+So,
+int a = 10;
+Int b = 20;
+Now if we write a function to swap a and b and then pass it via reference, i.e. 
+swap(a,b);
+It will not swap, because we are passing the reference (i.e. a and b are reference to the locations).
+
+If we try to do the same, but with Integer class and then passing the objects a and b, it won’t work because Integer class is of type final.
+
+final keyword - used to prevent changes or modify (only in case of primitive data type).
+
+final int bonus = 2;
+bonus = 3; 	// this will give an error   
+final variables need to be initialised while declaring itself.
+
+But if we are creating a final object of a class e.g.,
+final Student s1 = new Student(“Prithviraj”);
+Student s2 = new Student(“Aman”);
+s1.name = “Aman”; 	//this is allowed because s1.name is of the type Student, which is non-primitive.
+However, due to the final keyword here, we can not reassign like - 
+s1 = s2;		//not allowed, s1 will point to the object and it is fixed, non-primitive can not be reassigned due to final keyword.  
+
+Garbage collectors - we do not have destructors in Java separately as in C++. Java frees memory by itself when it feels required, we cannot control that.
+However, we can ask Java to do something when that destructor (inbuilt) is called using finalize method.
+e.g. -
+@Override
+protected void finalize() throws Throwable {
+    System.out.println("object is being deleted");
+}
+—end—
+
+
+#DSA 
