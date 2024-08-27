@@ -99,12 +99,12 @@ class PathSum {
   List<List<Integer>> findPaths(Node node, int sum) {
     List<List<Integer>> paths = new ArrayList<>();
     List<Integer> path = new ArrayList<>();
-    helper(node, sum, path);
+    helper(node, sum, path, paths);
     return paths;
   }
   void helper(Node node, int sum, List<Integer> path, List<List<Integer>> paths) {
     if(node == null) {
-      return 0;
+      return;
     }
 
     path.add(node.val);
