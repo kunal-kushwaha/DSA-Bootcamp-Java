@@ -14,12 +14,25 @@ public class InfiniteArray {
         int end = 1;
 
         // condition for the target to lie in the range
-        while (target > arr[end]) {
-            int temp = end + 1; // this is my new start
-            // double the box value
-            // end = previous end + sizeofbox*2
-            end = end + (end - start + 1) * 2;
-            start = temp;
+        try {
+            while(target > arr[end]){ // finding the range where the element 
+                //lies by reducing the array into chunks
+                //(finding that chunk which has the answer)
+                int newStart = end + 1;
+                end = end + (end - start + 1)*2;
+                start = newStart;
+            }
+        } catch (Exception e) {
+            //exception may occour when value of end surpasses arr.length.
+            //in that case we'll move the end index by 1.
+            try {
+                end = start + 1;
+                while(target > arr[end]){
+                    end++;
+                } 
+            } catch (Exception g) {
+                return -1;// when the target element is larger than the largest element.
+            }
         }
         return binarySearch(arr, target, start, end);
 
