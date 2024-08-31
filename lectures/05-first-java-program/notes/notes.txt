@@ -1,0 +1,30 @@
+Terminal: echo $PATH	# This is where it looks for the applications that we want to open.
+
+Class name always starts with a capital letter.
+
+To understand code and see control flow, debug the code after putting breakpoint.
+We can also change the values in debugger window to see what will happen at a particular value.
+
+Input:
+class Scanner to scan something i.e. Input something
+
+command & click on class name to open class file. ex: cmd & click on 'Scanner'
+
+javac -d . cmd.java
+The -d switch specifies the destination where to put the generated class file.
+
+OBJECT CLASS :
+Object class is present in java.lang package.Every class in Java is directly or indirectly derived from the Object class.
+If a Class does not extend any other class then it is direct child class of Object and if extends other class then it is
+an indirectly derived. Therefore the Object class methods are available to all Java classes. Hence Object class acts as
+a root of inheritance hierarchy in any Java Program.
+
+There are methods in Object class:
+toString(), hashCode(), equals(Object obj), getClass(), finalize(), clone(), etc.
+
+NUMBER CLASS :
+Most of the time, while working with numbers in java, we use primitive data types. But, Java also provides various
+numeric wrapper sub classes under the abstract class Number present in java.lang package.There are mainly six subclasses
+under Number class.These sub-classes define some useful methods which are used frequently while dealing with numbers.
+Byte, Integer, Double, Short, Float, Long
+NOTE : Primitive Wrapper Classes are Immutable in Java.
