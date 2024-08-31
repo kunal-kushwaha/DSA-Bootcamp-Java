@@ -10,7 +10,7 @@ class Main {
 
     int block_id = -1;
     
-    int[] blocks = new int[sqrt + 1];
+    int[] blocks = new int[(n/sqrt) + 1];
 
     for(int i = 0; i < n; i++) {
       // new block is starting
