@@ -13,6 +13,7 @@ It is a common coding convention to choose all uppercase identifiers for final f
 Unfortunately, final guarantees immutability only when instance variables are primitive types, not reference types.
 If an instance variable of a reference type has the final modifier, the value of that instance variable (the reference
 to an object) will never change—it will always refer to the same object—but the value of the object itself can change.
+Basically it means that we cannot reassign it.
 
 The finalize( ) Method:
 Sometimes an object will need to perform some action when it is destroyed.
