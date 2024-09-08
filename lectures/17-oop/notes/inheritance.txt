@@ -6,6 +6,8 @@ You can only specify one superclass for any subclass that you create. Java does 
 multiple superclasses into a single subclass. You can, as stated, create a hierarchy of inheritance in which a subclass
 becomes a superclass of another subclass. However, no class can be a superclass of itself.
 
+NOTE: Every base class in java is the subclass of Object Class i.e. Object class is the superclass of the base class in java.
+
 Although a subclass includes all of the members of its superclass, it cannot access those members of the superclass
 that have been declared as private.
 
