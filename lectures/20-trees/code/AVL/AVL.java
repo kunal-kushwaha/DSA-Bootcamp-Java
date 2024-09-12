@@ -84,30 +84,58 @@ class AVL {
   }
 
   public Node rightRotate(Node p) {
-    Node c = p.left;
-    Node t = c.right;
+        Node c = p.left;
+        p.left = c.right;
+        c.right = p;
 
-    c.right = p;
-    p.left = t;
-    
-    p.height = Math.max(height(p.left), height(p.right) + 1);
-    c.height = Math.max(height(c.left), height(c.right) + 1);
+        // OR
 
-    return c;
-  }
+        // Node c = p.left;
+        // Node t = c.right;
+        // c.right = p;
+        // p.left = t;
 
-  public Node leftRotate(Node c) {
-    Node p = c.right;
-    Node t = p.left;
+        p.height = Math.max(height(p.left), height(p.right) + 1);
+        c.height = Math.max(height(c.left), height(c.right) + 1);
 
-    p.left = c;
-    c.right = t;
-    
-    p.height = Math.max(height(p.left), height(p.right) + 1);
-    c.height = Math.max(height(c.left), height(c.right) + 1);
+        return c;
+    }
 
-    return p;
-  }
+    // USE ANY OF THE ONE BELOW METHOD FOR LEFTROTATE;
+
+    // I have assumed the original case as always that the parent will be above the child (as it should be) and then after rotation parent goes down so update the height of the parent first;
+    public Node leftRotate(Node p) {
+        Node c = p.right;
+        p.right = c.left;
+        c.left = p;
+
+        // OR
+        
+        // Node c = p.right;
+        // Node t = c.left;
+        // c.left = p;
+        // p.right = t;
+
+        p.height = Math.max(height(p.left), height(p.right) + 1);
+        c.height = Math.max(height(c.left), height(c.right) + 1);
+
+        return c;
+    }
+  
+// (In the lecture, child is taken above than the parent during the left rotation)
+// if you are assuming child is above before rotation then after rotation the child will go below the parent hence the height of child must be updated first;
+    // public Node leftRotate(Node c) {
+    //     Node p = c.right;
+    //     Node t = p.left;
+
+    //     p.left = c;
+    //     c.right = t;
+
+    //     c.height = Math.max(height(c.left), height(c.right) + 1);
+    //     p.height = Math.max(height(p.left), height(p.right) + 1);
+
+    //     return p;
+    // }
 
   public void populate(int[] nums) {
     for (int i = 0; i < nums.length; i++) {
