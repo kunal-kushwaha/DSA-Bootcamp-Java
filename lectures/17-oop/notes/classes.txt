@@ -1,58 +1,80 @@
-A class is a template for an object, and an object is an instance of a class.
-A class creates a new data type that can be used to create objects.
+### **Classes and Objects in Java**
 
-When you declare an object of a class, you are creating an instance of that class.
-Thus, a class is a logical construct. An object has physical reality. (That is, an object occupies space in memory.)
+- **Class**: A class is a template or blueprint for an object. It defines a new data type that can be used to create objects.
+- **Object**: An object is an instance of a class and represents physical reality (occupies space in memory).
+  
+#### **Key Properties of Objects**
+1. **State**: Represents the data (attributes) of the object.
+2. **Identity**: Uniquely distinguishes one object from another (usually where it's stored in memory).
+3. **Behavior**: Describes what operations (methods) can be performed on the object.
 
-Objects are characterized by three essential properties: state, identity, and behavior.
-The state of an object is a value from its data type. The identity of an object distinguishes one object from another.
-It is useful to think of an object’s identity as the place where its value is stored in memory.
-The behavior of an object is the effect of data-type operations.
+---
 
-The dot operator links the name of the object with the name of an instance variable.
-Although commonly referred to as the dot operator, the formal specification for Java categorizes the . as a separator.
-The 'new' keyword dynamically allocates(that is, allocates at run time)memory for an object & returns a reference to it.
-This reference is, more or less, the address in memory of the object allocated by new.
-This reference is then stored in the variable.
-Thus, in Java, all class objects must be dynamically allocated.
+### **Declaration and Instantiation**
 
-Box mybox; // declare reference to object
-     mybox = new Box(); // allocate a Box object
-The first line declares mybox as a reference to an object of type Box. At this point, mybox does not yet refer to an
-actual object. The next line allocates an object and assigns a reference to it to mybox. After the second line executes,
-you can use mybox as if it were a Box object. But in reality, mybox simply holds, in essence, the memory address of the
-actual Box object.
-The key to Java’s safety is that you cannot manipulate references as you can actual pointers.
-Thus, you cannot cause an object reference to point to an arbitrary memory location or manipulate it like an integer.
+- **Declaration**:  
+  ```java
+  Box mybox; // Declare reference to object
+  ```
+  Here, `mybox` is a reference to an object of type `Box`. It does not yet refer to an actual object.
+  
+- **Instantiation**:  
+  ```java
+  mybox = new Box(); // Allocate a Box object
+  ```
+  This line allocates memory for a `Box` object using the `new` keyword and assigns a reference to `mybox`.
 
-A Closer Look at new:
-classname class-var = new classname ( );
-Here, class-var is a variable of the class type being created. The classname is the name of the class that is being
-instantiated. The class name followed by parentheses specifies the constructor for the class. A constructor defines
-what occurs when an object of a class is created.
+#### **Memory Allocation with `new`**
+- The **new** keyword allocates memory dynamically (at runtime) for an object and returns a reference to it.
+- The reference is stored in a variable (in this case, `mybox`), which holds the memory address of the object.
+  
+  ```java
+  classname class-var = new classname();
+  ```
+  - **class-var**: A variable of the class type being created.
+  - **classname()**: Constructor of the class, invoked when an object is instantiated.
 
-You might be wondering why you do not need to use new for such things as integers or characters.
-The answer is that Java’s primitive types are not implemented as objects.
-Rather, they are implemented as “normal” variables.
-This is done in the interest of efficiency.
+---
 
-It is important to understand that new allocates memory for an object during run time.
+### **Primitive Types vs Objects**
+- **Primitive Types**: Such as `int` and `char` are not objects in Java. They are implemented as normal variables for efficiency and do not require `new` for instantiation.
+  
+---
 
-Box b1 = new Box();
-Box b2 = b1;
-b1 and b2 will both refer to the same object. The assignment of b1 to b2 did not allocate any memory or copy any part
-of the original object. It simply makes b2 refer to the same object as does b1. Thus, any changes made to the object
-through b2 will affect the object to which b1 is referring, since they are the same object.
-When you assign one object reference variable to another object reference variable, you are not creating a copy of the
-object, you are only making a copy of the reference.
+### **Object References and Assignment**
 
-int square(int i){
-    return i * i;
-}
-A parameter is a variable defined by a method that receives a value when the method is called. For example,
-in square( int i), i is a parameter. An argument is a value that is passed to a method when it is invoked.
-For example, square(100) passes 100 as an argument. Inside square( ), the parameter i receives that value.
+- Example:
+  ```java
+  Box b1 = new Box();
+  Box b2 = b1;
+  ```
+  - **b1** and **b2** both refer to the **same object**. No new memory is allocated for `b2`, and changes made through `b2` will affect the object referred to by `b1`.
 
-NOTE:
-Bus bus = new Bus();
-lhs(reference i.e. bus) is looked by compiler & rhs (object i.e. new Bus()) is looked by jvm
+---
+
+### **Method Parameters**
+- **Parameter**: A variable defined in a method that receives a value during method invocation.
+  
+  Example:
+  ```java
+  int square(int i) {
+      return i * i;
+  }
+  ```
+  - **i** is a parameter in the `square(int i)` method.
+
+- **Argument**: The actual value passed when invoking the method. In `square(100)`, `100` is the argument.
+
+---
+
+### **Note on Object Creation**
+- When creating an object:
+  ```java
+  Bus bus = new Bus();
+  ```
+  - **LHS (Left-hand side)**: `bus` (the reference) is checked by the **compiler**.
+  - **RHS (Right-hand side)**: `new Bus()` (the object creation) is handled by the **JVM**.
+
+--- 
+
+This structure captures the essential concepts of classes, objects, memory allocation, and method parameters in Java.
