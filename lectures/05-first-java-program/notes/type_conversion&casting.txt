@@ -15,7 +15,7 @@ than an int. This kind of conversion is sometimes called a narrowing conversion,
 value narrower so that it will fit into the target type.
 
 For example, the following fragment casts an int to a byte. If the integer’s value is larger than the range of a byte,
-it will be reduced modulo (the remainder of an integer division by the) byte’s range.
+it will be reduced modulo (the remainder of an integer division by the byte’s range).
 int a;
 byte b;
 b = (byte) a;
