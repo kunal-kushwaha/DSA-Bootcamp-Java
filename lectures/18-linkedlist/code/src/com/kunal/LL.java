@@ -29,6 +29,7 @@ public class LL {
         Node node = new Node(val);
         tail.next = node;
         tail = node;
+        tail=newnode;
         size++;
     }
 
