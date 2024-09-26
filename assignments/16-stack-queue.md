@@ -1,21 +1,21 @@
 # Problems
 
 ## Easy
-- [Done][Next greater element I](https://leetcode.com/problems/next-greater-element-i/) `leetcode` 
-- [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) `leetcode` [Done]
+- [Done] [Next greater element I](https://leetcode.com/problems/next-greater-element-i/) `leetcode` 
+- [Done] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) `leetcode`
 - [Min Stack](https://leetcode.com/problems/min-stack/) `leetcode`
-- [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) `leetcode` [Done]
-- [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) `leetcode` [Done]
+- [Done] [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) `leetcode`
+- [Done] [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) `leetcode`
 - [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) `leetcode`
 - [Reverse First K elements of Queue](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1/) `GFG`
 - [Delete middle element of a stack](https://practice.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1/) `GFG`
 - [Inorder Traversal (Iterative)](https://practice.geeksforgeeks.org/problems/inorder-traversal-iterative/1/) `GFG`
 - [Preorder traversal (Iterative)](https://practice.geeksforgeeks.org/problems/preorder-traversal-iterative/1/) `GFG`
-- [Flood fill](https://leetcode.com/problems/flood-fill/) `leetcode` [Done]
-- [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) `leetcode` [Done]
+- [Done] [Flood fill](https://leetcode.com/problems/flood-fill/) `leetcode`
+- [Done] [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) `leetcode`
 ## Medium
 - [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/) `leetcode`
-- [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) `leetcode` [Done]
+- [Done] [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) `leetcode`
 - [Decode String](https://leetcode.com/problems/decode-string/) `leetcode`
 - [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) `leetcode`
 - [132 Pattern](https://leetcode.com/problems/132-pattern/) `leetcode`
