@@ -21,7 +21,7 @@
 
 ## Medium
 
-- [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) `leetcode`
+- [Done] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) `leetcode`
 - [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) `leetcode`
 - [Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/) `leetcode`
 - [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) `leetcode`
@@ -47,7 +47,7 @@
 - [Frog Position After T Seconds](https://leetcode.com/problems/frog-position-after-t-seconds/) `leetcode`
 - [Height of Binary Tree After Subtree Removal Queries](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/) `leetcode`
 - [Collect Coins in a Tree](https://leetcode.com/problems/collect-coins-in-a-tree/) `leetcode`
-- [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) `leetcode`
+- [Done] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) `leetcode`
 - [Tree of Coprimes](https://leetcode.com/problems/tree-of-coprimes/) `leetcode`
 - [Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/) `leetcode`
 - [Minimize the Total Price of the Trips](https://leetcode.com/problems/minimize-the-total-price-of-the-trips/) `leetcode`
