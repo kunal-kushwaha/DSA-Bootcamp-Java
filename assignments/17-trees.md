@@ -13,8 +13,8 @@
 - [Done] [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) `leetcode`
 - [Done] [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) `leetcode`
 - [Done] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) `leetcode`
-- [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) `leetcode`
-- [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) `leetcode`
+- [Done] [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) `leetcode`
+- [Done] [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) `leetcode`
 - [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) `leetcode`
 - [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) `leetcode`
 - [Done] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) `leetcode`
