@@ -14,5 +14,6 @@ public class Inputs {
 
 //        float marks = input.nextFloat();
 //        System.out.println(marks);
+//        input.close();
     }
 }
