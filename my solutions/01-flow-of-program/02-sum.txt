@@ -1,0 +1,5 @@
+Start
+Input a, b
+sum = a + b
+print sum
+End

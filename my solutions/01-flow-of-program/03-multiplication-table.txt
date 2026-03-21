@@ -1,0 +1,6 @@
+Start
+Input n
+For i = 1 to 10:
+    mul = n * i
+    print i + "*" + n + "=" + mul
+End

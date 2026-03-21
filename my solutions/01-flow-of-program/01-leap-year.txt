@@ -1,0 +1,12 @@
+Start
+Input year
+If year % 100 == 0:
+    If year % 400 == 0:
+        print "Leap Year"
+    Else:
+        print "Not a Leap Year"
+Else If year % 4 == 0:
+    print "Leap Year"
+Else:
+    print "Not a Leap Year"
+End

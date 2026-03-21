@@ -1,0 +1,15 @@
+Start
+input a, b
+originalA = a
+originalB = b
+while b != 0:
+    temp = b
+    b = a % b
+    a = temp
+HCF = a 
+
+LCM = (originalA * originalB) / HCF
+
+print HCF
+print LCM
+End
