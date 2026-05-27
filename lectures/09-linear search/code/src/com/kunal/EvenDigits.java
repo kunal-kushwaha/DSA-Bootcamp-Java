@@ -33,7 +33,7 @@ public class EvenDigits {
         if (num < 0) {
             num = num * -1;
         }
-        return (int)(Math.log10(num)) + 1;
+        return (int)(Math.log10(num)) + 1;  //return the number of letters-1 so, we add 1 to it, to make it equal to the length of the number 
     }
 
     // count number of digits in a number
