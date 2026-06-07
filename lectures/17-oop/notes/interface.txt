@@ -5,7 +5,7 @@ Instead we have java interfaces. they have abstract functions (no body of functi
 
 Interface is like class but not completely. it is like an abstract class.
 By default functions are public and abstract in interface.
-variables are final and static by default in interface.
+variables are final and static by default in interface. as interfaces dont have a constructor if you define non final fields they need to be intialized which is not possible in interface hence interfaces have static final variables.
 
 Interfaces specify only what the class is doing, not how it is doing it.
 The problem with MULTIPLE INHERITANCE is that two classes may define different ways of doing the same thing,
