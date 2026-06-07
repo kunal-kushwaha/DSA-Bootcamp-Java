@@ -88,11 +88,11 @@ class HuffmanCoder {
     return ans;
   }
 
-  public String decode(String codedString) {
+  public String decode(String encodedString) {
     String key = "";
     String ans = "";
-    for(int i=0; i<codedString.length(); i++) {
-      key = key + codedString.charAt(i);
+    for(int i=0; i<encodedString.length(); i++) {
+      key = key + encodedString.charAt(i);
       if(decoder.containsKey(key)) {
         ans = ans + decoder.get(key);
         key = "";
