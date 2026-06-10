@@ -1,3 +1,4 @@
+A class is a named group of properties and functions.  ( so if i want to group these properties and functions into a single entitiy I can do this via classes. ) 
 A class is a template for an object, and an object is an instance of a class.
 A class creates a new data type that can be used to create objects.
 
