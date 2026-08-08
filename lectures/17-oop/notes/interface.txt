@@ -1,124 +1,261 @@
-Multiple inheritance is not available in java.
-(Same functions in 2 classes it will skip that hence no multiple inheritance)
+# Java Inheritance, `super`, and `final`
 
-Instead we have java interfaces. they have abstract functions (no body of functions)
+This note explains the basics of inheritance in Java, how constructors work when inheritance is involved, and how the `super` and `final` keywords are used.
 
-Interface is like class but not completely. it is like an abstract class.
-By default functions are public and abstract in interface.
-variables are final and static by default in interface.
+---
 
-Interfaces specify only what the class is doing, not how it is doing it.
-The problem with MULTIPLE INHERITANCE is that two classes may define different ways of doing the same thing,
-and the subclass can't choose which one to pick.
+## 1. Basics of Inheritance
 
-Key difference between a class and an interface: a class can maintain state information
-(especially through the use of instance variables), but an interface cannot.
+Inheritance allows a child class to reuse the properties and methods of a parent class. In Java, we use the `extends` keyword for this.
 
-Using interface, you can specify a set of methods that can be implemented by one or more classes.
-Although they are similar to abstract classes, interfaces have an additional capability:
-A class can implement more than one interface. By contrast, a class can only inherit a single superclass
-(abstract or otherwise).
-
-Using the keyword interface, you can fully abstract a class’ interface from its implementation.
-That is, using interface, you can specify what a class must do, but not how it does it.
-
-Interfaces are syntactically similar to classes, but they lack instance variables, and, as a general rule,
-their methods are declared without any body.
-
-By providing the interface keyword, Java allows you to fully utilize the “one interface, multiple methods”
-aspect of polymorphism.
-
-NOTE: Interfaces are designed to support dynamic method resolution at run time.
-Normally, in order for a method to be called from one class to another, both classes need to be present at compile time
-so the Java compiler can check to ensure that the method signatures are compatible. This requirement by itself makes for
-a static and nonextensible classing environment. Inevitably in a system like this, functionality gets pushed up higher
-and higher in the class hierarchy so that the mechanisms will be available to more and more subclasses. Interfaces are
-designed to avoid this problem. They disconnect the definition of a method or set of methods from the inheritance
-hierarchy. Since interfaces are in a different hierarchy from classes, it is possible for classes that are unrelated
-in terms of the class hierarchy to implement the same interface. This is where the real power of interfaces is realized.
-
-Beginning with JDK 8, it is possible to add a default implementation to an interface method.
-Thus, it is now possible for interface to specify some behavior.However, default methods constitute what is, in essence,
-a special-use feature, and the original intent behind interface still remains.
-
-Variables can be declared inside of interface declarations.
-NOTE: They are implicitly final and static, meaning they cannot be changed by the implementing class.
-They must also be initialized. All methods and variables are implicitly public.
-
-NOTE: The methods that implement an interface must be declared public. Also, the type signature of the implementing
-method must match exactly the type signature specified in the interface definition.
-
-It is both permissible and common for classes that implement interfaces to define additional members of their own.
-
-NOTE:
-You can declare variables as object references that use an interface rather than a class type.
-This process is similar to using a superclass reference to access a subclass object.
-Any instance of any class that implements the declared interface can be referred to by such a variable.
-When you call a method through one of these references, the correct version will be called based on the actual instance
-of the interface being referred to. Called at run time by the type of object it refers to.
-The method to be executed is looked up dynamically at run time, allowing classes to be created later than the code which
-calls methods on them.
-The calling code can dispatch through an interface without having to know anything about the “callee.”
-
-CAUTION: Because dynamic lookup of a method at run time incurs a significant overhead when compared with the normal
-method invocation in Java, you should be careful not to use interfaces casually in performance-critical code.
-
-
-Nested Interfaces:
-
-An interface can be declared a member of a class or another interface. Such an interface
-is called a member interface or a nested interface. A nested interface can be declared as public, private, or protected.
-This differs from a top-level interface, which must either be declared as public or use the default access level.
-
-// This class contains a member interface.
-class A {
-  // this is a nested interface
-  public interface NestedIF {
-    boolean isNotNegative(int x);
-  }
+```java
+class SubclassName extends SuperclassName {
+    // Body of the subclass
 }
-// B implements the nested interface.
-class B implements A.NestedIF {
-  public boolean isNotNegative(int x) {
-    return x < 0 ? false: true;
-  }
+```
+
+### Important Rules
+
+* **Single Inheritance:** A class can extend only one other class. Java does not allow a class to directly extend multiple classes.
+* **No Self-Inheritance:** A class cannot extend itself.
+* **Private Members:** A child class cannot directly access the parent's `private` variables or methods.
+
+---
+
+## 2. Parent Reference and Child Object
+
+A reference variable of the parent class can point to an object of the child class.
+
+```java
+Superclass ref = new Subclass();
+```
+
+For example:
+
+```java
+// plainbox is a parent-class reference
+// weightbox is a child-class object
+
+Superclass ref = new Subclass();
+```
+
+### The Important Rule
+
+What you can access depends on the **type of the reference variable**, not the actual object.
+
+So, if `ref` is declared as `Superclass`, you can only access the methods and variables available in `Superclass`.
+
+The child object may have additional methods, but you cannot access those methods directly through the parent reference.
+
+---
+
+## 3. The `super` Keyword
+
+The `super` keyword is mainly used in two situations.
+
+### Use 1: Calling the Parent Constructor
+
+`super()` is used to call a constructor of the parent class.
+
+It must be the **first statement** inside the child class constructor.
+
+```java
+class BoxWeight extends Box {
+
+    BoxWeight(BoxWeight ob) {
+        super(ob); // Calls the parent class constructor
+        this.weight = ob.weight;
+    }
 }
-class NestedIFDemo {
-  public static void main(String args[]) {
-    // use a nested interface reference
-    A.NestedIF nif = new B();
-    if(nif.isNotNegative(10))
-      System.out.println("10 is not negative");
-    if(nif.isNotNegative(-12))
-      System.out.println("this won't be displayed");
-  }
+```
+
+Here, `super(ob)` passes the object to the constructor of the `Box` class.
+
+---
+
+### Use 2: Accessing Parent Members
+
+`super` can also be used to access a variable or method from the parent class.
+
+This is especially useful when the parent and child classes have variables with the same name.
+
+```java
+super.member;
+```
+
+Here, `member` can be a variable or a method belonging to the parent class.
+
+You can think of it like this:
+
+* `this` → refers to the current object
+* `super` → refers to the parent-class part of the object
+
+---
+
+## 4. Constructor Execution Order
+
+When inheritance is involved, the **parent constructor runs first**, and then the child constructor runs.
+
+For example:
+
+```java
+class Parent {
+    Parent() {
+        System.out.println("Parent constructor");
+    }
 }
 
-Interfaces Can Be Extended:
-One interface can inherit another by use of the keyword extends. The syntax is the same as for inheriting classes.
-Any class that implements an interface must implement all methods required by that interface, including any that are
-inherited from other interfaces.
+class Child extends Parent {
+    Child() {
+        System.out.println("Child constructor");
+    }
+}
+```
 
+When we create:
 
-Default Interface Methods (aka extension method) :
-A primary motivation for the default method was to provide a means by which interfaces could be expanded without breaking existing code.
-i.e. suppose you add another method without body in an interface. Then you will have to provide the body of that method
-in all the classes that implement that interface.
-Ex:
- default String getString() {
-    return "Default String";
- }
+```java
+Child obj = new Child();
+```
 
-For example, you might have a class that implements two interfaces.
-If each of these interfaces provides default methods, then some behavior is inherited from both.
-# In all cases, a class implementation takes priority over an interface default implementation.
-# In cases in which a class implements two interfaces that both have the same default method, but the class does not
-override that method, then an error will result.
-# In cases in which one interface inherits another, with both defining a common default method, the inheriting
-interface’s version of the method takes precedence.
+The output will be:
 
-NOTE: static interface methods are not inherited by either an implementing class or a subinterface.
-i.e. static interface methods should have a body! They cannot be abstract. 
+```text
+Parent constructor
+Child constructor
+```
 
-NOTE : when overriding methods, the access modifier should be same or better i.e. if in Parent Class it was protected, then then overridden should be either protected or public.
+### Why does this happen?
+
+1. The parent class needs to initialize its own part of the object first.
+2. The parent constructor runs before the child constructor.
+3. If you don't write `super()` yourself, Java automatically inserts a call to the parent's **no-argument constructor**.
+4. If the parent only has a parameterized constructor, the child must explicitly call it using `super(arguments)`.
+
+---
+
+## 5. The `final` Keyword
+
+The `final` keyword is mainly used to prevent something from being changed, overridden, or inherited.
+
+It can be used with variables, methods, and classes.
+
+### 1. `final` Variable
+
+A `final` variable cannot be reassigned after it has been given a value.
+
+```java
+final int MAX = 100;
+```
+
+You cannot later do:
+
+```java
+MAX = 200; // Error
+```
+
+This is commonly used when creating constants.
+
+---
+
+### 2. `final` Method
+
+A method marked as `final` cannot be overridden by a child class.
+
+```java
+class Parent {
+
+    final void show() {
+        System.out.println("Hello");
+    }
+}
+```
+
+A child class cannot create another version of `show()`.
+
+> Note: `final` methods can help the JVM optimize calls in some situations, but don't use `final` simply because you expect a performance improvement.
+
+---
+
+### 3. `final` Class
+
+A `final` class cannot be extended by another class.
+
+```java
+final class Parent {
+    // class body
+}
+```
+
+This is not allowed:
+
+```java
+class Child extends Parent {
+    // Error
+}
+```
+
+Also remember:
+
+* A class cannot be both `abstract` and `final`.
+* `abstract` means the class is designed to be extended.
+* `final` means the class cannot be extended.
+
+So the two ideas contradict each other.
+
+---
+
+## 6. Quick Notes to Remember
+
+### Static Methods
+
+Static methods are associated with the class rather than individual objects.
+
+They can appear to be inherited, but they are **not overridden** like normal instance methods.
+
+If a child class defines a static method with the same signature as the parent, the method that gets called depends on the **reference type**, not the actual object.
+
+---
+
+### Static Interface Methods
+
+Static methods declared inside an interface are **not inherited** by implementing classes.
+
+They should be called using the interface name.
+
+```java
+InterfaceName.methodName();
+```
+
+---
+
+### Variables and Polymorphism
+
+Polymorphism works with **methods**, not instance variables.
+
+Instance variables cannot be overridden. If a child class declares a variable with the same name as one in the parent class, the variables are simply **hidden/shadowed**.
+
+So remember:
+
+> **Methods → overridden**
+> **Variables → hidden/shadowed**
+
+---
+
+## Quick Revision
+
+| Concept            | Remember                       |
+| ------------------ | ------------------------------ |
+| `extends`          | Used for inheritance           |
+| `super()`          | Calls the parent constructor   |
+| `super.variable`   | Accesses the parent's variable |
+| `super.method()`   | Calls the parent's method      |
+| Parent constructor | Runs before child constructor  |
+| `final` variable   | Cannot be reassigned           |
+| `final` method     | Cannot be overridden           |
+| `final` class      | Cannot be extended             |
+| Static method      | Not overridden                 |
+| Instance variable  | Not overridden                 |
+| Polymorphism       | Mainly applies to methods      |
+
 
