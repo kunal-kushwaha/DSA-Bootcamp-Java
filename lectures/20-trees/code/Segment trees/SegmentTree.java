@@ -99,7 +99,10 @@ class SegmentTree {
 
   // update
   public void update(int index, int value) {
-    this.root.data = update(this.root, index, value);
+    if (index < root.startInterval || index > root.endInterval) {
+       return;
+    }
+    this.root.data = update(root, index, value);
   }
   
   private int update(Node node, int index, int data) {
