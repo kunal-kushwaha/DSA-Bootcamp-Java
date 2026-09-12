@@ -78,34 +78,44 @@ class SegmentTree {
     return this.query(this.root, qsi, qei);
   }
   private int query(Node node, int qsi, int qei) {
+    // node is completely lying inside query
+    //example startInterval 3, endInterval 5and qsi 4 qei 7
     if(node.startInterval >= qsi && node.endInterval <= qei) {
-      // node is completely lying inside query
       return node.data;
-    } else if (node.startInterval > qei || node.endInterval < qsi) {
-      // completely outside
+    } 
+
+    // completely outside
+    if (node.startInterval > qei || node.endInterval < qsi) {
       return 0;
-    } else {
-      return this.query(node.left, qsi, qei) + this.query(node.right, qsi, qei);
     }
+
+    int left = query(node.left ,qsi,qei);
+    int right = query(node.right,qsi,qei);
+
+    return left+right; 
+       
+    
   }
 
   // update
   public void update(int index, int value) {
     this.root.data = update(this.root, index, value);
   }
-  private int update(Node node, int index, int value) {
-    if (index >= node.startInterval&& index <= node.endInterval){
-      if(index == node.startInterval && index == node.endInterval) {
-        node.data = value;
+  
+  private int update(Node node, int index, int data) {
+        if (node.startInterval == node.endInterval) {
+            node.data = data;
+            return data;
+        }
+        int mid = (node.startInterval + node.endInterval) / 2;
+        if (index <= mid) {
+            update(node.left, index, data);
+        } else {
+            update(node.right, index, data);
+        }
+
+        node.data = node.left.data + node.right.data;
         return node.data;
-      } else {
-        int leftAns = update(node.left, index, value);
-        int rightAns = update(node.right, index, value);
-        node.data = leftAns + rightAns;
-        return node.data;
-      }
     }
-    return node.data;
-  }
   
 }
