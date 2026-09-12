@@ -78,8 +78,8 @@ class SegmentTree {
     return this.query(this.root, qsi, qei);
   }
   private int query(Node node, int qsi, int qei) {
-    // node is completely lying inside query
-    //example startInterval 3, endInterval 5and qsi 4 qei 7
+    // Node [3,5], Query [2,7]
+    // Entire node is inside query
     if(node.startInterval >= qsi && node.endInterval <= qei) {
       return node.data;
     } 
