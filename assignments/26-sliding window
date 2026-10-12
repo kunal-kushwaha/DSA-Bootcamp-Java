@@ -1,0 +1,25 @@
+# Sliding Window
+
+### Easy
+
+1. [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
+2. [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
+3. [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/)
+
+### Medium
+
+1. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+2. [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
+3. [Permutation in String](https://leetcode.com/problems/permutation-in-string/)
+4. [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+5. [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+6. [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
+7. [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
+8. [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)
+
+### Hard
+
+1. [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+2. [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
+3. [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
+4. [Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/)
